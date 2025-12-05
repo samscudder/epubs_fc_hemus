@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>O Cair da Noite</dc:title>
+		<dc:identifier id="bookid">hemus_o_cair_da_noite_v001</dc:identifier>
+		<dc:creator>Isaac Asimov</dc:creator>
+		<dc:publisher>Hemus</dc:publisher>
+		<dc:date>1981</dc:date>
+		<dc:language>pt-br</dc:language>
+		<meta name="cover" content="cover.jpg"/>
+		<meta property="dcterms:modified">2025-12-01T00:00:01Z</meta>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="css/book.css" media-type="text/css"/>
+		<item id="cover.jpg" href="images/cover.jpg" media-type="image/jpeg"/>
+		<item id="rearcover.jpg" href="images/rearcover.jpg" media-type="image/jpeg"/>
+		<item id="hemus.jpg" href="images/hemus.jpg" media-type="image/jpeg"/>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="rearcover" href="rearcover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item id="halftitle" href="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c01" href="c01.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c02" href="c02.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c03" href="c03.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c04" href="c04.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c05" href="c05.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c06" href="c06.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c07" href="c07.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c08" href="c08.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c09" href="c09.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c10" href="c10.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c11" href="c11.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c12" href="c12.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c13" href="c13.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c14" href="c14.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c15" href="c15.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c16" href="c16.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c17" href="c17.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c18" href="c18.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c19" href="c19.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c20" href="c20.xhtml" media-type="application/xhtml+xml"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no"/>
+		<itemref idref="rearcover"/>
+		<itemref idref="halftitle"/>
+		<itemref idref="titlepage"/>
+		<itemref idref="copyright"/>
+		<itemref idref="toc"/>
+		<itemref idref="dedication"/>
+		<itemref idref="c01"/>
+		<itemref idref="c02"/>
+		<itemref idref="c03"/>
+		<itemref idref="c04"/>
+		<itemref idref="c05"/>
+		<itemref idref="c06"/>
+		<itemref idref="c07"/>
+		<itemref idref="c08"/>
+		<itemref idref="c09"/>
+		<itemref idref="c10"/>
+		<itemref idref="c11"/>
+		<itemref idref="c12"/>
+		<itemref idref="c13"/>
+		<itemref idref="c14"/>
+		<itemref idref="c15"/>
+		<itemref idref="c16"/>
+		<itemref idref="c17"/>
+		<itemref idref="c18"/>
+		<itemref idref="c19"/>
+		<itemref idref="c20"/>
+	</spine>
+	<guide>
+		<reference type="cover" title="Cover" href="cover.xhtml"/>
+		<reference type="toc" title="Table of Contents" href="toc.xhtml"></reference>
+		<reference type="text" title="Rear Cover" href="rearcover.xhtml"></reference>
+	</guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="hemus_o_cair_da_noite_v001"/>
+		<meta name="dtb:depth" content="2"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>O Cair da Noite</text></docTitle>
+	<navMap>
+		<navPoint id="rearcover" playOrder="1"><navLabel><text>Contracapa</text></navLabel><content src="rearcover.xhtml"/></navPoint>
+		<navPoint id="halftitle" playOrder="2"><navLabel><text>Ante-rosto</text></navLabel><content src="halftitle.xhtml"/></navPoint>
+		<navPoint id="titlepage" playOrder="3"><navLabel><text>Folha de Rosto</text></navLabel><content src="titlepage.xhtml"/></navPoint>
+		<navPoint id="copyright" playOrder="4"><navLabel><text>Copyright</text></navLabel><content src="copyright.xhtml"/></navPoint>
+		<navPoint id="dedication" playOrder="5"><navLabel><text>Dedicatória</text></navLabel><content src="dedication.xhtml"/></navPoint>
+		<navPoint id="c01" playOrder="6"><navLabel><text>O Cair da Noite</text></navLabel><content src="c01.xhtml"/></navPoint>
+		<navPoint id="c02" playOrder="7"><navLabel><text>Manchas Verdes</text></navLabel><content src="c02.xhtml"/></navPoint>
+		<navPoint id="c03" playOrder="8"><navLabel><text>A Anfitriã</text></navLabel><content src="c03.xhtml"/></navPoint>
+		<navPoint id="c04" playOrder="9"><navLabel><text>O Homem em Cultura</text></navLabel><content src="c04.xhtml"/></navPoint>
+		<navPoint id="c05" playOrder="10"><navLabel><text>O Tubo da Morte</text></navLabel><content src="c05.xhtml"/></navPoint>
+		<navPoint id="c06" playOrder="11"><navLabel><text>Por Uma Boa Causa...</text></navLabel><content src="c06.xhtml"/></navPoint>
+		<navPoint id="c07" playOrder="12"><navLabel><text>E Se...</text></navLabel><content src="c07.xhtml"/></navPoint>
+		<navPoint id="c08" playOrder="13"><navLabel><text>Sally</text></navLabel><content src="c08.xhtml"/></navPoint>
+		<navPoint id="c09" playOrder="14"><navLabel><text>Moscas</text></navLabel><content src="c09.xhtml"/></navPoint>
+		<navPoint id="c10" playOrder="15"><navLabel><text>Ninguém Aqui, Só Nós...</text></navLabel><content src="c10.xhtml"/></navPoint>
+		<navPoint id="c11" playOrder="16"><navLabel><text>Um Dia Tão Belo</text></navLabel><content src="c11.xhtml"/></navPoint>
+		<navPoint id="c12" playOrder="17"><navLabel><text>O Fura-Greves</text></navLabel><content src="c12.xhtml"/></navPoint>
+		<navPoint id="c13" playOrder="18"><navLabel><text>Ponha o Pino A no Furo B</text></navLabel><content src="c13.xhtml"/></navPoint>
+		<navPoint id="c14" playOrder="19"><navLabel><text>O Feiticeiro Moderno</text></navLabel><content src="c14.xhtml"/></navPoint>
+		<navPoint id="c15" playOrder="20"><navLabel><text>Até a Quarta Geração</text></navLabel><content src="c15.xhtml"/></navPoint>
+		<navPoint id="c16" playOrder="21"><navLabel><text>O Que É Essa Coisa Chamada Amor?</text></navLabel><content src="c16.xhtml"/></navPoint>
+		<navPoint id="c17" playOrder="22"><navLabel><text>A Máquina Que Ganhou a Guerra</text></navLabel><content src="c17.xhtml"/></navPoint>
+		<navPoint id="c18" playOrder="23"><navLabel><text>Meu Filho, o Físico</text></navLabel><content src="c18.xhtml"/></navPoint>
+		<navPoint id="c19" playOrder="24"><navLabel><text>Olhos Fazem Mais Do Que Ver</text></navLabel><content src="c19.xhtml"/></navPoint>
+		<navPoint id="c20" playOrder="25"><navLabel><text>Segregacionista</text></navLabel><content src="c20.xhtml"/></navPoint>
+	</navMap>
+</ncx>
