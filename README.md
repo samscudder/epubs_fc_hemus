@@ -1,2 +1,131 @@
 # epubs_fc_hemus
-Antigos livros de ficção científica da Hemus
+
+![](D:\fontes\epubs_fc_hemus\docs\fc_hemus.jpg)
+
+## O projeto
+
+A **Hemus - Editora e Livraria**, nas décadas de 1970 e 1980 traduziu e publicou vários livros de ficção científica, a maioria de Isaac Asimov. As traduções foram realizadas por várias pessoas diferentes, e na época ainda não era usado o ISBN no Brasil para identificar livros. Algumas das traduções desses clássicos tem mais de 50 anos, e, se encontrados, estão em estado bem desgastado.
+
+Nas versões da Hemus, alguns dos títulos foram alterados. Por exemplo, *The Caves of Steel* virou *Caça aos Robôs*.
+
+A **Hemus** foi sucedida pela **Editora Record**, que inclusive lançou uma versão nacional da *Isaac Asimov Magazine* com 25 edições publicadas. Atualmente a **Aleph** tem publicado novas traduções das séries Império Galático, Robôs e Fundação de Isaac Asimov.
+
+Em Novembro de 2025, comecei a scanear e preservar digitalmente as versões da Hemus, para ler no meu Kindle. Comecei com os livros do Asimov, e se conseguir, continuarei com os outros livros.
+
+Estou digitalizando com um scanner de mesa OpticBook 3800L, e usando o software que acompanhou o scanner (Abbyy Fine Reader 12 Sprint) para fazer o OCR.
+
+Estou fazendo versões em EPUB, porque podem ser facilmente editados e convertidos para outros formatos. Para gerar os epub, basta entrar na pasta `src` e rodar o script de PowerShell `build.ps1`.
+
+A melhor forma de ler no Kindle é pegar o EPUB e usar o recurso Send to Kindle (https://www.amazon.com.br/sendtokindle), que será automaticamente convertido e enviado para seu Kindle. Caso tenha ativado o recursos de ver a capa do livro quando desligar o Kindle, funciona corretamente, assim como fontes embarcadas no livro.
+
+Existe um software gratuito que pode fazer a conversão, mas não tenho tido resultados tão bons, além do fato dele adicionar um monte de porcaria no código fonte do livro, e de você precisar transferir para o Kindle por esse software para funcionar a capa do livro.
+
+## Relação de Livros
+
+No final dos livros existe uma relação de títulos, que foi usado para compilar esta lista. Nas informações dos livros não existe uma data de publicação da edição (ou das várias edições) nacionais, e alguns dos livros tiveram capas diferentes durante sua existência.
+
+![](D:\fontes\epubs_fc_hemus\docs\variacoes_capas.jpg)
+
+Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por autor e título :
+
+| Título                         | Autor                 | Ano de<br />Publicação | Título Original                              | Ano de<br />publicação<br />Original |
+| ------------------------------ | --------------------- | ---------------------- | -------------------------------------------- | ------------------------------------ |
+| 827 Era Galáctica              | Isaac Asimov          |                        | Pebble in the Sky                            | 1950                                 |
+| A Terra Tem Espaço             | Isaac Asimov          |                        | Earth  is Room Enough                        | 1957                                 |
+| As Cavernas de Marte           | Isaac Asimov          |                        | David Starr, Space Ranger                    | 1952                                 |
+| As Correntes do Espaço         | Isaac Asimov          | 1981                   | The Currents of Space                        | 1952                                 |
+| Caça aos Robôs                 | Isaac Asimov          |                        | The Caves of Steel                           | 1954                                 |
+| Despertar dos Deuses           | Isaac Asimov          |                        | The Gods Themselves                          | 1972                                 |
+| Fim da Eternidade              | Isaac Asimov          |                        | The End of Eternity                          | 1955                                 |
+| Fundação                       | Isaac Asimov          |                        | Foundation Trilogy                           | 1951-1953                            |
+| Fundação II                    | Isaac Asimov          |                        | Foundation’s Edge                            | 1982                                 |
+| Júpiter à Venda                | Isaac Asimov          |                        | Buy Jupiter                                  | 1975                                 |
+| Nós Robôs                      | Isaac Asimov          |                        | The Complete Robot                           | 1982                                 |
+| Nós, os Marcianos              | Isaac Asimov          |                        | The Martian Way and Other Stories            | 1955                                 |
+| O Cair da Noite                | Isaac Asimov          |                        | Nightfall and Other Stories                  | 1969                                 |
+| O Futuro Começou               | Isaac Asimov          | 1978                   | The Early Asimov                             | 1972                                 |
+| O Grande Sol de Mercúrio       | Isaac Asimov          |                        | Lucky Starr and the Big Sun of Mercury       | 1956                                 |
+| O Homem Bicentenário           | Isaac Asimov          | 1980                   | The Bicentennial Man and Other Stories       | 1976                                 |
+| O Robô de Júpiter              | Isaac Asimov          |                        | Lucky Starr and the Moons of Jupiter         | 1957                                 |
+| Os Anéis de Saturno            | Isaac Asimov          |                        | Lucky Starr and the Rings of Saturn          | 1958                                 |
+| Os Oceanos de Vênus            | Isaac Asimov          | 1980                   | Lucky Starr and the Oceans of Venus          | 1954                                 |
+| Os Robôs                       | Isaac Asimov          |                        | The Naked Sun                                | 1957                                 |
+| Vigilante das Estrelas         | Isaac Asimov          |                        | Lucky Starr and the Pirates of the Asteroids | 1953                                 |
+| Essas Estrelas São Nossas      | Poul Anderson         |                        | We Claim These Stars!                        | 1959                                 |
+| Guerra dos Homens Alados       | Poul Anderson         | 1978                   | War of the Wing-Men                          |                                      |
+| Luz de Outra Dimensão          | Lloyd Biggle Jr.      |                        | The Light That Never Was                     | 1972                                 |
+| 250 Séculos Após...            | James Blish           | 1972                   |                                              |                                      |
+| A Cidade Perdida de Marte      | Ray Bradbury          |                        | The Martian City                             |                                      |
+| E de Espaço                    | Ray Bradbury          |                        | S is for Space                               | 1966                                 |
+| F de  Foguete                  | Ray Bradbury          |                        | R is for Rocket                              | 1962                                 |
+| O Terceiro Planeta             | Arthur C. Clarke      |                        |                                              |                                      |
+| A Humanidade Artificial        | Edmund Cooper         |                        |                                              |                                      |
+| Cavalo-Marinho no Céu          | Edmund Cooper         |                        | Sea Horse in the Sky                         |                                      |
+| O Diabólico Cérebro Eletrônico | David Gerrold         |                        |                                              |                                      |
+| Os Homens Moleculares          | Fred e Geoffrey Hoyle |                        |                                              |                                      |
+| O Terror Rithiano              | Damon Knight          |                        | The Rithian Terror                           |                                      |
+| Os Cérebros Prateados          | Fritz Leiber          |                        | The Silver Eggheads                          |                                      |
+| Nave Escrava                   | Frederick Pohl        |                        | Slave Ship                                   |                                      |
+| Boneca do Destino              | Clifford D. Simak     |                        | Destiny Doll                                 | 1971                                 |
+| Cei, o Gigante                 | Curt Siodmak          |                        |                                              |                                      |
+| Venus Mais X                   | Theodore Sturgeon     |                        | Venus Plus X                                 | 1960                                 |
+
+## Andamento do projeto
+
+Vou atualizando este documento conforme os trabalhos evoluem. 
+
+| Título                         | Páginas | Localizado | Scan | OCR  | EPUB | Revisado |
+| ------------------------------ | ------- | ---------- | ---- | ---- | ---- | -------- |
+| 827 Era Galáctica              | 234     | ✅          | ✅    | ✅    | ✅    |          |
+| A Terra Tem Espaço             | 206     | ✅          |      |      |      |          |
+| As Cavernas de Marte           | 142     | ✅          |      |      |      |          |
+| As Correntes do Espaço         | 206     | ✅          |      |      |      |          |
+| Caça aos Robôs                 | 296     | ✅          |      |      |      |          |
+| Despertar dos Deuses           | 272     | ✅          | ✅    | ✅    |      |          |
+| Fim da Eternidade              | 248     | ✅          |      |      |      |          |
+| Fundação                       | 503     | ✅          |      |      |      |          |
+| Fundação II                    | 372     | ✅          |      |      |      |          |
+| Júpiter à Venda                | 236     | ✅          | ✅    | ✅    | ✅    |          |
+| Nós Robôs                      | 559     | ✅          |      |      |      |          |
+| Nós, os Marcianos              | 256     | ✅          | ✅    | ✅    |      |          |
+| O Cair da Noite                | 378     | ✅          | ✅    | ✅    |      |          |
+| O Futuro Começou               | 470     | ✅          |      |      |      |          |
+| O Grande Sol de Mercúrio       | 193     | ✅          |      |      |      |          |
+| O Homem Bicentenário           | 238     | ✅          | ✅    | ✅    |      |          |
+| O Robô de Júpiter              | 142     | ✅          |      |      |      |          |
+| Os Anéis de Saturno            | 234     | ✅          |      |      |      |          |
+| Os Oceanos de Vênus            | 190     | ✅          |      |      |      |          |
+| Os Robôs                       | 146     | ✅          |      |      |      |          |
+| Vigilante das Estrelas         | 264     | ✅          |      |      |      |          |
+| Essas Estrelas São Nossas      | 162     | ✅          |      |      |      |          |
+| Guerra dos Homens Alados       | 224     | ✅          |      |      |      |          |
+| Luz de Outra Dimensão          | 227     |            |      |      |      |          |
+| 250 Séculos Após...            | 136     |            |      |      |      |          |
+| A Cidade Perdida de Marte      | 218     |            |      |      |      |          |
+| E de Espaço                    |         | ✅          |      |      |      |          |
+| F de  Foguete                  |         |            |      |      |      |          |
+| O Terceiro Planeta             |         |            |      |      |      |          |
+| A Humanidade Artificial        |         |            |      |      |      |          |
+| Cavalo-Marinho no Céu          |         | ✅          |      |      |      |          |
+| O Diabólico Cérebro Eletrônico |         | ✅          |      |      |      |          |
+| Os Homens Moleculares          | 286     |            |      |      |      |          |
+| O Terror Rithiano              |         |            |      |      |      |          |
+| Os Cérebros Prateados          |         |            |      |      |      |          |
+| Nave Escrava                   |         | ✅          |      |      |      |          |
+| Boneca do Destino              |         | ✅          |      |      |      |          |
+| Cei, o Gigante                 |         | ✅          |      |      |      |          |
+| Venus Mais X                   |         | ✅          |      |      |      |          |
+
+## Erros comuns de OCR
+
+Aqui estão os erros mais comuns de OCR que foram encontrados na hora de revisar o texto, e corrigidos quando encontrados.
+
+- *Corno* no lugar de *como*
+- *Tomar* no lugar de *tornar*
+- traço (-) no lugar de travessão (—)
+- palavras que não foram emendadas quando separadas por traço no final da linha
+  Quebras de parágrafo inexistentes nos finais de páginas
+
+Em alguns dos livros, encontrei formas bem arcaicas de grafar as palavras. Na maioria dos casos corrigi para o usado na época:
+
+* *cinquenta* estava grafado *cincoenta*.
