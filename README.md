@@ -1,6 +1,6 @@
 # epubs_fc_hemus
 
-![](docs\fc_hemus.jpg)
+![Livros de ficção científica da Hemus](./docs/fc_hemus.jpg)
 
 ## O projeto
 
@@ -24,7 +24,7 @@ Existe um software gratuito que pode fazer a conversão, mas não tenho tido res
 
 No final dos livros existe uma relação de títulos, que foi usado para compilar esta lista. Nas informações dos livros não existe uma data de publicação da edição (ou das várias edições) nacionais, e alguns dos livros tiveram capas diferentes durante sua existência.
 
-![](docs\variacoes_capas.jpg)
+![Variações de Capa](.\docs\variacoes_capas.jpg)
 
 Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por autor e título :
 
@@ -72,7 +72,7 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por auto
 
 ## Andamento do projeto
 
-Vou atualizando este documento conforme os trabalhos evoluem. 
+Vou atualizando este documento conforme os trabalhos evoluem.
 
 | Título                         | Páginas | Localizado | Scan | OCR  | EPUB | Revisado |
 | ------------------------------ | ------- | ---------- | ---- | ---- | ---- | -------- |
