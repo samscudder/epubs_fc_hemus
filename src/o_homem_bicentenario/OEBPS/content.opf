@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:title>O Homem Bicentenário</dc:title>
-		<dc:identifier id="bookid">hemus_o_homem_bicentenario_v001</dc:identifier>
+		<dc:identifier id="bookid">hemus_o_homem_bicentenario_v002</dc:identifier>
 		<dc:creator>Isaac Asimov</dc:creator>
 		<dc:publisher>Hemus</dc:publisher>
 		<dc:language>pt-br</dc:language>
@@ -22,6 +22,7 @@
 		<item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml"/>
 		<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
 		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item id="introduction" href="introduction.xhtml" media-type="application/xhtml+xml"/>
 		<item id="c01" href="c01.xhtml" media-type="application/xhtml+xml"/>
 		<item id="c02" href="c02.xhtml" media-type="application/xhtml+xml"/>
 		<item id="c03" href="c03.xhtml" media-type="application/xhtml+xml"/>
@@ -43,6 +44,7 @@
 		<itemref idref="copyright"/>
 		<itemref idref="dedication"/>
 		<itemref idref="toc"/>
+		<itemref idref="introduction"/>
 		<itemref idref="c01"/>
 		<itemref idref="c02"/>
 		<itemref idref="c03"/>
