@@ -88,10 +88,10 @@ Vou atualizando este documento conforme os trabalhos evoluem.
 | Júpiter à Venda                | 236     | ✅          | ✅    | ✅    | ✅    |          |
 | Nós Robôs                      | 559     | ✅          |      |      |      |          |
 | Nós, os Marcianos              | 256     | ✅          | ✅    | ✅    |      |          |
-| O Cair da Noite                | 378     | ✅          | ✅    | ✅    |      |          |
+| O Cair da Noite                | 378     | ✅          | ✅    | ✅    | ✅    |          |
 | O Futuro Começou               | 470     | ✅          |      |      |      |          |
 | O Grande Sol de Mercúrio       | 193     | ✅          |      |      |      |          |
-| O Homem Bicentenário           | 238     | ✅          | ✅    | ✅    |      |          |
+| O Homem Bicentenário           | 238     | ✅          | ✅    | ✅    | 225  | 60       |
 | O Robô de Júpiter              | 142     | ✅          |      |      |      |          |
 | Os Anéis de Saturno            | 234     | ✅          |      |      |      |          |
 | Os Oceanos de Vênus            | 190     | ✅          |      |      |      |          |
@@ -129,3 +129,4 @@ Aqui estão os erros mais comuns de OCR que foram encontrados na hora de revisar
 Em alguns dos livros, encontrei formas bem arcaicas de grafar as palavras. Na maioria dos casos corrigi para o usado na época:
 
 * *cinquenta* estava grafado *cincoenta*.
+
