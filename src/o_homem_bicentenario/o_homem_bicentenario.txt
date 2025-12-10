@@ -2653,247 +2653,246 @@ Por falar nisso: algumas pessoas pensam que conhecer editores traz uma grande va
 <p>Bem lá no íntimo, contudo, outra parte dele estava lembrando os insistentes boatos de que os últimos progressos na robótica haviam resultado na fabricação de um robô êmulo do Presidente, um robô que poderia se desincumbir das funções puramente cerimoniais, que podia apertar as mãos do povo, que nunca estaria aborrecido ou exausto, nem poderia ser assassinado...</p>
 <p>Edwards, de certa maneira chocado, pensava que isto é o que deveria ter acontecido. Existia mesmo o tal robô semelhante ao Presidente e, num certo sentido... ele havia sido assassinado.</p>
 
-13 de outubro de 2078.
-Edwards olhou para cima, quando se aproximou seu robô-guia, de cintura alta, a lhe dizer, melifluamente: — Sr. Janek quer vê-lo agora.
-Edwards pôs-se de pé, sentindo-se alto, olhando o atarracado guia metálico de cima. Contudo, não se sentia jovem. Seu rosto tinha sulcos, amealhados nos últimos dois anos, mais ou menos, e ele estava ciente disto.
-Seguiu o guia até uma sala surpreendentemente pequena, onde, atrás de uma escrivaninha surpreendentemente pequena, sentava-se
-Francis Janek, um homem de aparência incongruentemente jovem, um tanto barrigudo.
-Janek sorriu e seu olhar era amistoso ao se erguer para o aperto de mãos. — Sr. Edwards.
-Edwards murmurou: — Estou feliz por ter a oportunidade, senhor...
-Nunca Edwards vira Janek antes, mas àquela altura ser secretário pessoal do Presidente era uma função tranqüila, das que davam margem a poucas notícias.
-Janek disse: — Sente-se, sente-se. Quer um bastão de soja?
-Edwards recusou, comum sorriso polido, e sentou-se. Janek estava claramente enfatizando sua juventude. Sua camisa enrugada estava aberta e os pelos de seu peito tinham sido tingidos de um violeta nítido, ainda que abrandado.
-Janek falou: — Sei que, a esta altura, já faz algumas semanas que tem tentado entrar em contato comigo. Lamento a demora. Espero que entenda que meu tempo não me pertence inteiramente. De qualquer forma, cá estamos nós, agora... Por falar nisso: entrei em contacto com o Chefe do Serviço, e ele fez as melhores referências a seu respeito. Ele lamenta o seu pedido de demissão.
-Com o olhar abatido, Edwards disse: — Pareceu-me melhor levar avante minhas investigações, sem perigo de embaraçar o Serviço.
-Um sorriso cintilou no rosto de Janek. — Suas atividades, mesmo sendo discretas, contudo, já foram notadas. O Chefe explica que você tem estado a investigar o incidente do Tricentenário e devo admitir que foi isso que me persuadiu a vê-lo tão cedo quanto pude. Foi por isso que pediu a sua demissão? Está investigando um assunto encerrado.
-— Assunto encerrado como, Sr. Janek? O fato de o senhor chamar o que aconteceu de Incidente não altera o fato de que foi uma tentativa de assassinato.
-— Uma questão de semântica. Por que usar uma frase perturbadora?
-— Só porque parecería representar uma verdade perturbadora. Com certeza o senhor diria que alguém tentou matar o Presidente.
-Janek estendeu as mãos. — Se foi isto que ocorreu, a trama malogrou. Um instmmento mecânico foi destruído. Nada mais. Na verdade, se considerarmos adequadamente o Incidente, ou como queira denominá-lo, fez um enorme bem à nação e ao mundo. Como todos sabemos, o Presidente foi abalado pelo Incidente e também a nação. O Presidente e todos nós percebemos o que poderia significar um retorno à violência do século passado e isto produziu uma grande reviravolta.
-— Não nego isso.
-— Lógico que não pode. Mesmo os inimigos do Presidente admitirão que os dois últimos anos viram grandes realizações. A Federação é hoje muitíssimo mais forte do que qualquer pessoa sonharia que ela fosse, no dia do Tricentenário. Poderiamos até dizer que se impediu uma desintegração da economia global.
-Cautelosamente, Edwards disse: — Sim, o Presidente mudou. É o que todos dizem.
-Janek retomou a palavra: — Sempre foi um grande homem. O Incidente fê-lo concentrar-se nos grandes temas com uma intensidade ainda maior, contudo.
-— Coisa que ele não fazia antes?
-— Talvez não com tanta intensidade... Na verdade, hoje, o Presidente e todos nós queremos esquecer o Incidente. Meu objetivo principal é, ao vê-lo, Sr. Edwards, deixar isto bem claro para o senhor. Não estamos no Século Vinte e não podemos encarcerá-lo por estar sendo inconveniente para nós, ou embaraçá-lo de alguma maneira, mas mesmo a Constituição Mundial não nos proíbe de tentar persuadi-lo. Está me entendendo?
-— Estou sim, mas não concordo com o senhor. Podemos esquecer o Incidente, se a pessoa responsável nunca foi detida?...
-— Talvez tudo esteja bem, senhor. Muito melhor do que poderia pensar uma pessoa... hum... uma pessoa desequilibrada que não queira entender que o assunto não tem as proporções que se quer lhe dar, num cenário que, possivelmente, nos levaria de volta aos dias do Século Vinte.
-— Mas a narrativa oficial chega a afirmar que o robô explodiu espontaneamente, o que é impossível, o que foi um golpe injusto para a indústria de robôs.
-— Robô é um termo que eu não usaria, Sr. Edwards. Era um aparelho mecânico. Ninguém disse que os robôs são perigosos de per si, e certamente não o são os robôs metálicos rotineiros. A única referência aqui é aos instrumentos incomumente complexos, semelhantes ao homem, que parecem de came e osso, e que poderiamos chamar de andróides. Na verdade, são tão complexos que talvez possam explodir por isso mesmo; não sou um perito no assunto. A indústria de robôs se recobrará.
-Obstinadamente, Edwards disse: — Ninguém, no governo, parece se preocupar com o fato de que atingiremos ou não o âmago da questão.
-— Já expliquei que não houve conseqüências salvo as boas. Por que ficar revolvendo o lodo lá no fundo, quando a água, em cima, está limpa?
-— E o uso do desintegrador?
-Por um momento, a mão de Janek, que lentamente girava o recipiente com bastões de soja, sobre a mesa, se deteve. Depois, ela voltou ao movimento rítmico. Suavemente, falou: — Que é isso?
-Com ar decidido, Edwards disse: — Sr. Janek, penso que sabe do que estou falando. Como membro do Serviço...
-— Ao qual você, logicamente, não mais pertence.
-— Não obstante, como membro do Serviço, não pude deixar de ouvir coisas que, nem sempre, eram destinadas a meus ouvidos, suponho. Ouvi falar de uma nova arma, e vi algo acontecer no Tricentenário que exigiría uma. O objeto que todos pensavam que fosse o Presidente desapareceu em meio a uma nuvem de pó muito fino. Era como se cada átomo do objeto contido dentro dos limites da nuvem perdesse os vínculos com os outros átomos. O objeto se tornara uma nuvem de átomos individuais que, por certo, começaram a se recombinar, mas que se dispersaram com uma rapidez tal que não deram a impressão de serem mais do que uma cintilação momentânea de poeira.
-— Muito ficção científica isso...
-— É lógico que entendo a ciência que possa estar por detrás disso, Sr. Janek, mas percebo que seria necessária muitíssima energia para se conseguir esta quebra de vínculos. Essa energia teria de ser retirada do ambiente. Aquelas pessoas que estavam próximas do aparelho mecânico que fazia as vezes do Presidente no momento, que pude localizar e que concordaram em falar, foram unânimes em relatar uma onda de frio que como que as banhou.
-Janek pôs o recipiente com bastões de soja de lado com um pequeno estalido do dispositivo contra celulite. Disse: — Apenas para argumentar, admitamos que exista algo como um desintegrador.
-— Não precisa argumentar: ele existe.
-— Não vou argumentar. Pessoalmente, não conheço o tal de desintegrador, mas, em minhas atribuições, não é provável que eu desconheça algo que tanta ressonância tenha em questões atinentes à segurança como armamento novo. Mas, se existir um desintegrador, e se for tão secreto assim, precisa ser um monopólio norte-americano, desconhecido do resto da Federação. Logo, deveria ser algo sobre o qual nem eu nem o senhor deveriamos estar falando. Poderia ser uma arma de guerra mais perigosa que as bombas nucleares, precisamente porque, se o que diz é verdade, não produz nada mais que desintegrar aonde se dá o impacto, e frio nas vizinhanças do impacto: Nenhuma explosão, nenhum fogo, nenhuma radiação mortal. Sem estes desagradáveis efeitos secundários, não havería repressão ao seu uso, se bem que esta arma, por tudo quanto sabemos, poderia ser
-construída num tamanho bastante para destruir o próprio planeta.
-— Concordo com tudo isto — disse Edwards.
-— Você vê então que, se não houver desintegrador, é tolice falar a respeito de um; e se houver um desintegrador, é criminoso falar dele.
-— Ainda não discuti isto, exceto com o senhor, agora, porque estou tentando persuadi-lo da seriedade da situação. Se foi usado um, por exemplo, o governo não deveria estar interessado em decidir como chegou a ser usado, caso outra unidade da Federação esteja de posse de um?
-Janek sacudiu a cabeça. — Penso que podemos nos apoiar no fato de que os órgãos do governo disso incumbidos é que terão de estudar o assunto. E melhor que você não se preocupe com a questão.
-Com uma impaciência que a custo conseguia controlar, Edwards disse: — Pode me garantir o senhor que os Estados Unidos são o único governo que tem esta arma à sua disposição?
-— Não posso lhe afirmar isto, visto que nada sei sobre essa arma, e não virei a saber. Nem deveria ter falado comigo sobre este assunto. Mesmo não existindo semelhante arma, o boato de sua existência poderá ser perigoso.
-— Mas, visto que lhe falei, e visto que o mal já está feito, deixe-me acabar de falar. Deixe-me ter a oportunidade de convencê-lo de que o senhor e ninguém mais, detém a chave de uma situação temível que talvez só eu esteja vendo.
-— Só você está vendo? Eu tenho a chave?
-— Parece-lhe loucura? Deixe-me explicar e depois julgue por si mesmo.
-— Vou conceder-lhe um pouco mais de tempo, mas mantenho o que afirmei. O senhor precisa abandonar isto, este seu hobby, esta investigação. Ela é terrivelmente perigosa.
-— Abandonar o assunto é que seria perigoso. Não está vendo que, se o desintegrador existe, e se os Estados Unidos têm o seu monopólio, segue-se que o número de pessoas que poderia ter acesso a ele deveria ser estritamente limitado? Como ex-integrante do Serviço, tenho algum conhecimento prático do assunto e afirmo-lhe que a única pessoa do mundo que poderia tentar surripiar de nossos arsenais ultra-secretos um desintegrador seria o próprio Presidente... Somente o Presidente dos Estados Unidos, Sr. Janek, poderia ter engendrado aquela tentativa de assassinato.
-Ambos ficaram a se olhar fixamente, por um momento, após o que Janek apertou um botão em sua mesa.
-Esclareceu: — Aumentei os cuidados. Agora, ninguém, de modo algum, pode nos ouvir. Está percebendo o perigo de sua afirmação, Sr. Edwards? Perigo para si mesmo? Não deve superestimar o valor da Constituição Global. Um governo tem o direito de tomar medidas razoáveis para proteger sua estabilidade.
-Edwards disse: — Estou me aproximando do senhor, Sr. Janek, como sendo alguém que, presumo, é um leal cidadão norte-americano. Venho à sua presença com a notícia de um crime terrível que afeta todos os norte-americanos e a Federação inteira. Um crime que produziu uma situação que talvez só o senhor possa corrigir. Por que me agride com ameaças?
-Janek disse: — É a segunda vez que você tenta dar a entender que sou um salvador em potencial do mundo. Não posso me ver neste papel. Espero que você entenda que não tenho poderes fora do comum.
-— O senhor é o secretário do Presidente.
-— O que não significa que tenho acesso especial a ele, ou que eu seja alguém com íntimo relacionamento com ele. Ocasiões há, Sr. Edwards, em que suspeito que os outros consideram que não sou mais do que um fracassado, e há até mesmo ocasiões em que corro o perigo de concordar com estas pessoas...
-— Seja lá como for, o senhor vê o Presidente com freqüência, informalmente, o senhor o vê...
-Impaciente, Janek o interrompeu: — Vejo-o o bastante para lhe garantir que o Presidente não ordenaria a destruição daquele sósia mecânico dele no dia do Tricentenário.
-— Quer dizer que, em sua opinião, isto é impossível?
-— Não estou afirmando isto. Eu diría que não. Afinal de contas, por que é que ele faria isto? Por que querería o Presidente destruir um andróide semelhante a ele, que lhe foi de valiosa ajuda ao longo dos três primeiros anos de seu mandato como Presidente? E, se por qualquer razão, ele quisesse destruir o robô, com todos os diabos, por que desejaria fazê-lo de uma maneira tão escandalosamente pública, nada mais, nada menos, no Tricentenário, fazendo, destarte, propaganda de sua existência, arriscando-se a uma reação pública, se o povo soubesse que estava apertando as mãos de um robô, sem falar nas repercussões diplomáticas do fato de representantes diplomáticos de outras partes da Federação estarem a tratar com um robô?... Em vez disso, ele poderia simplesmente ter ordenado, em caráter privado, que o robô fosse desmontado. Isto só seria do conhecimento de uns poucos elementos da alta hierarquia da Administração.
-— De qualquer forma, não houve conseqüências indesejáveis para o Presidente, como resultado do Incidente, não é?
-— Ele teve de encurtar a cerimônia. E já não é máis tão acessível como era antes.
-— Como o robô era.
-— Seja — admitiu Janek, pouco à vontade. — Sim, acredito que é isso mesmo.
-Edwards disse: — E, na verdade, o Presidente foi reeleito e sua popularidade não diminuiu, mesmo tendo a destruição sido pública. Argumentar com a destmição pública não é tão convincente como o senhor está querendo fazer parecer.
-— Mas a reeleição veio a despeito do Incidente. Ela se deveu à rápida ação do Presidente, dando um passo avante e pronunciando aquilo que você tem de admitir como tendo sido uma das grandes falas da história norte-americana. Foi uma performance muito admirável: você tem de admitir isso.
-— Foi um drama muito bem representado. Poder-se-ia até dizer que o Presidente estava contando com aquilo...
-Janek inclinou para trás o encosto de sua poltrona. — Se bem o entendo, Edwards, você está insinuando um argumento muito complicado de novela. Está querendo dizer que o Presidente fez destruir o sósia do jeito que ele foi destruído, em meio a uma multidão, justo no dia da celebração do Tricentenário, com o mundo observando, de forma a conseguir a admiração popular por seu espírito resoluto? Está insinuando que ele urdiu toda esta trama para criar uma reputação de homem de um inesperado vigor, de uma inesperada força, debaixo de circunstâncias extremamente dramáticas, de forma a transformar uma campanha que o levaria à derrota numa campanha vitoriosa?... Parece que o senhor andou lendo contos de fadas, Sr. Edwards.
-Edwards disse: — Se eu estivesse querendo afirmar tudo isto, seria realmente um conto de fadas, mas não estou querendo. Nunca insinuei que o Presidente ordenou a “morte” do robô. Apenas lhe pedi que pensasse se isto seria possível e o senhor afirmou com muita energia até que não seria. Estou contente pelo fato de o senhor assim ter procedido, pois concordo com o senhor.
-— Então, por que tudo isto? Estou começando a desconfiar que o senhor está me fazendo desperdiçar tempo.
-— Um momento mais, por favor. Nunca lhe ocorreu perguntar por que a coisa não podería ter sido feita com um feixe laser, com um desativador de campo, com uma marreta, pelo amor de Deus? Por que alguém se daria ao trabalho de se meter numa incrível complicação, arranjando uma arma guardada pela mais forte segurança que um governo podería ter, para executar uma tarefa que não exigiría uma arma deste porte? Pondo de lado a dificuldade de obter a
-arma, por que arriscar-se a revelar a existência de um desintegrador ao resto do mundo?
-— Toda esta história de desintegrador é apenas uma teoria sua.
-— O robô desapareceu totalmente, diante de meus olhos. Eu estava observando. Portanto, não estou me apoiando em depoimentos alheios. Não importa o nome que o senhor empresta à arma; seja qual for o nome, teve o efeito de desmontar o robô átomo por átomo, espalhando todos esses átomos de maneira irrecuperável. Por que fazer isto? Foi um tremendo massacre.
-— Não sei o que se passava na mente de quem fez isto.
-— Não? Ainda assim, a mim me parece que só há uma razão lógica para o robô ser reduzido a pó, quando algo muito mais simples poderia ter levado à destmição. A redução a pó não deixou vestígio algum do objeto, do robô. Nada deixou para indicar o que fora aquilo que foi destruído, se era um robô ou outra coisa qualquer.
-Janek disse: — Mas não há dúvida alguma quanto a que é que foi destruído.
-— Será que não?... Afirmei que só o Presidente poderia conseguir um desintegrador e fazer com que fosse usado. Mas, considerando a existência de um robô em tudo e por tudo semelhante a ele, qual foi o Presidente que engendrou a coisa?...
-Asperamente, Janek disse: — Acho que nossa conversa não pode prosseguir. Você está louco.
-Edwards disse: — Penso que terminei. Pelo amor de Deus, pense bem. O Presidente não destruiu o robô. Seus argumentos, quanto a isto, são convincentes. O que aconteceu foi que o robô destruiu o Presidente. O Presidente Winkler foi morto em meio à multidão, no dia 4 de julho de 2076. Então, um robô, com toda a aparência de ser o Presidente, pronunciou a alocução, concorreu à reeleição, foi reeleito, e ainda é o Presidente dos Estados Unidos!
-— Loucura!
-— Vim à sua presença, porque o senhor é que pode provar isto e corrigir isto, também.
-— Não é tão simples assim. O Presidente é... o Presidente. — Janek fez o gesto de quem ia se erguer e dar por encerrada a entrevista.
-Com rapidez e urgência, Edwards falou: — O senhor próprio disse que ele mudou. A alocução do Tricentenário estava além da capacidade do velho Winkler. O senhor mesmo não ficou surpreendido com as realizações dos últimos dois anos? Para dizer a verdade, o Winkler do primeiro mandato poderia ter feito tudo isto?...
-— Sim, poderia, visto que o Presidente do segundo mandato é o Presidente do primeiro mandato.
-— Nega que ele tenha mudado? Desafio o senhor. Decida o senhor e submeter-me-ei à sua decisão.
-— Ele se pôs à altura do desafio: isto é que é. Já aconteceu isto antes, na história dos Estados Unidos. — Mesmo tendo afirmado isto, ao se sentar de novo, Janek parecia muitíssimo pouco à vontade.
-— Ele não bebe — disse Edwards.
-— Nunca bebeu... muito.
-— Faz tempo que não tem relações com mulheres. Nega que no passado ele as procurava?
-— Um Presidente é um homem. Entretanto, nos últimos dois anos, dedicou-se aos assuntos da Federação.
-— Admito que isto seja uma mudança para melhor — concordou Edwards — mas é uma mudança. Lógico que se ele tivesse uma mulher, a encenação não poderia prosseguir, não é mesmo?
-— É ruim que ele não tenha uma esposa — comentou Janek, pronunciando a arcaica palavra “esposa” com uma certa ênfase. — Tivesse ele esposa, o problema todo não se manifestaria.
-— O fato de não ter tomou a conspiração toda mais prática. De qualquer forma, teve dois filhos. Não acredito que nenhum dos dois tenha estado na Casa Branca, desde o Tricentenário.
-— E por que teriam de ter ido até lá? Já são crescidos, vivem as suas próprias vidas.
-— Mas têm sido convidados? O Presidente tem manifestado interesse em vê-los? Como secretário particular dele, o senhor sabería. Foram convidados?
-Janek disse: — Está perdendo tempo. Um robô não pode matar um ser humano. Sabe muito bem que esta é a Primeira Lei da Robótica.
-— Sei disso. Mas ninguém está dizendo que o robô-Winkler matou o Winkler-humano diretamente. Quando o Winkler-humano estava no meio da multidão, o robô-Winkler estava no palanque e duvido que um desintegrador pudesse ser apontado daquela distância sem causar danos mais acentuados. Talvez pudesse, mas é mais provável que o robô-Winkler tivesse um cúmplice, um “comparsa”, se o jargão do Século Vinte estiver certo.
-Janek ficou carrancudo. Seu rosto franco se contraiu e parecia sofrer. Ele disse: — Sabe, acho que a loucura é contagiosa. Na verdade, estou começando a pensar melhor nesta maluquice que veio me contar. Ainda bem que não é válida. Afinal de contas, por que o assassinato do Winkler-humano teria de ocorrer em público? Todos os argumentos contra a destruição do robô em público valem contra o assassinato do Presidente em público também. Não vê que isto põe por água abaixo toda a sua teoria?
-— Não põe não... — principiou Edwards.
-— Põe sim. Salvo uns poucos altos funcionários, ninguém mais sabia do robô sósia. Se o Presidente Winkler fosse assassinado não em público, e se se eliminasse seu corpo, o robô facilmente poderia assumir o lugar dele, sem suspeitas. Por exemplo: sem levantar as suas suspeitas, Edwards.
-— Sempre havería uns poucos funcionários que saberíam, Sr. Janek. O assassinato acabaria se espalhando. — Edwards inclinou-se para a frente, com decisão. — Veja aqui: normalmente, não poderia haver o menor perigo de confundir o ser humano com a máquina. Imagino que o robô não era usado constantemente, sendo posto em funcionamento apenas para finalidades específicas, e sempre havería uns indivíduos-chave, talvez muitos até, que saberíam onde estava o Presidente e o que ele estava fazendo. Se assim fosse, o assassinato teria de ocorrer quando estes importantes funcionários, na verdade, acreditassem que o Presidente era mesmo o robô.
-— Não concordo.
-— Escute aqui: uma das tarefas do robô era apertar as mãos do povo; apertar a carne deles. Quando isto estivesse ocorrendo, os oficiais sabedores da verdade estariam perfeitamente cônscios de que, na verdade, quem apertava as mãos era o robô.
-— Exatamente. Agora sim, você está dizendo coisa com coisa. Era o robô.
-— Exceto que era o Tricentenário, e que o Presidente Winkler não poderia resistir à vontade de apertar as mãos do povo. Suponho que seja mais do que humano esperar que um Presidente, particularmente um cativador de massas vazias, um amante de aplausos como Winkler, não quisesse abrir mão da adulação da multidão no dia mais importante de todos, deixando esta atribuição para uma máquina. E talvez o robô tenha cuidadosamente alimentado este impulso de tal forma que, no dia do Tricentenário, o Presidente teria ordenado ao robô que permanecesse atrás do pódio, enquanto ele próprio se dispunha a apertar as mãos e a ser aplaudido.
-— Secretamente?
-— Lógico que secretamente. Se o Presidente dissesse a alguém do Serviço, ou a algum de seus auxiliares, ou ao senhor, permitir-lhe-iam que o fizesse, que fosse até o povo?... A atitude oficial com relação à possibilidade de um assassinato praticamente virou uma doença desde os eventos do Século Vinte. Assim, encorajado por um robô obviamente esperto...
-— Você presume que o robô seja esperto pelo fato de agora estar funcionando como Presidente. É um raciocínio circular. Se não é ele o Presidente, não há razão para pensar que seja esperto, ou que
-fosse capaz de imaginar toda esta conspiração. Além disso, que outro motivo, possivelmente, poderia levar um robô a conspirar em prol de um assassinato? Mesmo que ele não matasse o Presidente diretamente, a Primeira Lei também proíbe que se tire, indiretamente, a vida de alguém, já que a Primeira Lei diz: “Um robô não deve fazer mal a um ser humano ou, por inação, permitir que um ser humano sofra qualquer mal.”
-Edwards disse: — A Primeira Lei não é absoluta. Que dizer se o fato de fazer mal a um ser humano salvasse a vida de dois outros, ou de três, ou mesmo, de três bilhões?... O robô pode ter pensado que a salvação da Federação tem precedência sobre a salvação de uma vida. Além disso, de forma alguma era um robô comum. Foi construído para duplicar as qualidades de Presidente de forma tão íntima, a ponto de poder enganar a qualquer um. Suponhamos que ele tivesse a compreensão do Presidente Winkler, sem a sua fraqueza, e suponhamos que ele soubesse que poderia salvar a Federação onde o Presidente não podia salvá-la...
-— Você pode raciocinar assim, mas como é que um aparelho mecânico poderia?
-— E a única maneira de explicar o que sucedeu.
-— Penso que é uma fantasia paranóica.
-Edwards contestou: — Então me diga por que o objeto que foi destruído foi reduzido a átomos. Que outra explicação teria sentido, salvo a de que era a única maneira de ocultar o fato de que fora um ser humano, e não um robô, que fora destruído? Dê-me uma alternativa.
-Janek enrubesceu: — Não quero admitir isso.
-— Mas tudo que afirmei pode ser provado, ou então negue. É por isso que vim à sua presença, à sua presença.
-— E como é que poderei provar tudo isso? Ou, mesmo, desprovar?
-— Ninguém vê o Presidente em momentos em que ele está totalmente à vontade, como você o vê. É com você, na falta de uma família, que ele é mais informal. Estude-o.
-— Já fiz isso. Afirmo-lhe que ele não é...
-— Estudou nada. O senhor não suspeitou de nada errado. Pequenos indícios nada significam para o senhor. Estude-o agora, ciente de que ele pode ser um robô, e verá.
-Ironicamente, Janek disse: — Posso pô-lo a nocaute e, com um detector ultra-sônico, provar que ele é de metal. Mesmo um andróide tem cérebro de platina-irídio.
-— Não será necessário nenhuma ação drástica. Apenas o observe e verá que ele é tão radicalmente diferente do homem que ele era,
-que não pode ser um homem.
-Janek olhou para o relógio-calendário na parede. Disse: — Faz mais de uma hora que estamos conversando.
-— Lamento ter tomado tanto de seu tempo, mas espero que tenha entendido a importância de tudo isto.
-— Importância? — disse Janek. Levantou-se, então, e o que tinha parecido um ar de desânimo subitamente se transformou em qualquer coisa de esperançoso. — Mas é, na verdade, importante? E mesmo?
-— Como pode não ser importante? Um robô ser Presidente dos Estados Unidos não é importante?
-— Não, não é isso que quero dizer. Esqueça quem pode estar desempenhando o papel do Presidente Winkler. Pense apenas nisto: alguém, à testa da Presidência dos Estados Unidos, salvou a Federação; manteve-a unida e, no presente momento, dirige o Conselho de acordo com os interesses da paz e da conciliação construtiva. Admite tudo isto?
-Edwards disse: — Lógico que admito tudo isso. Mas, o que dizer do precedente que se estabeleceu? Um robô na Casa Branca, agora, por uma razão muito boa, pode levar a um robô na Casa Branca daqui a vinte anos por uma razão muito mim e, depois, poderá nos conduzir a termos robôs na Casa Branca sem motivo algum, mas apenas como questão de fato. Não vê a importância de abafar um possível toque de trombeta para o fim da humanidade, quando a trombeta soar sua primeira nota incerta?
-Janek sacudiu os ombros. — Admitamos que eu constate que ele é um robô. Vamos irradiar isto para o mundo todo? Sabe como é que isto afetará a Federação? Sabe o que isto representará para a estmtura financeira do mundo? Sabe...
-— Sei sim. É por isto que vim aqui falar-lhe em particular, em vez de tentar dar isto ao conhecimento público. Depende do senhor examinar o assunto e chegar a uma conclusão definitiva. Em seguida, cabe também ao senhor, tendo constatado que o suposto Presidente é um robô, coisa que estou certo de que acontecerá, convencê-lo a renunciar.
-— E, pela versão que você deu da Primeira Lei, ele então me matará, eis que estarei ameaçando sua hábil condução da maior crise global do Século Vinte e Um.
-Edwards sacudiu a cabeça. — O robô agiu secretamente antes, e ninguém tentou se opor aos argumentos que ele usou consigo mesmo. O senhor é capaz de reforçar uma interpretação estrita da Primeira Lei, com seus argumentos. Se necessário, poderemos obter ajuda de algum funcionário da U. S. Robots and Mechanical Men
-Inc. que, antes de mais nada, constmiu o robô. Uma vez que ele renuncie, o Vice-Presidente o sucederá. Se o robô-Winkler pôs o velho mundo no caminho certo, muito bem; o Vice-Presidente poderá agora conservá-lo no caminho certo, ainda mais que o Vice-Presidente é uma decente e honrada mulher. Mas não podemos ter um robô a nos dar ordens, e nunca mais poderemos ter um.
-— E se o Presidente for um ser humano?
-— Deixo isso a seu critério. Saberá como proceder.
-Janek disse: — Não confio tanto assim em mim mesmo. E se eu não puder decidir? Se eu não puder me forçar a decidir? Se eu não ousar? Quais são seus planos?
-Edwards parecia cansado. — Não sei. Tavlez eu tenha de ir até a U. S. Robots. Mas acho que não terei de chegar a tanto. Estou plenamente confiante de que agora que deixei o problema a seus cuidados ele será resolvido. O senhor deseja ser governado por um robô?
-Levantou-se e Janek deixou-o ir embora. Não apertaram as
-mãos.
-Profundamente chocado, lá ficou Janek, no crepúsculo que se manifestava.
-Um robô!
-O sujeito entrara, argumentara de maneira perfeitamente racional que o Presidente dos Estados Unidos era um robô.
-Poderia ter sido fácil contra-argumentar. Não obstante, Janek tentara pensar em todos os argumentos de que dispunha, e todos tinham se mostrado inúteis, e, por fim, o sujeito não se deixara abalar.
-Um robô como Presidente! Edwards estava certo disto, e continuaria convicto disto. E se Janek insistisse que o Presidente era humano, Edwards iria até a U. S. Robots. Não descansaria.
-Janek franziu a testa ao pensar nos vinte e oito meses que haviam decorrido desde o Tricentenário e como tudo tinha transcorrido tão bem, diante das possibilidades. E agora?
-Perdido em sombrios pensamentos, lá ficou.
-Tinha ainda o desintegrador, mas certamente não seria necessário usá-lo contra um ser humano, tanto mais que a natureza de seu corpo estava fora de quaisquer dúvidas. Um laser silencioso, a vibrar um golpe em algum lugar solitário, resolvería a questão.
-No primeiro caso, tinha sido difícil manobrar o Presidente; neste caso aqui, todavia, ele nem teria de saber.
-Meu primeiro pensamento foi intitular a estória precedente de “Morte no Tricentênio”, mas o dicionário garantiu-me que “tricentenário” era uma maneira perfeitamente boa de me referir a um tricentésimo aniversário, de forma que a denominei de “Morte no Tricentenário.”
-Fred mudou o nome para “O Incidente do Tricentenário”, o que, em minha opinião, foi uma grande melhora, e adotei-a com brados de alegria. Nem sempre me agradam as mudanças de títulos que ele faz, e geralmente afirmo isto, como em minha coleção de pequenas estórias de mistério Tales of the Black Widowers. Nada mais justo que eu lhe dê crédito por uma boa mudança.
-Uma coisa mais: de novo, esta estória representa um retomo a um tema que desenvolví numa estória anterior. Essa estória anterior foi “Evidência”, publicada pela primeira vez em 1946, trinta anos antes da estória que se segue. Exceto quanto ao tema, hão há semelhança entre as duas, e deixo ao gentil leitor, se ele ou ela leu as duas, decidir se, neste meio tempo, melhorei ou não. (Mas não me escrevam, por favor, a não ser que achem que melhorei.)
+<p class="spacebefore">13 de outubro de 2078.</p>
+<p>Edwards olhou para cima, quando se aproximou seu robô-guia, de cintura alta, a lhe dizer, melifluamente: — Sr. Janek quer vê-lo agora.</p>
+<p>Edwards pôs-se de pé, sentindo-se alto, olhando o atarracado guia metálico de cima. Contudo, não se sentia jovem. Seu rosto tinha sulcos, amealhados nos últimos dois anos, mais ou menos, e ele estava ciente disto.</p>
+<p>Seguiu o guia até uma sala surpreendentemente pequena, onde, atrás de uma escrivaninha surpreendentemente pequena, sentava-se Francis Janek, um homem de aparência incongruentemente jovem, um tanto barrigudo.</p>
+<p>Janek sorriu e seu olhar era amistoso ao se erguer para o aperto de mãos. — Sr. Edwards.</p>
+<p>Edwards murmurou: — Estou feliz por ter a oportunidade, senhor...</p>
+<p>Nunca Edwards vira Janek antes, mas àquela altura ser secretário pessoal do Presidente era uma função tranqüila, das que davam margem a poucas notícias.</p>
+<p>Janek disse: — Sente-se, sente-se. Quer um bastão de soja?</p>
+<p>Edwards recusou, comum sorriso polido, e sentou-se. Janek estava claramente enfatizando sua juventude. Sua camisa enrugada estava aberta e os pelos de seu peito tinham sido tingidos de um violeta nítido, ainda que abrandado.</p>
+<p>Janek falou: — Sei que, a esta altura, já faz algumas semanas que tem tentado entrar em contato comigo. Lamento a demora. Espero que entenda que meu tempo não me pertence inteiramente. De qualquer forma, cá estamos nós, agora... Por falar nisso: entrei em contacto com o Chefe do Serviço, e ele fez as melhores referências a seu respeito. Ele lamenta o seu pedido de demissão.</p>
+<p>Com o olhar abatido, Edwards disse: — Pareceu-me melhor levar avante minhas investigações, sem perigo de embaraçar o Serviço.</p>
+<p>Um sorriso cintilou no rosto de Janek. — Suas atividades, mesmo sendo discretas, contudo, já foram notadas. O Chefe explica que você tem estado a investigar o incidente do Tricentenário e devo admitir que foi isso que me persuadiu a vê-lo tão cedo quanto pude. Foi por isso que pediu a sua demissão? Está investigando um assunto encerrado.</p>
+<p>— Assunto encerrado como, Sr. Janek? O fato de o senhor chamar o que aconteceu de Incidente não altera o fato de que foi uma tentativa de assassinato.</p>
+<p>— Uma questão de semântica. Por que usar uma frase perturbadora?</p>
+<p>— Só porque parecería representar uma verdade perturbadora. Com certeza o senhor diria que alguém tentou matar o Presidente.</p>
+<p>Janek estendeu as mãos. — Se foi isto que ocorreu, a trama malogrou. Um instrumento mecânico foi destruído. Nada mais. Na verdade, se considerarmos adequadamente o Incidente, ou como queira denominá-lo, fez um enorme bem à nação e ao mundo. Como todos sabemos, o Presidente foi abalado pelo Incidente e também a nação. O Presidente e todos nós percebemos o que poderia significar um retorno à violência do século passado e isto produziu uma grande reviravolta.</p>
+<p>— Não nego isso.</p>
+<p>— Lógico que não pode. Mesmo os inimigos do Presidente admitirão que os dois últimos anos viram grandes realizações. A Federação é hoje muitíssimo mais forte do que qualquer pessoa sonharia que ela fosse, no dia do Tricentenário. Poderiamos até dizer que se impediu uma desintegração da economia global.</p>
+<p>Cautelosamente, Edwards disse: — Sim, o Presidente mudou. É o que todos dizem.</p>
+<p>Janek retomou a palavra: — Sempre foi um grande homem. O Incidente fê-lo concentrar-se nos grandes temas com uma intensidade ainda maior, contudo.</p>
+<p>— Coisa que ele não fazia antes?</p>
+<p>— Talvez não com tanta intensidade... Na verdade, hoje, o Presidente e todos nós queremos esquecer o Incidente. Meu objetivo principal é, ao vê-lo, Sr. Edwards, deixar isto bem claro para o senhor. Não estamos no Século Vinte e não podemos encarcerá-lo por estar sendo inconveniente para nós, ou embaraçá-lo de alguma maneira, mas mesmo a Constituição Mundial não nos proíbe de tentar persuadi-lo. Está me entendendo?</p>
+<p>— Estou sim, mas não concordo com o senhor. Podemos esquecer o Incidente, se a pessoa responsável nunca foi detida?...</p>
+<p>— Talvez tudo esteja bem, senhor. Muito melhor do que poderia pensar uma pessoa... hum... uma pessoa desequilibrada que não queira entender que o assunto não tem as proporções que se quer lhe dar, num cenário que, possivelmente, nos levaria de volta aos dias do Século Vinte.</p>
+<p>— Mas a narrativa oficial chega a afirmar que o robô explodiu espontaneamente, o que é impossível, o que foi um golpe injusto para a indústria de robôs.</p>
+<p>— Robô é um termo que eu não usaria, Sr. Edwards. Era um aparelho mecânico. Ninguém disse que os robôs são perigosos de per si, e certamente não o são os robôs metálicos rotineiros. A única referência aqui é aos instrumentos incomumente complexos, semelhantes ao homem, que parecem de came e osso, e que poderiamos chamar de andróides. Na verdade, são tão complexos que talvez possam explodir por isso mesmo; não sou um perito no assunto. A indústria de robôs se recobrará.</p>
+<p>Obstinadamente, Edwards disse: — Ninguém, no governo, parece se preocupar com o fato de que atingiremos ou não o âmago da questão.</p>
+<p>— Já expliquei que não houve conseqüências salvo as boas. Por que ficar revolvendo o lodo lá no fundo, quando a água, em cima, está limpa?</p>
+<p>— E o uso do desintegrador?</p>
+<p>Por um momento, a mão de Janek, que lentamente girava o recipiente com bastões de soja, sobre a mesa, se deteve. Depois, ela voltou ao movimento rítmico. Suavemente, falou: — Que é isso?</p>
+<p>Com ar decidido, Edwards disse: — Sr. Janek, penso que sabe do que estou falando. Como membro do Serviço...</p>
+<p>— Ao qual você, logicamente, não mais pertence.</p>
+<p>— Não obstante, como membro do Serviço, não pude deixar de ouvir coisas que, nem sempre, eram destinadas a meus ouvidos, suponho. Ouvi falar de uma nova arma, e vi algo acontecer no Tricentenário que exigiría uma. O objeto que todos pensavam que fosse o Presidente desapareceu em meio a uma nuvem de pó muito fino. Era como se cada átomo do objeto contido dentro dos limites da nuvem perdesse os vínculos com os outros átomos. O objeto se tornara uma nuvem de átomos individuais que, por certo, começaram a se recombinar, mas que se dispersaram com uma rapidez tal que não deram a impressão de serem mais do que uma cintilação momentânea de poeira.</p>
+<p>— Muito ficção científica isso...</p>
+<p>— É lógico que entendo a ciência que possa estar por detrás disso, Sr. Janek, mas percebo que seria necessária muitíssima energia para se conseguir esta quebra de vínculos. Essa energia teria de ser retirada do ambiente. Aquelas pessoas que estavam próximas do aparelho mecânico que fazia as vezes do Presidente no momento, que pude localizar e que concordaram em falar, foram unânimes em relatar uma onda de frio que como que as banhou.</p>
+<p>Janek pôs o recipiente com bastões de soja de lado com um pequeno estalido do dispositivo contra celulite. Disse: — Apenas para argumentar, admitamos que exista algo como um desintegrador.</p>
+<p>— Não precisa argumentar: ele existe.</p>
+<p>— Não vou argumentar. Pessoalmente, não conheço o tal de desintegrador, mas, em minhas atribuições, não é provável que eu desconheça algo que tanta ressonância tenha em questões atinentes à segurança como armamento novo. Mas, se existir um desintegrador, e se for tão secreto assim, precisa ser um monopólio norte-americano, desconhecido do resto da Federação. Logo, deveria ser algo sobre o qual nem eu nem o senhor deveriamos estar falando. Poderia ser uma arma de guerra mais perigosa que as bombas nucleares, precisamente porque, se o que diz é verdade, não produz nada mais que desintegrar aonde se dá o impacto, e frio nas vizinhanças do impacto: Nenhuma explosão, nenhum fogo, nenhuma radiação mortal. Sem estes desagradáveis efeitos secundários, não havería repressão ao seu uso, se bem que esta arma, por tudo quanto sabemos, poderia ser construída num tamanho bastante para destruir o próprio planeta.</p>
+<p>— Concordo com tudo isto — disse Edwards.</p>
+<p>— Você vê então que, se não houver desintegrador, é tolice falar a respeito de um; e se <i>houver</i> um desintegrador, é criminoso falar dele.</p>
+<p>— Ainda não discuti isto, exceto com o senhor, agora, porque estou tentando persuadi-lo da seriedade da situação. Se foi usado um, por exemplo, o governo não deveria estar interessado em decidir como chegou a ser usado, caso outra unidade da Federação esteja de posse de um?</p>
+<p>Janek sacudiu a cabeça. — Penso que podemos nos apoiar no fato de que os órgãos do governo disso incumbidos é que terão de estudar o assunto. E melhor que você não se preocupe com a questão.</p>
+<p>Com uma impaciência que a custo conseguia controlar, Edwards disse: — Pode me garantir o senhor que os Estados Unidos são o único governo que tem esta arma à sua disposição?</p>
+<p>— Não posso lhe afirmar isto, visto que nada sei sobre essa arma, e não virei a saber. Nem deveria ter falado comigo sobre este assunto. Mesmo não existindo semelhante arma, o <i>boato</i> de sua existência poderá ser perigoso.</p>
+<p>— Mas, visto que lhe falei, e visto que o mal já está feito, deixe-me acabar de falar. Deixe-me ter a oportunidade de convencê-lo de que <i>o senhor</i> e ninguém mais, detém a chave de uma situação temível que talvez só eu esteja vendo.</p>
+<p>— Só você está vendo? Eu tenho a chave?</p>
+<p>— Parece-lhe loucura? Deixe-me explicar e depois julgue por si mesmo.</p>
+<p>— Vou conceder-lhe um pouco mais de tempo, mas mantenho o que afirmei. O senhor precisa abandonar isto, este seu <i>hobby</i>, esta investigação. Ela é terrivelmente perigosa.</p>
+<p>— Abandonar o assunto é que seria perigoso. Não está vendo que, se o desintegrador existe, e se os Estados Unidos têm o seu monopólio, segue-se que o número de pessoas que poderia ter acesso a ele deveria ser estritamente limitado? Como ex-integrante do Serviço, tenho algum conhecimento prático do assunto e afirmo-lhe que a única pessoa do mundo que poderia tentar surripiar de nossos arsenais ultra-secretos um desintegrador seria o próprio Presidente... Somente o Presidente dos Estados Unidos, Sr. Janek, poderia ter engendrado aquela tentativa de assassinato.</p>
+<p>Ambos ficaram a se olhar fixamente, por um momento, após o que Janek apertou um botão em sua mesa.</p>
+<p>Esclareceu: — Aumentei os cuidados. Agora, ninguém, de modo algum, pode nos ouvir. Está percebendo o perigo de sua afirmação, Sr. Edwards? Perigo para si mesmo? Não deve superestimar o valor da Constituição Global. Um governo tem o direito de tomar medidas razoáveis para proteger sua estabilidade.</p>
+<p>Edwards disse: — Estou me aproximando do senhor, Sr. Janek, como sendo alguém que, presumo, é um leal cidadão norte-americano. Venho à sua presença com a notícia de um crime terrível que afeta todos os norte-americanos e a Federação inteira. Um crime que produziu uma situação que talvez só o senhor possa corrigir. Por que me agride com ameaças?</p>
+<p>Janek disse: — É a segunda vez que você tenta dar a entender que sou um salvador em potencial do mundo. Não posso me ver neste papel. Espero que você entenda que não tenho poderes fora do comum.</p>
+<p>— O senhor é o secretário do Presidente.</p>
+<p>— O que <i>não</i> significa que tenho acesso especial a ele, ou que eu seja alguém com íntimo relacionamento com ele. Ocasiões há, Sr. Edwards, em que suspeito que os outros consideram que não sou mais do que um fracassado, e há até mesmo ocasiões em que corro o perigo de concordar com estas pessoas...</p>
+<p>— Seja lá como for, o senhor vê o Presidente com freqüência, informalmente, o senhor o vê...</p>
+<p>Impaciente, Janek o interrompeu: — Vejo-o o bastante para lhe garantir que o Presidente não ordenaria a destruição daquele sósia mecânico dele no dia do Tricentenário.</p>
+<p>— Quer dizer que, em sua opinião, isto é impossível?</p>
+<p>— Não estou afirmando isto. Eu diría que não. Afinal de contas, por que é que ele faria isto? Por que querería o Presidente destruir um andróide semelhante a ele, que lhe foi de valiosa ajuda ao longo dos três primeiros anos de seu mandato como Presidente? E, se por qualquer razão, ele quisesse destruir o robô, com todos os diabos, por que desejaria fazê-lo de uma maneira tão escandalosamente pública, nada mais, nada menos, no Tricentenário, fazendo, destarte, propaganda de sua existência, arriscando-se a uma reação pública, se o povo soubesse que estava apertando as mãos de um robô, sem falar nas repercussões diplomáticas do fato de representantes diplomáticos de outras partes da Federação estarem a tratar com um robô?... Em vez disso, ele poderia simplesmente ter ordenado, em caráter privado, que o robô fosse desmontado. Isto só seria do conhecimento de uns poucos elementos da alta hierarquia da Administração.</p>
+<p>— De qualquer forma, não houve conseqüências indesejáveis para o Presidente, como resultado do Incidente, não é?</p>
+<p>— Ele teve de encurtar a cerimônia. E já não é máis tão acessível como era antes.</p>
+<p>— Como o <i>robô</i> era.</p>
+<p>— Seja — admitiu Janek, pouco à vontade. — Sim, acredito que é isso mesmo.</p>
+<p>Edwards disse: — E, na verdade, o Presidente foi reeleito e sua popularidade não diminuiu, mesmo tendo a destruição sido pública. Argumentar com a destruição pública não é tão convincente como o senhor está querendo fazer parecer.</p>
+<p>— Mas a reeleição veio <i>a despeito</i> do Incidente. Ela se deveu à rápida ação do Presidente, dando um passo avante e pronunciando aquilo que você tem de admitir como tendo sido uma das grandes falas da história norte-americana. Foi uma <i>performance</i> muito admirável: você tem de admitir isso.</p>
+<p>— Foi um drama muito bem representado. Poder-se-ia até dizer que o Presidente estava contando com aquilo...</p>
+<p>Janek inclinou para trás o encosto de sua poltrona. — Se bem o entendo, Edwards, você está insinuando um argumento muito complicado de novela. Está querendo dizer que o Presidente fez destruir o sósia do jeito que ele foi destruído, em meio a uma multidão, justo no dia da celebração do Tricentenário, com o mundo observando, de forma a conseguir a admiração popular por seu espírito resoluto? Está insinuando que ele urdiu toda esta trama para criar uma reputação de homem de um inesperado vigor, de uma inesperada força, debaixo de circunstâncias extremamente dramáticas, de forma a transformar uma campanha que o levaria à derrota numa campanha vitoriosa?... Parece que o senhor andou lendo contos de fadas, Sr. Edwards.</p>
+<p>Edwards disse: — Se eu estivesse querendo afirmar tudo isto, seria realmente um conto de fadas, mas não estou querendo. Nunca insinuei que o Presidente ordenou a “morte” do robô. Apenas lhe pedi que pensasse se isto seria possível e o senhor afirmou com muita energia até que não seria. Estou contente pelo fato de o senhor assim ter procedido, pois concordo com o senhor.</p>
+<p>— Então, por que tudo isto? Estou começando a desconfiar que o senhor está me fazendo desperdiçar tempo.</p>
+<p>— Um momento mais, por favor. Nunca lhe ocorreu perguntar por que a coisa não podería ter sido feita com um feixe laser, com um desativador de campo, com uma marreta, pelo amor de Deus? Por que alguém se daria ao trabalho de se meter numa incrível complicação, arranjando uma arma guardada pela mais forte segurança que um governo podería ter, para executar uma tarefa que não exigiría uma arma deste porte? Pondo de lado a dificuldade de obter a arma, por que arriscar-se a revelar a existência de um desintegrador ao resto do mundo?</p>
+<p>— Toda esta história de desintegrador é apenas uma teoria sua.</p>
+<p>— O robô desapareceu totalmente, diante de meus olhos. Eu estava observando. Portanto, não estou me apoiando em depoimentos alheios. Não importa o nome que o senhor empresta à arma; seja qual for o nome, teve o efeito de desmontar o robô átomo por átomo, espalhando todos esses átomos de maneira irrecuperável. Por que fazer isto? Foi um tremendo massacre.</p>
+<p>— Não sei o que se passava na mente de quem fez isto.</p>
+<p>— Não? Ainda assim, a mim me parece que só há uma razão lógica para o robô ser reduzido a pó, quando algo muito mais simples poderia ter levado à destmição. A redução a pó não deixou vestígio algum do objeto, do robô. Nada deixou para indicar o que fora aquilo que foi destruído, se era um robô ou outra coisa qualquer.</p>
+<p>Janek disse: — Mas não há dúvida alguma quanto a que é que foi destruído.</p>
+<p>— Será que não?... Afirmei que só o Presidente poderia conseguir um desintegrador e fazer com que fosse usado. Mas, considerando a existência de um robô em tudo e por tudo semelhante a ele, qual foi o Presidente que engendrou a coisa?...</p>
+<p>Asperamente, Janek disse: — Acho que nossa conversa não pode prosseguir. Você está louco.</p>
+<p>Edwards disse: — Penso que terminei. Pelo amor de Deus, pense bem. O Presidente não destruiu o robô. Seus argumentos, quanto a isto, são convincentes. O que aconteceu foi que o robô destruiu o Presidente. O Presidente Winkler foi morto em meio à multidão, no dia 4 de julho de 2076. Então, um robô, com toda a aparência de ser o Presidente, pronunciou a alocução, concorreu à reeleição, foi reeleito, e ainda é o Presidente dos Estados Unidos!</p>
+<p>— Loucura!</p>
+<p>— Vim à <i>sua</i> presença, porque <i>o senhor</i> é que pode provar isto e corrigir isto, também.</p>
+<p>— Não é tão simples assim. O Presidente é... o Presidente. — Janek fez o gesto de quem ia se erguer e dar por encerrada a entrevista.</p>
+<p>Com rapidez e urgência, Edwards falou: — O senhor próprio disse que ele mudou. A alocução do Tricentenário estava além da capacidade do velho Winkler. O senhor mesmo não ficou surpreendido com as realizações dos últimos dois anos? Para dizer a verdade, o Winkler do primeiro mandato poderia ter feito tudo isto?...</p>
+<p>— Sim, poderia, visto que o Presidente do segundo mandato é o Presidente do primeiro mandato.</p>
+<p>— Nega que ele tenha mudado? Desafio o senhor. Decida o senhor e submeter-me-ei à sua decisão.</p>
+<p>— Ele se pôs à altura do desafio: isto é que é. Já aconteceu isto antes, na história dos Estados Unidos. — Mesmo tendo afirmado isto, ao se sentar de novo, Janek parecia muitíssimo pouco à vontade.</p>
+<p>— Ele não bebe — disse Edwards.</p>
+<p>— Nunca bebeu... muito.</p>
+<p>— Faz tempo que não tem relações com mulheres. Nega que no passado ele as procurava?</p>
+<p>— Um Presidente é um homem. Entretanto, nos últimos dois anos, dedicou-se aos assuntos da Federação.</p>
+<p>— Admito que isto seja uma mudança para melhor — concordou Edwards — mas é uma mudança. Lógico que se ele <i>tivesse</i> uma mulher, a encenação não poderia prosseguir, não é mesmo?</p>
+<p>— É ruim que ele não tenha uma esposa — comentou Janek, pronunciando a arcaica palavra “esposa” com uma certa ênfase. — Tivesse ele esposa, o problema todo não se manifestaria.</p>
+<p>— O fato de não ter tomou a conspiração toda mais prática. De qualquer forma, teve dois filhos. Não acredito que nenhum dos dois tenha estado na Casa Branca, desde o Tricentenário.</p>
+<p>— E por que teriam de ter ido até lá? Já são crescidos, vivem as suas próprias vidas.</p>
+<p>— Mas têm sido convidados? O Presidente tem manifestado interesse em vê-los? Como secretário particular dele, o senhor sabería. Foram convidados?</p>
+<p>Janek disse: — Está perdendo tempo. Um robô não pode matar um ser humano. Sabe muito bem que esta é a Primeira Lei da Robótica.</p>
+<p>— Sei disso. Mas ninguém está dizendo que o robô-Winkler matou o Winkler-humano diretamente. Quando o Winkler-humano estava no meio da multidão, o robô-Winkler estava no palanque e duvido que um desintegrador pudesse ser apontado daquela distância sem causar danos mais acentuados. Talvez pudesse, mas é mais provável que o robô-Winkler tivesse um cúmplice, um “comparsa”, se o jargão do Século Vinte estiver certo.</p>
+<p>Janek ficou carrancudo. Seu rosto franco se contraiu e parecia sofrer. Ele disse: — Sabe, acho que a loucura é contagiosa. Na verdade, estou começando a pensar melhor nesta maluquice que veio me contar. Ainda bem que não é válida. Afinal de contas, por que o assassinato do Winkler-humano teria de ocorrer em público? Todos os argumentos contra a destruição do robô em público valem contra o assassinato do Presidente em público também. Não vê que isto põe por água abaixo toda a sua teoria?</p>
+<p>— Não põe não... — principiou Edwards.</p>
+<p>— Põe <i>sim</i>. Salvo uns poucos altos funcionários, ninguém mais sabia do robô sósia. Se o Presidente Winkler fosse assassinado não em público, e se se eliminasse seu corpo, o robô facilmente poderia assumir o lugar dele, sem suspeitas. Por exemplo: sem levantar as suas suspeitas, Edwards.</p>
+<p>— Sempre havería uns poucos funcionários que saberíam, Sr. Janek. O assassinato acabaria se espalhando. — Edwards inclinou-se para a frente, com decisão. — Veja aqui: normalmente, não poderia haver o menor perigo de confundir o ser humano com a máquina. Imagino que o robô não era usado constantemente, sendo posto em funcionamento apenas para finalidades específicas, e sempre havería uns indivíduos-chave, talvez muitos até, que saberíam onde estava o Presidente e o que ele estava fazendo. Se assim fosse, o assassinato teria de ocorrer quando estes importantes funcionários, na verdade, acreditassem que o Presidente era mesmo o robô.</p>
+<p>— Não concordo.</p>
+<p>— Escute aqui: uma das tarefas do robô era apertar as mãos do povo; apertar a carne deles. Quando isto estivesse ocorrendo, os oficiais sabedores da verdade estariam perfeitamente cônscios de que, na verdade, quem apertava as mãos era o robô.</p>
+<p>— Exatamente. Agora sim, você está dizendo coisa com coisa. <i>Era</i> o robô.</p>
+<p>— Exceto que era o Tricentenário, e que o Presidente Winkler não poderia resistir à vontade de apertar as mãos do povo. Suponho que seja mais do que humano esperar que um Presidente, particularmente um cativador de massas vazias, um amante de aplausos como Winkler, não quisesse abrir mão da adulação da multidão no dia mais importante de todos, deixando esta atribuição para uma máquina. E talvez o robô tenha cuidadosamente alimentado este impulso de tal forma que, no dia do Tricentenário, o Presidente teria ordenado ao robô que permanecesse atrás do pódio, enquanto ele próprio se dispunha a apertar as mãos e a ser aplaudido.</p>
+<p>— Secretamente?</p>
+<p>— Lógico que secretamente. Se o Presidente dissesse a alguém do Serviço, ou a algum de seus auxiliares, ou ao senhor, permitir-lhe-iam que o fizesse, que fosse até o povo?... A atitude oficial com relação à possibilidade de um assassinato praticamente virou uma doença desde os eventos do Século Vinte. Assim, encorajado por um robô obviamente esperto...</p>
+<p>— Você presume que o robô seja esperto pelo fato de agora estar funcionando como Presidente. É um raciocínio circular. Se não é ele o Presidente, não há razão para pensar que seja esperto, ou que fosse capaz de imaginar toda esta conspiração. Além disso, que outro motivo, possivelmente, poderia levar um robô a conspirar em prol de um assassinato? Mesmo que ele não matasse o Presidente diretamente, a Primeira Lei também proíbe que se tire, indiretamente, a vida de alguém, já que a Primeira Lei diz: “Um robô não deve fazer mal a um ser humano ou, por inação, permitir que um ser humano sofra qualquer mal.”</p>
+<p>Edwards disse: — A Primeira Lei não é absoluta. Que dizer se o fato de fazer mal a um ser humano salvasse a vida de dois outros, ou de três, ou mesmo, de três bilhões?... O robô pode ter pensado que a salvação da Federação tem precedência sobre a salvação de uma vida. Além disso, de forma alguma era um robô comum. Foi construído para duplicar as qualidades de Presidente de forma tão íntima, a ponto de poder enganar a qualquer um. Suponhamos que ele tivesse a compreensão do Presidente Winkler, sem a sua fraqueza, e suponhamos que ele soubesse que poderia salvar a Federação onde o Presidente não podia salvá-la...</p>
+<p>— <i>Você</i> pode raciocinar assim, mas como é que um aparelho mecânico poderia?</p>
+<p>— E a única maneira de explicar o que sucedeu.</p>
+<p>— Penso que é uma fantasia paranóica.</p>
+<p>Edwards contestou: — Então me diga por que o objeto que foi destruído foi reduzido a átomos. Que outra explicação teria sentido, salvo a de que era a única maneira de ocultar o fato de que fora um ser humano, e não um robô, que fora destruído? Dê-me uma alternativa.</p>
+<p>Janek enrubesceu: — Não quero admitir isso.</p>
+<p>— Mas tudo que afirmei pode ser provado, ou então negue. É por isso que vim à sua presença, à <i>sua</i> presença.</p>
+<p>— E como é que poderei provar tudo isso? Ou, mesmo, desprovar?</p>
+<p>— Ninguém vê o Presidente em momentos em que ele está totalmente à vontade, como você o vê. É com você, na falta de uma família, que ele é mais informal. Estude-o.</p>
+<p>— Já fiz isso. Afirmo-lhe que ele não é...</p>
+<p>— Estudou nada. O senhor não suspeitou de nada errado. Pequenos indícios nada significam para o senhor. Estude-o agora, ciente de que ele <i>pode</i> ser um robô, e verá.</p>
+<p>Ironicamente, Janek disse: — Posso pô-lo a nocaute e, com um detector ultra-sônico, provar que ele é de metal. Mesmo um andróide tem cérebro de platina-irídio.</p>
+<p>— Não será necessário nenhuma ação drástica. Apenas o observe e verá que ele é tão radicalmente diferente do homem que ele era, que não pode ser um homem.</p>
+<p>Janek olhou para o relógio-calendário na parede. Disse: — Faz mais de uma hora que estamos conversando.</p>
+<p>— Lamento ter tomado tanto de seu tempo, mas espero que tenha entendido a importância de tudo isto.</p>
+<p>— Importância? — disse Janek. Levantou-se, então, e o que tinha parecido um ar de desânimo subitamente se transformou em qualquer coisa de esperançoso. — Mas é, na verdade, importante? E mesmo?</p>
+<p>— Como pode não ser importante? Um robô ser Presidente dos Estados Unidos não é importante?</p>
+<p>— Não, não é isso que quero dizer. Esqueça quem pode estar desempenhando o papel do Presidente Winkler. Pense apenas nisto: alguém, à testa da Presidência dos Estados Unidos, salvou a Federação; manteve-a unida e, no presente momento, dirige o Conselho de acordo com os interesses da paz e da conciliação construtiva. Admite tudo isto?</p>
+<p>Edwards disse: — Lógico que admito tudo isso. Mas, o que dizer do precedente que se estabeleceu? Um robô na Casa Branca, agora, por uma razão muito boa, pode levar a um robô na Casa Branca daqui a vinte anos por uma razão muito mim e, depois, poderá nos conduzir a termos robôs na Casa Branca sem motivo algum, mas apenas como questão de fato. Não vê a importância de abafar um possível toque de trombeta para o fim da humanidade, quando a trombeta soar sua primeira nota incerta?</p>
+<p>Janek sacudiu os ombros. — Admitamos que eu constate que ele é um robô. Vamos irradiar isto para o mundo todo? Sabe como é que isto afetará a Federação? Sabe o que isto representará para a estmtura financeira do mundo? Sabe...</p>
+<p>— Sei sim. É por isto que vim aqui falar-lhe em particular, em vez de tentar dar isto ao conhecimento público. Depende do senhor examinar o assunto e chegar a uma conclusão definitiva. Em seguida, cabe também ao senhor, tendo constatado que o suposto Presidente é um robô, coisa que estou certo de que acontecerá, convencê-lo a renunciar.</p>
+<p>— E, pela versão que você deu da Primeira Lei, ele então me matará, eis que estarei ameaçando sua hábil condução da maior crise global do Século Vinte e Um.</p>
+<p>Edwards sacudiu a cabeça. — O robô agiu secretamente antes, e ninguém tentou se opor aos argumentos que ele usou consigo mesmo. O senhor é capaz de reforçar uma interpretação estrita da Primeira Lei, com seus argumentos. Se necessário, poderemos obter ajuda de algum funcionário da U. S. Robots and Mechanical Men Inc. que, antes de mais nada, constmiu o robô. Uma vez que ele renuncie, o Vice-Presidente o sucederá. Se o robô-Winkler pôs o velho mundo no caminho certo, muito bem; o Vice-Presidente poderá agora conservá-lo no caminho certo, ainda mais que o Vice-Presidente é uma decente e honrada mulher. Mas não podemos ter um robô a nos dar ordens, e nunca mais poderemos ter um.</p>
+<p>— E se o Presidente for um ser humano?</p>
+<p>— Deixo isso a seu critério. Saberá como proceder.</p>
+<p>Janek disse: — Não confio tanto assim em mim mesmo. E se eu não puder decidir? Se eu não puder me forçar a decidir? Se eu não ousar? Quais são seus planos?</p>
+<p>Edwards parecia cansado. — Não sei. Tavlez eu tenha de ir até a U. S. Robots. Mas acho que não terei de chegar a tanto. Estou plenamente confiante de que agora que deixei o problema a seus cuidados ele será resolvido. O senhor <i>deseja</i> ser governado por um robô?</p>
+<p>Levantou-se e Janek deixou-o ir embora. Não apertaram as mãos.</p>
+
+<p class="spacebefore">Profundamente chocado, lá ficou Janek, no crepúsculo que se manifestava.</p>
+<p>Um robô!</p>
+<p>O sujeito entrara, argumentara de maneira perfeitamente racional que o Presidente dos Estados Unidos era um robô.</p>
+<p>Poderia ter sido fácil contra-argumentar. Não obstante, Janek tentara pensar em todos os argumentos de que dispunha, e todos tinham se mostrado inúteis, e, por fim, o sujeito não se deixara abalar.</p>
+<p>Um robô como Presidente! Edwards estava <i>certo</i> disto, e <i>continuaria</i> convicto disto. E se Janek insistisse que o Presidente era humano, Edwards iria até a U. S. Robots. Não descansaria.</p>
+<p>Janek franziu a testa ao pensar nos vinte e oito meses que haviam decorrido desde o Tricentenário e como tudo tinha transcorrido tão bem, diante das possibilidades. E agora?</p>
+<p>Perdido em sombrios pensamentos, lá ficou.</p>
+<p>Tinha ainda o desintegrador, mas certamente não seria necessário usá-lo contra um ser humano, tanto mais que a natureza de seu corpo estava fora de quaisquer dúvidas. Um laser silencioso, a vibrar um golpe em algum lugar solitário, resolvería a questão.</p>
+<p>No primeiro caso, tinha sido difícil manobrar o Presidente; neste caso aqui, todavia, ele nem teria de saber.</p>
+
+.
+
+<p class="spacebefore">Meu primeiro pensamento foi intitular a estória precedente de “Morte no Tricentênio”, mas o dicionário garantiu-me que “tricentenário” era uma maneira perfeitamente boa de me referir a um tricentésimo aniversário, de forma que a denominei de “Morte no Tricentenário.”</p>
+<p>Fred mudou o nome para “O Incidente do Tricentenário”, o que, em minha opinião, foi uma grande melhora, e adotei-a com brados de alegria. Nem sempre me agradam as mudanças de títulos que ele faz, e geralmente afirmo isto, como em minha coleção de pequenas estórias de mistério <i>Tales of the Black Widowers</i>. Nada mais justo que eu lhe dê crédito por uma boa mudança.</p>
+<p>Uma coisa mais: de novo, esta estória representa um retomo a um tema que desenvolví numa estória anterior. Essa estória anterior foi “Evidência”, publicada pela primeira vez em 1946, trinta anos antes da estória que se segue. Exceto quanto ao tema, hão há semelhança entre as duas, e deixo ao gentil leitor, se ele ou ela leu as duas, decidir se, neste meio tempo, melhorei ou não. (Mas não me escrevam, por favor, a não ser que achem que melhorei.)</p>
+
 •
-O tempo voa. Eu, propriamente, sou um eterno jovem, mas tudo o mais está envelhecendo. Perceberam que com o número de abril de 1976, Amazing Stories, a mais antiga das revistas de ficção científica, comemorou seu Meio Centenário?
-O número de abril de 1926 de Amazing Stories foi o Volume I, número 1. Foi o primeiríssimo número da primeiríssima revista até então inteiramente dedicada à ficção científica, e isto foi cinqüenta anos atrás.
-Hugo Gemsback nascera em Luxemburgo, em 1884, e emigrara para os Estados Unidos em 1904. Chegou a escrever algumas estórias de ficção científica excruciantemente ruins, mas com algumas predições terrivelmente boas nelas, e veio a publicar uma revista, na qual incluiu estórias de ficção científica (ciência ficção, como ele as denominava) e, durante algum tempo, começou a cogitar da publicação de uma revista só com estórias de ficção científica. Uma circular que enviou em 1924, exploratória, produziu resultados desapontadores, mas, em 1926, sem qualquer aviso prévio, sem fanfarras, colocou a revista nas bancas.
-Sol Cohen, o atual responsável pela revista, telefonou-me no outono de 1975, para me perguntar se eu poderia dar alguma contribuição em honra do qüinquagésimo aniversário da revista. E, se bem que, como de hábito, eu estivesse até o pescoço de compromissos, não houve como me recusar. Em 22 de novembro de 1975, sentei-me para escrever “Nascimento de uma Noção”, que foi a forma como me fiz representar na edição de aniversário.
 
-☆
-Nascimento de Uma Noção
-Não é, de maneira alguma, uma coincidência que o primeiro a inventar uma máquina do tempo que funcionasse tenha sido um entusiasta da ficção cientifica. Era inevitável. Por que outras razões deveria um cientista que, quanto ao mais, era são, sequer ousar ir ao encalço das várias teorias exóticas que pareciam apontar para a manobrabilidade do tempo, a despeito da Teoria da Relatividade?
-Isto exigia energia, por certo. Tudo requer energia. Mas Simeon Weill estava preparado para pagar o preço. Tudo (bem... quase tudo) para fazer seu sonho oculto de ficção científica se tornar uma realidade.
-O problema era que não havia como controlar quer a direção, quer a distância através da qual alguém seria cronologicamente impelido. Tudo resultaria de colisões temporais ao acaso de equipamentos taquiônicos. Weill podia fazer camundongos e até mesmo coelhos desaparecer, mas, se era no futuro ou no passado, ele não sabería dizer. Um camundongo reapareceu, de forma que ele deveria ter viajado só um pouco no passado e parecia não ter sido nem um pouco machucado. E os outros? Quem poderia dizer?
-Imaginou um disparador automático para a máquina. Teoricamente, ele faria o empurrão (fosse lá qual fosse) reverter, trazendo o objeto de volta (de qualquer direção ou de qualquer distância a que ele tivesse ido). Nem sempre funcionava, mas cinco coelhos voltaram ilesos.
-Se pelo menos ele pudesse fazer o disparador à prova de erros, Weill teria feito uma tentativa consigo mesmo. Estava morrendo de vontade de fazer essa tentativa, o que não era uma reação própria de  <8>
-	<8> Em inglês, “Birth of a Notion”, que dificilmente não nos leva a pensar no célebre filme de D. W. Griffith, “Birth.of a Nation” (O Nascimento de uma Nação), um dos clássicos do cinema, filmado durante a Primeira Guerra Mundial, e baseado na Guerra de Secessão. (N.T.)
+<p class="spacebefore">O tempo voa. Eu, propriamente, sou um eterno jovem, mas tudo o mais está envelhecendo. Perceberam que com o número de abril de 1976, <i>Amazing Stories</i>, a mais antiga das revistas de ficção científica, comemorou seu Meio Centenário?</p>
+<p>O número de abril de 1926 de <i>Amazing Stories</i> foi o Volume I, número 1. Foi o primeiríssimo número da primeiríssima revista até então inteiramente dedicada à ficção científica, e isto foi cinqüenta anos atrás.</p>
+<p>Hugo Gernsback nascera em Luxemburgo, em 1884, e emigrara para os Estados Unidos em 1904. Chegou a escrever algumas estórias de ficção científica excruciantemente ruins, mas com algumas predições terrivelmente boas nelas, e veio a publicar uma revista, na qual incluiu estórias de ficção científica (ciência ficção, como ele as denominava) e, durante algum tempo, começou a cogitar da publicação de uma revista só com estórias de ficção científica. Uma circular que enviou em 1924, exploratória, produziu resultados desapontadores, mas, em 1926, sem qualquer aviso prévio, sem fanfarras, colocou a revista nas bancas.</p>
+<p>Sol Cohen, o atual responsável pela revista, telefonou-me no outono de 1975, para me perguntar se eu poderia dar alguma contribuição em honra do qüinquagésimo aniversário da revista. E, se bem que, como de hábito, eu estivesse até o pescoço de compromissos, não houve como me recusar. Em 22 de novembro de 1975, sentei-me para escrever “Nascimento de uma Noção”, que foi a forma como me fiz representar na edição de aniversário.</p>
 
-um físico teórico, mas era a absolutamente previsível emoção de um fanático por ficção científica, particularmente admirador das produções “espaço-operísticas” de algumas décadas anteriores ao ano de então, 1976.
-Era inevitável, então, que o acidente pudesse acontecer. De modo nenhum ele podería ter caminhado entre os têmpodos com consciente determinação. Sabia que as probabilidades de ele não voltar eram de duas em cinco. Por outro lado, ele estava morrendo de vontade de tentar, de forma que se deslocou com seus dois pezões e ficou cambaleando entre os têmpodos como resultado de um acidente total... Mas existem mesmo acidentes?...
-Ele podería ter sido arremessado para o passado ou para o futuro. Aconteceu-lhe de ser arremessado no passado.
-Podería ter sido arremessado incontáveis milhares de anos para trás ou apenas um dia e meio. Aconteceu-lhe de ser arremessado cinqüenta e um anos para trás, na época em que o Escândalo Harding estava em plena efervescência, se bem que o país estivesse se mantendo em paz com Coolidge <9>e soubesse que ninguém no mundo podería surrar Jack Dempsey.
+
+
+
+
+<h1>12<br />☆<br />Nascimento de Uma Noção*</h1>
+
+<p>Não é, de maneira alguma, uma coincidência que o primeiro a inventar uma máquina do tempo que funcionasse tenha sido um entusiasta da ficção cientifica. Era inevitável. Por que outras razões deveria um cientista que, quanto ao mais, era são, sequer ousar ir ao encalço das várias teorias exóticas que pareciam apontar para a manobrabilidade do tempo, a despeito da Teoria da Relatividade?</p>
+<p>Isto exigia energia, por certo. Tudo requer energia. Mas Simeon Weill estava preparado para pagar o preço. Tudo (bem... quase tudo) para fazer seu sonho oculto de ficção científica se tornar uma realidade.</p>
+<p>O problema era que não havia como controlar quer a direção, quer a distância através da qual alguém seria cronologicamente impelido. Tudo resultaria de colisões temporais ao acaso de equipamentos taquiônicos. Weill podia fazer camundongos e até mesmo coelhos desaparecer, mas, se era no futuro ou no passado, ele não sabería dizer. Um camundongo reapareceu, de forma que ele deveria ter viajado só um pouco no passado e parecia não ter sido nem um pouco machucado. E os outros? Quem poderia dizer?</p>
+<p>Imaginou um disparador automático para a máquina. Teoricamente, ele faria o empurrão (fosse lá qual fosse) reverter, trazendo o objeto de volta (de qualquer direção ou de qualquer distância a que ele tivesse ido). Nem sempre funcionava, mas cinco coelhos voltaram ilesos.</p>
+<p>Se pelo menos ele pudesse fazer o disparador à prova de erros, Weill teria feito uma tentativa consigo mesmo. Estava morrendo de vontade de fazer essa tentativa, o que não era uma reação própria de um físico teórico, mas era a absolutamente previsível emoção de um fanático por ficção científica, particularmente admirador das produções “espaço-operísticas” de algumas décadas anteriores ao ano de então, 1976.</p>
+<p>Era inevitável, então, que o acidente pudesse acontecer. De modo nenhum ele podería ter caminhado entre os têmpodos com consciente determinação. Sabia que as probabilidades de ele não voltar eram de duas em cinco. Por outro lado, ele estava morrendo de vontade de tentar, de forma que se deslocou com seus dois pezões e ficou cambaleando entre os têmpodos como resultado de um acidente total... Mas existem mesmo acidentes?...</p>
+<p>Ele podería ter sido arremessado para o passado ou para o futuro. Aconteceu-lhe de ser arremessado no passado.</p>
+<p>Podería ter sido arremessado incontáveis milhares de anos para trás ou apenas um dia e meio. Aconteceu-lhe de ser arremessado cinqüenta e um anos para trás, na época em que o Escândalo Harding estava em plena efervescência, se bem que o país estivesse se mantendo em paz com Coolidge<9> e soubesse que ninguém no mundo podería surrar Jack Dempsey.</p>
+<p>Mas, algo nas teorias de Weill havia que elas não haviam contado a ele. Sabia o que podería acontecer às partículas propriamente ditas, mas não havia como prever o que aconteceria ao relacionamento entre as várias partículas. E há relacionamentos mais complexos que os que há no cérebro?</p>
+<p>De forma que o que aconteceu foi que Weill recuou no tempo, com sua mente desenrolada. Não totalmente, felizmente, visto que Wiell nem tinha sido concebido no ano anterior ao Sesquicentenário dos Estados Unidos, e um cérebro com menos que qualquer desenvolvimento seria uma grave desvantagem.</p>
+<p>Ele se desenrolou claudicante, parcial e inabilmente, e quando Weill se achou num banco de jardim não distante de sua residência de 1976, na parte baixa de Manhattan, onde ele experimentava uma dúbia simbiose com a Universidade de Nova Iorque, ele se achou no ano de 1925 com uma colossal dor de cabeça, e sem uma idéia muito clara do que é que estava havendo.</p>
+<p>Achou-se a olhar fixamente para um homem de seus quarenta anos, cabelo com brilhantina, maçãs do rosto salientes, nariz adunco, e que partilhava com ele o banco.</p>
+<p>O homem parecia preocupado. E disse: — De onde você veio? Um minuto atrás, não estava aqui. — Tinha um distinto acento germânico.</p>
+<p>Weill não estava seguro. Não podia se lembrar. Mas uma frase parecia perdurar, em meio ao caos, dentro de seu crânio, mesmo não tendo ele certeza do que ela poderia significar.</p>
+<p>— Máquina do tempo — arquejou.</p>
+<p>O outro se empertigou. E perguntou: — Lê romances pseudocientíficos?...</p>
+<p>— O quê? — perguntou Weill.</p>
+<p>— Já leu <i>A Máquina do Tempo</i>, de H. G. Wells?</p>
+<p>A repetição da frase pareceu acalmar Weill um pouco. A dor em sua cabeça diminuira. O nome Wells pareceu-lhe familiar, ou seria seu próprio nome? Não, seu nome era Weill.</p>
+<p>— Wells? — perguntou. — Eu sou Weill.</p>
+<p>O outro estendeu a mão. — E eu sou Hugo Gernsback. De vez em quando escrevo romances pseudocientíficos, mas, por certo, não está correto dizer “pseudo”. Isto parece dar a impressão de que se trata de uma fraude. E não é assim. O nome deveria ser escrito corretamente: ficção científica. Gosto de abreviar desta maneira... — seus olhos escuros brilharam — “cientificção”.</p>
+<p>— Sim — disse Weill, tentando desesperadamente reunir fragmentos em sua memória, assim como experiências intactas, e obtendo apenas estados de espírito e impressões. — Cientificção. Melhor do que pseudo. Se bem que ainda não...</p>
+<p>— Se <i>bem</i> escrita. Leu minha “Ralph 124C41+”?</p>
+<p>— Hugo Gernsback — disse Weill, franzindo o sobrecenho. — Famoso...</p>
+<p>— Só um pouquinho — atalhou o outro, sacudindo a cabeça. — Editei revistas sobre rádio e sobre invenções elétricas, faz anos. Já leu “Ciência e Invenção”?”</p>
+<p>Weill apanhou a palavra “invenção” e de certa forma ela o deixou à beira de compreender o que tentara exprimir com “máquina do tempo”. Ficou ansioso e disse: — Sim, sim.</p>
+<p>— E que acha da cientificção que acrescento em cada número da revista?</p>
+<p>Novamente a cientificção. A palavra tinha um efeito calmante sobre Weill e, mesmo assim, não se sentia plenamente bem. Um pouco mais... Não muito...</p>
+<p>E disse: — Alguma coisa mais. Não muito...</p>
+<p>— Não muito, não suficiente? Sim, tenho pensado nisto. No ano passado enviei circulares, solicitando assinaturas para uma revista que teria só cientificção. Eu iria chamá-la de <i>Cientificção</i>. Os resultados foram muito desapontadores. Como é que você explicaria isto?</p>
+<p>Weill não o ouvira. Ainda estava se concentrando na palavra “cientificção”, que não lhe parecia muito certa, mas ele não podia compreender por que ela não lhe parecia certa.</p>
+<p>Ele disse: — O nome não está certo.</p>
+<p>— Não está certo para uma revista? Pode ser que seja. Não pensei num nome bom; alguma coisa que chamasse a atenção direta para o que ele quer. É isto. Se eu arranjasse um bom nome, eu começaria com a revista e não me preocuparia com circulares. Eu não pediría nada. Eu simplesmente poria a revista em todas as bancas dos Estados Unidos na próxima primavera; isto é tudo.</p>
+<p>Weill ficou a olhá-lo, sem expressão.</p>
+<p>O homem disse: — Claro que as estórias que quero ensinariam ciência enquanto divertiríam e excitariam o leitor. Abriríam para ele os vastos objetivos do futuro. Aviões atravessarão o Atlântico sem escalas.</p>
+<p>— Aviões? — Weill teve uma visão fugitiva de uma grande baleia metálica, erguendo-se às suas próprias custas. Passado um momento, já não dava mais para vê-la. Ele disse: — Grandes, transportando centenas de pessoas mais rápido que o som.</p>
+<p>— Naturalmente. Por que não? E mantendo-se em contacto, por meio do rádio, com a terra, a todo instante.</p>
+<p>— Satélites.</p>
+<p>— O quê? Foi a vez do outro olhar, confuso.</p>
+<p>— Ondas de rádio vindas de um satélite artificial no espaço.</p>
+<p>O outro sacudiu vigorosamente a cabeça. — Eu predisse o uso de ondas de rádio para detectar algo à distância em “Ralph 124C41+”. Espelhos espaciais? Eu os previ. E também a televisão, por certo. E energia do átomo.</p>
+<p>Weill estava galvanizado. Imagens chamejavam diante dos olhos de sua mente em desordem. — Átomo — disse ele. — Sim. Bombas nucleares.</p>
+<p>— Rádio — disse o outro, complacentemente.</p>
+<p>— Plutônio — disse Weill.</p>
+<p>— O quê?</p>
+<p>— Plutônio. E fusão nuclear. Imitando o Sol. Náilon e plásticos. Pesticidas para matar os insetos. Computadores para resolver os problemas.</p>
+<p>— Computadores? Você quer dizer robôs?</p>
+<p>— Computadores de bolso — disse Weill, entusiasticamente. — Objetos pequenos. Segurá-los na mão e resolver problemas. Radinhos. Também de segurar na mão. Câmaras fotográficas que revelam as fotos dentro delas mesmas. Holografias. Fotografias tridimensionais.</p>
+<p>O outro perguntou: — Você escreve cientifícção?</p>
+<p>Weill não prestou atenção. Continuou tentando reter as imagens. Estavam ficando mais claras. — Arranha-céus — disse. — De alumínio e vidro. Vias elevadas. Televisão a cores. O homem na Lua. Sondas enviadas a Júpiter.</p>
+<p>— O homem na Lua — falou o outro. — Júlio Veme. Leu Júlio Veme?</p>
+<p>Weill sacudiu a cabeça. Agora estava bem claro. A cabeça estava melhorando um pouco. — A descida na Lua vista pela televisão. Todo mundo vendo. E fotografias de Marte. Não há canais em Marte.</p>
+<p>— Não há canais em Marte? — perguntou o outro, atônito. — Mas eles foram vistos!</p>
+<p>Firmemente, Weill retomou a palavra: — Não há os canais. Vulcões. Os maiores. Os maiores <i>canyons</i>. Transistores, lasers, táquions. Veja se prende os táquions. Faça-os empurrar o tempo para trás. Mova-se contra o tempo. Mova-se contra o tempo. Incrí...</p>
+<p>A voz de Weill estava ficando mais fraca e seus contornos tremiam. Aconteceu de forma tal que o outro homem desviou o olhar, neste momento, olhando abobalhado o céu azul, murmurando: — Táquions? De que está ele falando?</p>
+<p>Estava pensando em que, se um estranho que ele ocasionalmente encontrara no parque estava tão interessado em cientifícção, era um bom indício de que era hora de lançar a revista. Lembrou-se então de que o outro não tinha nome e afastou a idéia, a contragosto.</p>
+<p>Voltou-se para trás, em tempo de ouvir as últimas palavras de Weill: — Viagem taquiônica no tempo, uma estória fascinante... — E lá se fora ele, abocanhando de volta seu próprio tempo.</p>
+
+<p class="spacebefore">Hugo Gernsback encarou com horror o local em que o homem tinha estado. Não o vira chegar e, na verdade, também não o vira ir-se embora. Sua mente rejeitava aquele autêntico desaparecimento. Que sujeito mais estranho... corte esquisito nas roupas, chegou a pensar, e suas palavras eram irregulares e turbilhonantes.</p>
+<p>O próprio estranho o dissera, uma estória fascinante. Suas últimas palavras.</p>
+<p>E então Gernsback murmurou a frase escandindo-a bem: — Estória fascinante... <i>Estórias Fascinantes?</i>*</p>
+<p>Um sorriso começou a brotar nos cantos de sua boca.</p>
+
+.
+
+<p class="spacebefore">Uma palavra final...</p>
+<p>Ao reunir as estórias para esta coleção, não pude deixar de notar que entre novembro de 1974 e novembro de 1975 escrevi e vendi sete estórias de ficção científica. Além disso, escrevi e vendi duas estórias de mistério e uma novela de mistério, num total de 132.000 palavras de ficção.</p>
+<p>Compreendem, então, porque, quando algumas pessoas, deslumbradas com meus mais de 120 livros de não-ficção, me perguntam se parei de escrever ficção, eu sempre respondo: — Não parei, não.</p>
+<p>Bem... <i>não parei mesmo</i>!</p>
+<p>E, enquanto eu viver, não pararei!</p>
+
 	<9> Em inglês, “Birth of a Notion”, que dificilmente não nos leva a pensar no célebre filme de D. W. Griffith, “Birth.of a Nation” (O Nascimento de uma Nação), um dos clássicos do cinema, filmado durante a Primeira Guerra Mundial, e baseado na Guerra de Secessão. (N.T.)
-
-Mas, algo nas teorias de Weill havia que elas não haviam contado a ele. Sabia o que podería acontecer às partículas propriamente ditas, mas não havia como prever o que aconteceria ao relacionamento entre as várias partículas. E há relacionamentos mais complexos que os que há no cérebro?
-De forma que o que aconteceu foi que Weill recuou no tempo, com sua mente desenrolada. Não <10>totalmente, felizmente, visto que Wiell nem tinha sido concebido no ano anterior ao Sesquicentenário dos Estados Unidos, e um cérebro com menos que qualquer desenvolvimento seria uma grave desvantagem.
-	<10> Em inglês, “Birth of a Notion”, que dificilmente não nos leva a pensar no célebre filme de D. W. Griffith, “Birth.of a Nation” (O Nascimento de uma Nação), um dos clássicos do cinema, filmado durante a Primeira Guerra Mundial, e baseado na Guerra de Secessão. (N.T.)
-
-Ele se desenrolou claudicante, parcial e inabilmente, e quando Weill se achou num banco de jardim não distante de sua residência de 1976, na parte baixa de Manhattan, onde ele experimentava uma dúbia simbiose com a Universidade de Nova Iorque, ele se achou no ano de 1925 com uma colossal dor de cabeça, e sem uma idéia muito clara do que é que estava havendo.
-Achou-se a olhar fixamente para um homem de seus quarenta anos, cabelo com brilhantina, maçãs do rosto salientes, nariz adunco, e que partilhava com ele o banco.
-No original, “keeping Cool with Coolidge”, trocadilho intraduzível, pois “keep cool” quer dizer manter-se calmo, estar em bom termos com Calvin Coolidge (1872-1933), presidente dos Estados Unidos (n.T.)
-0 homem parecia preocupado. E disse: — De onde você veio? Um minuto atrás, não estava aqui. — Tinha um distinto acento germânico.
-Weill não estava seguro. Não podia se lembrar. Mas uma frase parecia perdurar, em meio ao caos, dentro de sejj crânio, mesmo não tendo ele certeza do que ela poderia significar.
-— Máquina do tempo — arquejou.
-O outro se empertigou. E perguntou: — Lê romances pseudo-científicos?...
-— O quê? — perguntou Weill.
-— Já leu A Máquina do Tempo, de H. G. Wells?
-A repetição da frase pareceu acalmar Weill um pouco. A dor em sua cabeça diminuira. O nome Wells pareceu-lhe familiar, ou seria seu próprio nome? Não, seu nome era Weill.
-— Wells? — perguntou. — Eu sou Weill.
-O outro estendeu a mão. — E eu sou Hugo Gernsback. De vez em quando escrevo romances pseudocientíficos, mas, por certo, não está correto dizer “pseudo”. Isto parece dar a impressão de que se trata de uma fraude. E não é assim. O nome deveria ser escrito corretamente: ficção científica. Gosto de abreviar desta maneira... — seus olhos escuros brilharam — “cientificção”.
-— Sim — disse Weill, tentando desesperadamente reunir fragmentos em sua memória, assim como experiências intactas, e obtendo apenas estados de espírito e impressões. — Cientificção. Melhor do que pseudo. Se bem que ainda não...
-— Se bem escrita. Leu minha “Ralph 124C41 + ”?
-— Hugo Gernsback — disse Weill, franzindo o sobrecenho. — Famoso...
-— Só um pouquinho — atalhou o outro, sacudindo a cabeça. — Editei revistas sobre rádio e sobre invenções elétricas, faz anos. Já leu “Ciência e Invenção”?”
-Weill apanhou a palavra “invenção” e de certa forma ela o deixou à beira de compreender o que tentara exprimir com “máquina do tempo”. Ficou ansioso e disse: — Sim, sim.
-— E que acha da cientificção que acrescento em cada número da revista?
-Novamente a cientificção. A palavra tinha um efeito calmante sobre Weill e, mesmo assim, não se sentia plenamente bem. Um pouco mais... Não muito...
-E disse: — Alguma coisa mais. Não muito...
-— Não muito, não suficiente? Sim, tenho pensado nisto. No ano passado enviei circulares, solicitando assinaturas para uma revista que teria só cientificção. Eu iria chamá-la de Cientificção.
-Os resultados foram muito desapontadores. Como é que você explicaria isto?
-Weill não o ouvira. Ainda estava se concentrando na palavra “cientificção”, que não lhe parecia muito certa, mas ele não podia compreender por que ela não lhe parecia certa.
-Ele disse: — O nome não está certo.
-— Não está certo para uma revista? Pode ser que seja. Não pensei num nome bom; alguma coisa que chamasse a atenção direta para o que ele quer. É isto. Se eu arranjasse um bom nome, eu começaria com a revista e não me preocuparia com circulares. Eu não pediría nada. Eu simplesmente poria a revista em todas as bancas dos Estados Unidos na próxima primavera; isto é tudo.
-Weill ficou a olhá-lo, sem expressão.
-O homem disse: — Claro que as estórias que quero ensinariam ciência enquanto divertiríam e excitariam o leitor. Abriríam para ele os vastos objetivos do futuro. Aviões atravessarão o Atlântico sem escalas.
-— Aviões? — Weill teve uma visão fugitiva de uma grande baleia metálica, erguendo-se às suas próprias custas. Passado um momento, já não dava mais para vê-la. Ele disse: — Grandes, transportando centenas de pessoas mais rápido que o som.
-— Naturalmente. Por que não? E mantendo-se em contacto, por meio do rádio, com a terra, a todo instante.
-— Satélites.
-— O quê? Foi a vez do outro olhar, confuso.
-— Ondas de rádio vindas de um satélite artificial no espaço.
-O outro sacudiu vigorosamente a cabeça. — Eu predisse o uso
-de ondas de rádio para detectar algo à distância em “Ralph 124C41+”. Espelhos espaciais? Eu os previ. E também a televisão, por certo. E energia do átomo.
-Weill estava galvanizado. Imagens chamejavam diante dos olhos de sua mente em desordem. — Átomo — disse ele. — Sim. Bombas nucleares.
-— Rádio — disse o outro, complacentemente.
-— Plutônio — disse Weill.
-— O quê?
-— Plutônio. E fusão, nuclear. Imitando o Sol. Náilon e plásticos. Pesticidas para matar os insetos. Computadores para resolver os problemas.
-— Computadores? Você quer dizer robôs?
-— Computadores de bolso — disse Weill, entusiasticamente. — Objetos pequenos. Segurá-los na mão e resolver problemas. Radinhos. Também de segurar na mão. Câmaras fotográficas que revelam
-as fotos dentro delas mesmas. Holagrafias. Fotografias tridimensionais.
-O outro perguntou: — Você escreve cientifícção?
-Weill não prestou atenção. Continuou tentando reter as imagens. Estavam ficando mais claras. — Arranha-céus — disse. — De alumínio e vidro. Vias elevadas. Televisão a cores. O homem na Lua. Sondas enviadas a Júpiter.
-— O homem na Lua — falou o outro. — Júlio Veme. Leu Júlio Veme?
-Weill sacudiu a cabeça. Agora estava bem claro. A cabeça estava melhorando um pouco. — A descida na Lua vista pela televisão. Todo mundo vendo. E fotografias de Marte. Não há canais em Marte.
-— Não há canais em Marte? — perguntou o outro, atônito. — Mas eles foram vistos!
-Firmemente, Weill retomou a palavra: — Não há os canais. Vulcões. Os maiores. Os maiores canyons. Transistores, lasers, táquions. Veja se prende os táquions. Faça-os empurrar o tempo para trás. Mova-se contra o tempo. Mova-se contra o tempo. Incrí...
-A voz de Weill estava ficando mais fraca e seus contornos tremiam. Aconteceu de forma tal que o outro homem desviou o olhar, neste momento, olhando abobalhado o céu azul, murmurando: — Táquions? De que está ele falando?
-Estava pensando em que, se um estranho que ele ocasionalmente encontrara no parque estava tão interessado em cientifícção, era um bom indício de que era hora de lançar a revista. Lembrou-se então de que o outro não tinha nome e afastou a idéia, a contragosto.
-Voltou-se para trás, em tempo de ouvir as últimas palavras de Weill: — Viagem taquiônica no tempo, uma estória fascinante... — E lá se fora ele, abocanhando de volta seu próprio tempo.
-Hugo Gemsback encarou com horror o local em que o homem tinha estado. Não o vira chegar e, na verdade, também não o vira ir-se embora. Sua mente rejeitava aquele autêntico desaparecimento. Que sujeito mais estranho... corte esquisito nas roupas, chegou a pensar, e suas palavras eram irregulares e turbilhonantes.
-O próprio estranho o dissera, uma estória fascinante. Suas últimas palavras.
-E então Gemsback murmurou a frase escandindo-a bem: — Estória fascinante... Estórias Fascinantes? <11>
+	<10> No original, “keeping Cool with Coolidge”, trocadilho intraduzível, pois “keep cool” quer dizer manter-se calmo, estar em bom termos com Calvin Coolidge (1872-1933), presidente dos Estados Unidos (n.T.)
 	<11> Em inglês, Amazing Stories, título da revista cuja história Asimov narra no início desta e... reconta-a na própria estória (N.T.)
 
-Um sorriso começou a brotar nos cantos de sua boca.
-Uma palavra final...
-Ao reunir as estórias para esta coleção, não pude deixar de notar que entre novembro de 1974 e novembro de 1975 escrevi e vendi sete estórias de ficção científica. Além disso, escrevi e vendi duas estórias de mistério e uma novela de mistério, num total de 132.000 palavras de ficção.
-Compreendem, então, porque, quando algumas pessoas, deslumbradas com meus mais de 120 livros de não-ficção, me perguntam se parei de escrever ficção, eu sempre respondo: — Não parei, não.
-Bem... não parei mesmo\
-E, enquanto eu viver, não pararei!
 PROCURE NAS LIVRARIAS, DESTA MESMA SERIE DE FICÇÃO CIENTÍFICA:
 O FUTURO COMEÇOU	Isaac Asimov
 NÓS, OS MARCIANOS	Isaac A simov
