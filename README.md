@@ -22,17 +22,17 @@ Existe um software gratuito que pode fazer a conversão, mas não tenho tido res
 
 ## Relação de Livros
 
-No final dos livros existe uma relação de títulos, que foi usado para compilar esta lista. Nas informações dos livros normalmente não existe uma data de publicação da edição (ou das várias edições) nacionais, e alguns dos livros tiveram capas diferentes durante sua existência.
+No final dos livros existe uma relação de títulos, que foi usado para compilar esta lista. Nas informações dos livros normalmente não existe uma data de publicação da edição (ou das várias edições) nacionais, e alguns dos livros tiveram capas diferentes durante sua existência:
 
 ![Variações de Capa](./docs/variacoes_capas.jpg)
 
-Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por autor e título :
+Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por autor e título (alguns títulos originais precisam ser verificadas e estão sinalizada com `(*)`):
 
 | Título                         | Autor                 | Ano de<br />Publicação | Título Original                              | Ano de<br />publicação<br />Original |
 | ------------------------------ | --------------------- | ---------------------- | -------------------------------------------- | ------------------------------------ |
 | 827 Era Galáctica              | Isaac Asimov          |                        | Pebble in the Sky                            | 1950                                 |
 | A Terra Tem Espaço             | Isaac Asimov          |                        | Earth  is Room Enough                        | 1957                                 |
-| As Cavernas de Marte           | Isaac Asimov          |                        | David Starr, Space Ranger                    | 1952                                 |
+| As Cavernas de Marte           | Isaac Asimov          | 1977                   | David Starr, Space Ranger                    | 1952                                 |
 | As Correntes do Espaço         | Isaac Asimov          | 1981                   | The Currents of Space                        | 1952                                 |
 | Caça aos Robôs                 | Isaac Asimov          |                        | The Caves of Steel                           | 1954                                 |
 | Despertar dos Deuses           | Isaac Asimov          |                        | The Gods Themselves                          | 1972                                 |
@@ -50,38 +50,50 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por auto
 | Os Anéis de Saturno            | Isaac Asimov          |                        | Lucky Starr and the Rings of Saturn          | 1958                                 |
 | Os Oceanos de Vênus            | Isaac Asimov          | 1980                   | Lucky Starr and the Oceans of Venus          | 1954                                 |
 | Os Robôs                       | Isaac Asimov          |                        | The Naked Sun                                | 1957                                 |
-| Para Onde Vamos?               | Isaac Asimov          |                        | Where Do We Go From Here?                    |                                      |
+| Para Onde Vamos?               | Isaac Asimov          |                        | Where Do We Go From Here?                    | 1971                                 |
 | Vigilante das Estrelas         | Isaac Asimov          |                        | Lucky Starr and the Pirates of the Asteroids | 1953                                 |
 | Essas Estrelas São Nossas      | Poul Anderson         |                        | We Claim These Stars!                        | 1959                                 |
-| Guerra dos Homens Alados       | Poul Anderson         | 1978                   | War of the Wing-Men                          |                                      |
-| Luz de Outra Dimensão          | Lloyd Biggle Jr.      |                        | The Light That Never Was                     | 1972                                 |
-| 250 Séculos Após...            | James Blish           | 1972                   |                                              |                                      |
-| A Cidade Perdida de Marte      | Ray Bradbury          |                        | The Martian City                             |                                      |
+| Guerra dos Homens Alados       | Poul Anderson         | 1978                   | War of the Wing-Men                          | 1958                                 |
+| Luz de Outra Dimensão          | Lloyd Biggle Jr.      |                        | The Light That Never Was (*)                 | 1972                                 |
+| 250 Séculos Após...            | James Blish           |                        | Midsummer Century (*)                        | 1972                                 |
+| A Cidade Perdida de Marte      | Ray Bradbury          |                        | The Martian City (*)                         |                                      |
 | E de Espaço                    | Ray Bradbury          |                        | S is for Space                               | 1966                                 |
 | F de  Foguete                  | Ray Bradbury          |                        | R is for Rocket                              | 1962                                 |
-| O Terceiro Planeta             | Arthur C. Clarke      |                        |                                              |                                      |
-| A Humanidade Artificial        | Edmund Cooper         |                        |                                              |                                      |
-| Cavalo-Marinho no Céu          | Edmund Cooper         |                        | Sea Horse in the Sky                         |                                      |
-| O Diabólico Cérebro Eletrônico | David Gerrold         |                        |                                              |                                      |
-| Os Homens Moleculares          | Fred e Geoffrey Hoyle |                        |                                              |                                      |
-| O Terror Rithiano              | Damon Knight          |                        | The Rithian Terror                           |                                      |
-| Os Cérebros Prateados          | Fritz Leiber          |                        | The Silver Eggheads                          |                                      |
-| Nave Escrava                   | Frederick Pohl        |                        | Slave Ship                                   |                                      |
+| O Terceiro Planeta             | Arthur C. Clarke      |                        | Report on Planet Three (*)                   | 1972                                 |
+| A Humanidade Artificial        | Edmund Cooper         |                        | The Overman Culture (*)                      | 1971                                 |
+| Cavalo-Marinho no Céu          | Edmund Cooper         |                        | Seahorse in the Sky                          | 1969                                 |
+| O Diabólico Cérebro Eletrônico | David Gerrold         |                        | When Harlie Was One (*)                      | 1972                                 |
+| Os Homens Moleculares          | Fred e Geoffrey Hoyle |                        | The Molecule Men (*)                         | 1971                                 |
+| O Terror Rithiano              | Damon Knight          |                        | The Rithian Terror                           | 1965                                 |
+| Os Cérebros Prateados          | Fritz Leiber          |                        | The Silver Eggheads                          | 1961                                 |
+| Nave Escrava                   | Frederick Pohl        |                        | Slave Ship                                   | 1956                                 |
 | Boneca do Destino              | Clifford D. Simak     |                        | Destiny Doll                                 | 1971                                 |
-| Cei, o Gigante                 | Curt Siodmak          |                        |                                              |                                      |
+| Cei, o Gigante                 | Curt Siodmak          |                        | City in the Sky (*)                          | 1974                                 |
 | Venus Mais X                   | Theodore Sturgeon     |                        | Venus Plus X                                 | 1960                                 |
 
 ## Andamento do projeto
 
-Vou atualizando este documento conforme os trabalhos evoluem.
+Vou atualizando este documento conforme as atividades são executadas.
+
+### Resumo
+
+|             | Realizado | %    |
+| ----------- | --------- | ---- |
+| Páginas     | 9906      | 100  |
+| Localizado  | 7133      | 72,0 |
+| Scaneadas   | 2130      | 21,5 |
+| Convertidas | 1086      | 10,9 |
+| Revisadas   | 82        | 0,8  |
+
+### Detalhado
 
 | Título                         | Páginas | Localizado | Scan | OCR  | EPUB | Revisado |
 | ------------------------------ | ------- | ---------- | ---- | ---- | ---- | -------- |
-| 827 Era Galáctica              | 234     | ✅          | ✅    | ✅    | ✅    |          |
+| **827 Era Galáctica**          | 234     | ✅          | ✅    | ✅    | ✅    |          |
 | A Terra Tem Espaço             | 206     | ✅          |      |      |      |          |
-| As Cavernas de Marte           | 142     | ✅          |      |      |      |          |
+| **As Cavernas de Marte**       | 142     | ✅          | ✅    | ✅    |      |          |
 | As Correntes do Espaço         | 206     | ✅          |      |      |      |          |
-| Caça aos Robôs                 | 296     | ✅          |      |      |      |          |
+| **Caça aos Robôs**             | 296     | ✅          |      |      |      |          |
 | Despertar dos Deuses           | 272     | ✅          | ✅    | ✅    |      |          |
 | Fim da Eternidade              | 248     | ✅          |      |      |      |          |
 | Fundação                       | 503     | ✅          |      |      |      |          |
@@ -92,14 +104,14 @@ Vou atualizando este documento conforme os trabalhos evoluem.
 | O Cair da Noite                | 378     | ✅          | ✅    | ✅    | ✅    |          |
 | O Futuro Começou               | 470     | ✅          |      |      |      |          |
 | O Grande Sol de Mercúrio       | 193     | ✅          |      |      |      |          |
-| O Homem Bicentenário           | 238     | ✅          | ✅    | ✅    | ✅    | 60       |
+| O Homem Bicentenário           | 238     | ✅          | ✅    | ✅    | ✅    | 82       |
 | O Robô de Júpiter              | 142     | ✅          |      |      |      |          |
 | Os Anéis de Saturno            | 234     | ✅          |      |      |      |          |
-| Os Oceanos de Vênus            | 190     | ✅          |      |      |      |          |
+| **Os Oceanos de Vênus**        | 190     | ✅          |      |      |      |          |
 | Os Robôs                       | 146     | ✅          |      |      |      |          |
-| Para Onde Vamos?               | 374     | ✅          | 130  |      |      |          |
-| Vigilante das Estrelas         | 264     | ✅          |      |      |      |          |
-| Essas Estrelas São Nossas      | 162     | ✅          |      |      |      |          |
+| Para Onde Vamos?               | 374     | ✅          | ✅    | ✅    |      |          |
+| Vigilante das Estrelas         | 162     | ✅          |      |      |      |          |
+| Essas Estrelas São Nossas      | 197     | ✅          |      |      |      |          |
 | Guerra dos Homens Alados       | 224     |            |      |      |      |          |
 | Luz de Outra Dimensão          | 228     | ✅          |      |      |      |          |
 | 250 Séculos Após...            | 136     | ✅          |      |      |      |          |
