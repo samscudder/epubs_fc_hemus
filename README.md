@@ -54,8 +54,8 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por auto
 | Vigilante das Estrelas         | Isaac Asimov          |                        | Lucky Starr and the Pirates of the Asteroids | 1953                                 |
 | Essas Estrelas São Nossas      | Poul Anderson         |                        | We Claim These Stars!                        | 1959                                 |
 | Guerra dos Homens Alados       | Poul Anderson         | 1978                   | War of the Wing-Men                          | 1958                                 |
-| Luz de Outra Dimensão          | Lloyd Biggle Jr.      |                        | The Light That Never Was (*)                 | 1972                                 |
-| 250 Séculos Após...            | James Blish           |                        | Midsummer Century (*)                        | 1972                                 |
+| Luz de Outra Dimensão          | Lloyd Biggle Jr.      | 1981                   | The Light That Never Was                     | 1972                                 |
+| 250 Séculos Após...            | James Blish           |                        | Midsummer Century                            | 1972                                 |
 | A Cidade Perdida de Marte      | Ray Bradbury          |                        | The Martian City (*)                         |                                      |
 | E de Espaço                    | Ray Bradbury          |                        | S is for Space                               | 1966                                 |
 | F de  Foguete                  | Ray Bradbury          |                        | R is for Rocket                              | 1962                                 |
@@ -66,7 +66,7 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por auto
 | Os Homens Moleculares          | Fred e Geoffrey Hoyle |                        | The Molecule Men (*)                         | 1971                                 |
 | O Terror Rithiano              | Damon Knight          |                        | The Rithian Terror                           | 1965                                 |
 | Os Cérebros Prateados          | Fritz Leiber          |                        | The Silver Eggheads                          | 1961                                 |
-| Nave Escrava                   | Frederick Pohl        |                        | Slave Ship                                   | 1956                                 |
+| Nave Escrava                   | Frederick Pohl        | 1977                   | Slave Ship                                   | 1956                                 |
 | Boneca do Destino              | Clifford D. Simak     |                        | Destiny Doll                                 | 1971                                 |
 | Cei, o Gigante                 | Curt Siodmak          |                        | City in the Sky (*)                          | 1974                                 |
 | Venus Mais X                   | Theodore Sturgeon     |                        | Venus Plus X                                 | 1960                                 |
@@ -81,9 +81,9 @@ Vou atualizando este documento conforme as atividades são executadas.
 | ----------- | --------- | ---- |
 | Páginas     | 9906      | 100  |
 | Localizado  | 8290      | 83,7 |
-| Scaneadas   | 2482      | 25,0 |
+| Scaneadas   | 2786      | 28,1 |
 | Convertidas | 1086      | 10,9 |
-| Revisadas   | 82        | 0,8  |
+| Revisadas   | 190       | 1,9  |
 
 ### Detalhado
 
@@ -97,24 +97,24 @@ Vou atualizando este documento conforme as atividades são executadas.
 | Despertar dos Deuses           | 272     | ✅          | ✅    | ✅    |      |          |
 | Fim da Eternidade              | 248     | ✅          |      |      |      |          |
 | Fundação                       | 503     | ✅          |      |      |      |          |
-| Fundação II                    | 372     | ✅          |      |      |      |          |
+| Fundação II                    | 372     | ✅          | 92   |      |      |          |
 | Júpiter à Venda                | 236     | ✅          | ✅    | ✅    | ✅    |          |
 | Nós Robôs                      | 559     |            |      |      |      |          |
 | Nós, os Marcianos              | 256     | ✅          | ✅    | ✅    |      |          |
-| O Cair da Noite                | 378     | ✅          | ✅    | ✅    | ✅    |          |
+| O Cair da Noite                | 378     | ✅          | ✅    | ✅    | ✅    | 108      |
 | O Futuro Começou               | 470     | ✅          |      |      |      |          |
 | O Grande Sol de Mercúrio       | 193     | ✅          |      |      |      |          |
 | O Homem Bicentenário           | 238     | ✅          | ✅    | ✅    | ✅    | 82       |
 | O Robô de Júpiter              | 142     | ✅          |      |      |      |          |
 | Os Anéis de Saturno            | 234     | ✅          |      |      |      |          |
-| **Os Oceanos de Vênus**        | 190     | ✅          | ✅    |      |      |          |
+| **Os Oceanos de Vênus**        | 190     | ✅          | ✅    | ✅    |      |          |
 | Os Robôs                       | 146     | ✅          |      |      |      |          |
 | Para Onde Vamos?               | 374     | ✅          | ✅    | ✅    |      |          |
 | Vigilante das Estrelas         | 162     | ✅          |      |      |      |          |
 | Essas Estrelas São Nossas      | 197     | ✅          |      |      |      |          |
 | Guerra dos Homens Alados       | 224     | ✅          |      |      |      |          |
 | Luz de Outra Dimensão          | 228     | ✅          |      |      |      |          |
-| 250 Séculos Após...            | 136     | ✅          |      |      |      |          |
+| 250 Séculos Após...            | 136     | ✅          | ✅    |      |      |          |
 | A Cidade Perdida de Marte      | 218     |            |      |      |      |          |
 | E de Espaço                    | 202     | ✅          |      |      |      |          |
 | F de  Foguete                  | 210     |            |      |      |      |          |
@@ -125,7 +125,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | Os Homens Moleculares          | 286     |            |      |      |      |          |
 | O Terror Rithiano              | 124     | ✅          |      |      |      |          |
 | Os Cérebros Prateados          | 220     | ✅          |      |      |      |          |
-| Nave Escrava                   | 168     | ✅          |      |      |      |          |
+| Nave Escrava                   | 168     | ✅          | ✅    | ✅    |      |          |
 | Boneca do Destino              | 214     | ✅          |      |      |      |          |
 | Cei, o Gigante                 | 210     |            |      |      |      |          |
 | Venus Mais X                   | 178     | ✅          |      |      |      |          |
