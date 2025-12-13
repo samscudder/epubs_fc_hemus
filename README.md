@@ -80,8 +80,8 @@ Vou atualizando este documento conforme as atividades são executadas.
 |             | Realizado | %    |
 | ----------- | --------- | ---- |
 | Páginas     | 9906      | 100  |
-| Localizado  | 7133      | 72,0 |
-| Scaneadas   | 2130      | 21,5 |
+| Localizado  | 8290      | 83,7 |
+| Scaneadas   | 2482      | 25,0 |
 | Convertidas | 1086      | 10,9 |
 | Revisadas   | 82        | 0,8  |
 
@@ -90,7 +90,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | Título                         | Páginas | Localizado | Scan | OCR  | EPUB | Revisado |
 | ------------------------------ | ------- | ---------- | ---- | ---- | ---- | -------- |
 | **827 Era Galáctica**          | 234     | ✅          | ✅    | ✅    | ✅    |          |
-| A Terra Tem Espaço             | 206     | ✅          |      |      |      |          |
+| A Terra Tem Espaço             | 206     | ✅          | ✅    |      |      |          |
 | **As Cavernas de Marte**       | 142     | ✅          | ✅    | ✅    |      |          |
 | As Correntes do Espaço         | 206     | ✅          |      |      |      |          |
 | **Caça aos Robôs**             | 296     | ✅          |      |      |      |          |
@@ -107,24 +107,24 @@ Vou atualizando este documento conforme as atividades são executadas.
 | O Homem Bicentenário           | 238     | ✅          | ✅    | ✅    | ✅    | 82       |
 | O Robô de Júpiter              | 142     | ✅          |      |      |      |          |
 | Os Anéis de Saturno            | 234     | ✅          |      |      |      |          |
-| **Os Oceanos de Vênus**        | 190     | ✅          |      |      |      |          |
+| **Os Oceanos de Vênus**        | 190     | ✅          | ✅    |      |      |          |
 | Os Robôs                       | 146     | ✅          |      |      |      |          |
 | Para Onde Vamos?               | 374     | ✅          | ✅    | ✅    |      |          |
 | Vigilante das Estrelas         | 162     | ✅          |      |      |      |          |
 | Essas Estrelas São Nossas      | 197     | ✅          |      |      |      |          |
-| Guerra dos Homens Alados       | 224     |            |      |      |      |          |
+| Guerra dos Homens Alados       | 224     | ✅          |      |      |      |          |
 | Luz de Outra Dimensão          | 228     | ✅          |      |      |      |          |
 | 250 Séculos Após...            | 136     | ✅          |      |      |      |          |
 | A Cidade Perdida de Marte      | 218     |            |      |      |      |          |
 | E de Espaço                    | 202     | ✅          |      |      |      |          |
 | F de  Foguete                  | 210     |            |      |      |      |          |
-| O Terceiro Planeta             | 286     |            |      |      |      |          |
+| O Terceiro Planeta             | 286     | ✅          |      |      |      |          |
 | A Humanidade Artificial        | 214     |            |      |      |      |          |
 | Cavalo-Marinho no Céu          | 222     |            |      |      |      |          |
 | O Diabólico Cérebro Eletrônico | 282     | ✅          |      |      |      |          |
 | Os Homens Moleculares          | 286     |            |      |      |      |          |
-| O Terror Rithiano              | 124     |            |      |      |      |          |
-| Os Cérebros Prateados          | 220     |            |      |      |      |          |
+| O Terror Rithiano              | 124     | ✅          |      |      |      |          |
+| Os Cérebros Prateados          | 220     | ✅          |      |      |      |          |
 | Nave Escrava                   | 168     | ✅          |      |      |      |          |
 | Boneca do Destino              | 214     | ✅          |      |      |      |          |
 | Cei, o Gigante                 | 210     |            |      |      |      |          |
