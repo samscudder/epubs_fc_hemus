@@ -97,11 +97,11 @@ Vou atualizando este documento conforme as atividades são executadas.
 | Despertar dos Deuses           | 272     | ✅          | ✅    | ✅    |      |          |
 | Fim da Eternidade              | 248     | ✅          |      |      |      |          |
 | Fundação                       | 503     | ✅          |      |      |      |          |
-| Fundação II                    | 372     | ✅          | 92   |      |      |          |
+| Fundação II                    | 372     | ✅          | 199  |      |      |          |
 | Júpiter à Venda                | 236     | ✅          | ✅    | ✅    | ✅    |          |
 | Nós Robôs                      | 559     |            |      |      |      |          |
 | Nós, os Marcianos              | 256     | ✅          | ✅    | ✅    |      |          |
-| O Cair da Noite                | 378     | ✅          | ✅    | ✅    | ✅    | 108      |
+| O Cair da Noite                | 378     | ✅          | ✅    | ✅    | ✅    | 118      |
 | O Futuro Começou               | 470     | ✅          |      |      |      |          |
 | O Grande Sol de Mercúrio       | 193     | ✅          |      |      |      |          |
 | O Homem Bicentenário           | 238     | ✅          | ✅    | ✅    | ✅    | 82       |
@@ -137,6 +137,8 @@ Aqui estão os erros mais comuns de OCR que foram encontrados na hora de revisar
 - *Corno* no lugar de *como*
 - *Tomar* no lugar de *tornar*
 - traço (-) no lugar de travessão (—)
+- ah no lugar de ali
+- 
 - palavras que não foram emendadas quando separadas por traço no final da linha
   Quebras de parágrafo inexistentes nos finais de páginas
 
