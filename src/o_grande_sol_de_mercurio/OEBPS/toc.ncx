@@ -12,21 +12,21 @@
 		<navPoint id="titlepage" playOrder="2"><navLabel><text>Página de Rosto</text></navLabel><content src="titlepage.xhtml"/></navPoint>
 		<navPoint id="copyright" playOrder="3"><navLabel><text>Copyright</text></navLabel><content src="copyright.xhtml"/></navPoint>
 		<navPoint id="toc" playOrder="4"><navLabel><text>Sumário</text></navLabel><content src="toc.xhtml"/></navPoint>
-		<navPoint id="c01" playOrder="5"><navLabel><text>1. </text></navLabel><content src="c01.xhtml"/></navPoint>
-		<navPoint id="c02" playOrder="6"><navLabel><text>2. </text></navLabel><content src="c02.xhtml"/></navPoint>
-		<navPoint id="c03" playOrder="7"><navLabel><text>3. </text></navLabel><content src="c03.xhtml"/></navPoint>
-		<navPoint id="c04" playOrder="8"><navLabel><text>4. </text></navLabel><content src="c04.xhtml"/></navPoint>
-		<navPoint id="c05" playOrder="9"><navLabel><text>5. </text></navLabel><content src="c05.xhtml"/></navPoint>
-		<navPoint id="c06" playOrder="10"><navLabel><text>6. </text></navLabel><content src="c06.xhtml"/></navPoint>
-		<navPoint id="c07" playOrder="11"><navLabel><text>7. </text></navLabel><content src="c07.xhtml"/></navPoint>
-		<navPoint id="c08" playOrder="12"><navLabel><text>8. </text></navLabel><content src="c08.xhtml"/></navPoint>
-		<navPoint id="c09" playOrder="13"><navLabel><text>9. </text></navLabel><content src="c09.xhtml"/></navPoint>
-		<navPoint id="c10" playOrder="14"><navLabel><text>10. </text></navLabel><content src="c10.xhtml"/></navPoint>
-		<navPoint id="c11" playOrder="15"><navLabel><text>11. </text></navLabel><content src="c11.xhtml"/></navPoint>
-		<navPoint id="c12" playOrder="16"><navLabel><text>12. </text></navLabel><content src="c12.xhtml"/></navPoint>
-		<navPoint id="c13" playOrder="17"><navLabel><text>13. </text></navLabel><content src="c13.xhtml"/></navPoint>
-		<navPoint id="c14" playOrder="18"><navLabel><text>14. </text></navLabel><content src="c14.xhtml"/></navPoint>
-		<navPoint id="c15" playOrder="19"><navLabel><text>15. </text></navLabel><content src="c15.xhtml"/></navPoint>
-		<navPoint id="c16" playOrder="20"><navLabel><text>16. </text></navLabel><content src="c16.xhtml"/></navPoint>
+		<navPoint id="c01" playOrder="5"><navLabel><text>1. Fantasmas do Sol</text></navLabel><content src="c01.xhtml"/></navPoint>
+		<navPoint id="c02" playOrder="6"><navLabel><text>2. Louco ou Normal?</text></navLabel><content src="c02.xhtml"/></navPoint>
+		<navPoint id="c03" playOrder="7"><navLabel><text>3. A morte está esperando no quarto</text></navLabel><content src="c03.xhtml"/></navPoint>
+		<navPoint id="c04" playOrder="8"><navLabel><text>4. O banquete</text></navLabel><content src="c04.xhtml"/></navPoint>
+		<navPoint id="c05" playOrder="9"><navLabel><text>5. Os rumos do perigo</text></navLabel><content src="c05.xhtml"/></navPoint>
+		<navPoint id="c06" playOrder="10"><navLabel><text>6. Preparativos</text></navLabel><content src="c06.xhtml"/></navPoint>
+		<navPoint id="c07" playOrder="11"><navLabel><text>7. As minas de Mercúrio</text></navLabel><content src="c07.xhtml"/></navPoint>
+		<navPoint id="c08" playOrder="12"><navLabel><text>8. O inimigo nas minas</text></navLabel><content src="c08.xhtml"/></navPoint>
+		<navPoint id="c09" playOrder="13"><navLabel><text>9. Claro-escuro</text></navLabel><content src="c09.xhtml"/></navPoint>
+		<navPoint id="c10" playOrder="14"><navLabel><text>10. O lado do Sol</text></navLabel><content src="c10.xhtml"/></navPoint>
+		<navPoint id="c11" playOrder="15"><navLabel><text>11. O sabotador</text></navLabel><content src="c11.xhtml"/></navPoint>
+		<navPoint id="c12" playOrder="16"><navLabel><text>12. Preparativos para um duelo</text></navLabel><content src="c12.xhtml"/></navPoint>
+		<navPoint id="c13" playOrder="17"><navLabel><text>13. Resultados de um duelo</text></navLabel><content src="c13.xhtml"/></navPoint>
+		<navPoint id="c14" playOrder="18"><navLabel><text>14. Prelúdio de um inquérito</text></navLabel><content src="c14.xhtml"/></navPoint>
+		<navPoint id="c15" playOrder="19"><navLabel><text>15. O inquérito</text></navLabel><content src="c15.xhtml"/></navPoint>
+		<navPoint id="c16" playOrder="20"><navLabel><text>16. Os resultados do inquérito</text></navLabel><content src="c16.xhtml"/></navPoint>
 	</navMap>
 </ncx>
