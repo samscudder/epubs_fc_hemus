@@ -28,50 +28,50 @@ No final dos livros existe uma relação de títulos, que foi usado para compila
 
 Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por autor e título (alguns títulos originais precisam ser verificadas e estão sinalizada com `(*)`):
 
-| Título                            | Autor                 | Ano de<br />Publicação | Título Original                              | Ano de<br />publicação<br />Original |
-| --------------------------------- | --------------------- | ---------------------- | -------------------------------------------- | ------------------------------------ |
-| **827 Era Galáctica**             | Isaac Asimov          |                        | Pebble in the Sky                            | 1950                                 |
-| **A Terra Tem Espaço**            | Isaac Asimov          |                        | Earth  is Room Enough                        | 1957                                 |
-| **As Cavernas de Marte**          | Isaac Asimov          | 1977                   | David Starr, Space Ranger                    | 1952                                 |
-| **As Correntes do Espaço**        | Isaac Asimov          | 1981                   | The Currents of Space                        | 1952                                 |
-| **Caça aos Robôs**                | Isaac Asimov          |                        | The Caves of Steel                           | 1954                                 |
-| Despertar dos Deuses              | Isaac Asimov          |                        | The Gods Themselves                          | 1972                                 |
-| Fim da Eternidade                 | Isaac Asimov          |                        | The End of Eternity                          | 1955                                 |
-| Fundação                          | Isaac Asimov          |                        | Foundation Trilogy                           | 1951-1953                            |
-| **Fundação II**                   | Isaac Asimov          |                        | Foundation’s Edge                            | 1982                                 |
-| **Júpiter à Venda**               | Isaac Asimov          |                        | Buy Jupiter                                  | 1975                                 |
-| Nós Robôs                         | Isaac Asimov          |                        | The Complete Robot                           | 1982                                 |
-| **Nós, os Marcianos**             | Isaac Asimov          |                        | The Martian Way and Other Stories            | 1955                                 |
-| **O Cair da Noite**               | Isaac Asimov          |                        | Nightfall and Other Stories                  | 1969                                 |
-| **O Futuro Começou**              | Isaac Asimov          | 1978                   | The Early Asimov                             | 1972                                 |
-| **O Grande Sol de Mercúrio** (**) | Isaac Asimov          |                        | Lucky Starr and the Big Sun of Mercury       | 1956                                 |
-| **O Homem Bicentenário**          | Isaac Asimov          | 1980                   | The Bicentennial Man and Other Stories       | 1976                                 |
-| O Robô de Júpiter                 | Isaac Asimov          |                        | Lucky Starr and the Moons of Jupiter         | 1957                                 |
-| **Os Anéis de Saturno**           | Isaac Asimov          |                        | Lucky Starr and the Rings of Saturn          | 1958                                 |
-| **Os Oceanos de Vênus**           | Isaac Asimov          | 1980                   | Lucky Starr and the Oceans of Venus          | 1954                                 |
-| **Os Robôs**                      | Isaac Asimov          |                        | The Naked Sun                                | 1957                                 |
-| **Para Onde Vamos?**              | Isaac Asimov          |                        | Where Do We Go From Here?                    | 1971                                 |
-| Vigilante das Estrelas            | Isaac Asimov          |                        | Lucky Starr and the Pirates of the Asteroids | 1953                                 |
-| Essas Estrelas São Nossas         | Poul Anderson         |                        | We Claim These Stars!                        | 1959                                 |
-| Guerra dos Homens Alados          | Poul Anderson         | 1978                   | War of the Wing-Men                          | 1958                                 |
-| **Luz de Outra Dimensão**         | Lloyd Biggle Jr.      | 1981                   | The Light That Never Was                     | 1972                                 |
-| **250 Séculos Após...**           | James Blish           |                        | Midsummer Century                            | 1972                                 |
-| A Cidade Perdida de Marte         | Ray Bradbury          |                        | The Martian City (*)                         |                                      |
-| E de Espaço                       | Ray Bradbury          |                        | S is for Space                               | 1966                                 |
-| F de  Foguete                     | Ray Bradbury          |                        | R is for Rocket                              | 1962                                 |
-| O Terceiro Planeta                | Arthur C. Clarke      |                        | Report on Planet Three (*)                   | 1972                                 |
-| A Humanidade Artificial           | Edmund Cooper         |                        | The Overman Culture (*)                      | 1971                                 |
-| Cavalo-Marinho no Céu             | Edmund Cooper         |                        | Seahorse in the Sky                          | 1969                                 |
-| O Diabólico Cérebro Eletrônico    | David Gerrold         |                        | When Harlie Was One (*)                      | 1972                                 |
-| Os Homens Moleculares             | Fred e Geoffrey Hoyle |                        | The Molecule Men (*)                         | 1971                                 |
-| O Terror Rithiano                 | Damon Knight          |                        | The Rithian Terror                           | 1965                                 |
-| Os Cérebros Prateados             | Fritz Leiber          |                        | The Silver Eggheads                          | 1961                                 |
-| **Nave Escrava**                  | Frederick Pohl        | 1977                   | Slave Ship                                   | 1956                                 |
-| Boneca do Destino                 | Clifford D. Simak     |                        | Destiny Doll                                 | 1971                                 |
-| Cei, o Gigante                    | Curt Siodmak          |                        | City in the Sky (*)                          | 1974                                 |
-| **Venus Mais X**                  | Theodore Sturgeon     |                        | Venus Plus X                                 | 1960                                 |
+| Título                           | Autor                 | Ano de<br />Publicação | Título Original                              | Ano de<br />publicação<br />Original |
+| -------------------------------- | --------------------- | ---------------------- | -------------------------------------------- | ------------------------------------ |
+| **827 Era Galáctica**            | Isaac Asimov          |                        | Pebble in the Sky                            | 1950                                 |
+| **A Terra Tem Espaço**           | Isaac Asimov          |                        | Earth  is Room Enough                        | 1957                                 |
+| **As Cavernas de Marte**         | Isaac Asimov          | 1977                   | David Starr, Space Ranger                    | 1952                                 |
+| **As Correntes do Espaço**       | Isaac Asimov          | 1981                   | The Currents of Space                        | 1952                                 |
+| **Caça aos Robôs**               | Isaac Asimov          |                        | The Caves of Steel                           | 1954                                 |
+| Despertar dos Deuses             | Isaac Asimov          |                        | The Gods Themselves                          | 1972                                 |
+| Fim da Eternidade                | Isaac Asimov          |                        | The End of Eternity                          | 1955                                 |
+| Fundação                         | Isaac Asimov          |                        | Foundation Trilogy                           | 1951-1953                            |
+| **Fundação II**                  | Isaac Asimov          |                        | Foundation’s Edge                            | 1982                                 |
+| **Júpiter à Venda**              | Isaac Asimov          |                        | Buy Jupiter                                  | 1975                                 |
+| Nós Robôs                        | Isaac Asimov          |                        | The Complete Robot                           | 1982                                 |
+| **Nós, os Marcianos**            | Isaac Asimov          |                        | The Martian Way and Other Stories            | 1955                                 |
+| **O Cair da Noite**              | Isaac Asimov          |                        | Nightfall and Other Stories                  | 1969                                 |
+| **O Futuro Começou**             | Isaac Asimov          | 1978                   | The Early Asimov                             | 1972                                 |
+| **O Grande Sol de Mercúrio** (1) | Isaac Asimov          |                        | Lucky Starr and the Big Sun of Mercury       | 1956                                 |
+| **O Homem Bicentenário**         | Isaac Asimov          | 1980                   | The Bicentennial Man and Other Stories       | 1976                                 |
+| O Robô de Júpiter                | Isaac Asimov          |                        | Lucky Starr and the Moons of Jupiter         | 1957                                 |
+| **Os Anéis de Saturno**          | Isaac Asimov          |                        | Lucky Starr and the Rings of Saturn          | 1958                                 |
+| **Os Oceanos de Vênus**          | Isaac Asimov          | 1980                   | Lucky Starr and the Oceans of Venus          | 1954                                 |
+| **Os Robôs**                     | Isaac Asimov          |                        | The Naked Sun                                | 1957                                 |
+| **Para Onde Vamos?**             | Isaac Asimov          |                        | Where Do We Go From Here?                    | 1971                                 |
+| Vigilante das Estrelas           | Isaac Asimov          |                        | Lucky Starr and the Pirates of the Asteroids | 1953                                 |
+| Essas Estrelas São Nossas        | Poul Anderson         |                        | We Claim These Stars!                        | 1959                                 |
+| Guerra dos Homens Alados         | Poul Anderson         | 1978                   | War of the Wing-Men                          | 1958                                 |
+| **Luz de Outra Dimensão**        | Lloyd Biggle Jr.      | 1981                   | The Light That Never Was                     | 1972                                 |
+| **250 Séculos Após...**          | James Blish           |                        | Midsummer Century                            | 1972                                 |
+| A Cidade Perdida de Marte        | Ray Bradbury          |                        | The Martian City (*)                         |                                      |
+| E de Espaço                      | Ray Bradbury          |                        | S is for Space                               | 1966                                 |
+| F de  Foguete                    | Ray Bradbury          |                        | R is for Rocket                              | 1962                                 |
+| O Terceiro Planeta               | Arthur C. Clarke      |                        | Report on Planet Three (*)                   | 1972                                 |
+| A Humanidade Artificial          | Edmund Cooper         |                        | The Overman Culture (*)                      | 1971                                 |
+| Cavalo-Marinho no Céu            | Edmund Cooper         |                        | Seahorse in the Sky                          | 1969                                 |
+| O Diabólico Cérebro Eletrônico   | David Gerrold         |                        | When Harlie Was One (*)                      | 1972                                 |
+| Os Homens Moleculares            | Fred e Geoffrey Hoyle |                        | The Molecule Men (*)                         | 1971                                 |
+| O Terror Rithiano                | Damon Knight          |                        | The Rithian Terror                           | 1965                                 |
+| Os Cérebros Prateados            | Fritz Leiber          |                        | The Silver Eggheads                          | 1961                                 |
+| **Nave Escrava**                 | Frederick Pohl        | 1977                   | Slave Ship                                   | 1956                                 |
+| Boneca do Destino                | Clifford D. Simak     |                        | Destiny Doll                                 | 1971                                 |
+| Cei, o Gigante                   | Curt Siodmak          |                        | City in the Sky (*)                          | 1974                                 |
+| **Venus Mais X**                 | Theodore Sturgeon     |                        | Venus Plus X                                 | 1960                                 |
 
-(**) Nas primeira edições e dentro do livro, o título aparece como "O Grande Sol de Mercúrio". Na capa das últimas edições aparece só "Grande Sol de Mercúrio"
+(1) Nas primeira edições e dentro do livro, o título aparece como "O Grande Sol de Mercúrio". Na capa das últimas edições aparece só "Grande Sol de Mercúrio"
 
 ## Andamento do projeto
 
@@ -82,10 +82,10 @@ Vou atualizando este documento conforme as atividades são executadas.
 |             | Realizado | %    |
 | ----------- | --------- | ---- |
 | Páginas     | 9906      | 100  |
-| Localizado  | 8290      | 83,7 |
+| Localizado  | 8483      | 85,6 |
 | Scaneadas   | 2786      | 35,8 |
 | Convertidas | 1086      | 10,9 |
-| Revisadas   | 190       | 1,9  |
+| Revisadas   | 255       | 2,6  |
 
 ### Detalhado
 
@@ -103,7 +103,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Júpiter à Venda**            | 236     | ✅          | ✅    | ✅    | ✅    |          |
 | Nós Robôs                      | 559     |            |      |      |      |          |
 | **Nós, os Marcianos**          | 256     | ✅          | ✅    | ✅    |      |          |
-| **O Cair da Noite**            | 378     | ✅          | ✅    | ✅    | ✅    | 139      |
+| **O Cair da Noite**            | 378     | ✅          | ✅    | ✅    | ✅    | 173      |
 | **O Futuro Começou**           | 470     | ✅          |      |      |      |          |
 | **O Grande Sol de Mercúrio**   | 193     | ✅          | ✅    | ✅    |      |          |
 | **O Homem Bicentenário**       | 238     | ✅          | ✅    | ✅    | ✅    | 82       |
@@ -112,7 +112,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Os Oceanos de Vênus**        | 190     | ✅          | ✅    | ✅    |      |          |
 | **Os Robôs**                   | 146     | ✅          |      |      |      |          |
 | **Para Onde Vamos?**           | 374     | ✅          | ✅    | ✅    |      |          |
-| **Vigilante das Estrelas**     | 162     | ✅          |      |      |      |          |
+| **Vigilante das Estrelas**     | 162     | ✅          | ✅    |      |      |          |
 | Essas Estrelas São Nossas      | 197     | ✅          |      |      |      |          |
 | Guerra dos Homens Alados       | 224     | ✅          |      |      |      |          |
 | **Luz de Outra Dimensão**      | 228     | ✅          |      |      |      |          |
@@ -139,7 +139,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 Aqui estão os erros mais comuns de OCR que foram encontrados na hora de revisar o texto, e corrigidos quando encontrados.
 
 - *Corno* no lugar de *como*
-- *Tomar* no lugar de *tornar*
+- *Tomar* no lugar de *tornar* (e retomar no lugar de retornar)
 - traço (-) no lugar de travessão (—)
 - ah no lugar de ali
 - 
