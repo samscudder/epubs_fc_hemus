@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:title>O Cair da Noite</dc:title>
-		<dc:identifier id="bookid">hemus_o_cair_da_noite_v001</dc:identifier>
+		<dc:identifier id="bookid">hemus_o_cair_da_noite_v002</dc:identifier>
 		<dc:creator>Isaac Asimov</dc:creator>
 		<dc:publisher>Hemus</dc:publisher>
 		<dc:date>1981</dc:date>
