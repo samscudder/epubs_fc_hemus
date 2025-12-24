@@ -91,48 +91,48 @@ Nas versões nacionais de livros, geralmente as ilustrações são as mesmas das
 
 Em várias das reedições, ainda consta o nome do artista da versão original na página de Copyright (Edu, ou Decio Guedes), indicando que o miolo provavelmente é da primeira edição, e que foi encadernado novamente.
 
-| Título                           | Artista            | Publicação Original                                          |
-| -------------------------------- | ------------------ | ------------------------------------------------------------ |
-| **827 Era Galáctica**            | Paul Lehr          | Pebble in the Sky (Fawcett, 1971)                            |
-| **A Terra Tem Espaço**           | Chris Foss         | The Early Asimov Volume 2 (Panther, 1974 )                   |
-| **As Cavernas de Marte**         | Paul Lehr          | Nine Tomorrows (Fawcett, 1969)                               |
-| **As Correntes do Espaço**       | Frank Kelly Freas  | AudioLP The Green Hills of Earth (Caedmon Records, 1977)     |
-| **Caça aos Robôs**               | John Berkey        | I, Robot (Fawcett, 1970)                                     |
-| **Despertar dos Deuses**         |                    | The Best of Isaac Asimov (Fawcett, 1976)                     |
-| **Fim da Eternidade**            | Chris Foss         | Foundation and Empire (Panther, 1973)                        |
-| Fundação                         | Paul Lehr          | The Stars Like Dust (Fawcett, 1972)                          |
-| **Fundação II**                  | Dickran Palulian   | Omni Magazine - Outubro 1982                                 |
-| **Júpiter à Venda**              | Eddie Jones        | The Best of Trek (Signet, 1978)                              |
-| Nós Robôs                        | Michael Whelan     | Time and Again (Ace, 1976)                                   |
-| **Nós, os Marcianos**            | Paul Lehr          | The Asutra (Dell, 1974)                                      |
-| **O Cair da Noite**              | Tim White          | Through a Glass Clearly (New English Library, 1978)          |
-| **O Futuro Começou**             |                    | I, Robot (Panther, 1969)                                     |
-| **O Grande Sol de Mercúrio** (1) | Paul Lehr          | The End of Eternity (Fawcett, 1971)                          |
-| **O Homem Bicentenário**         | Richard Cohen      | Omni Magazine - May 1980                                     |
-| **O Robô de Júpiter**            | John Berney        | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)         |
-| **Os Anéis de Saturno**          |                    |                                                              |
-| **Os Oceanos de Vênus**          | Don Maitz          | Lucky Starr and the Oceans of Venus (Fawcett, 1978)          |
-| **Os Robôs**                     | Décio Guedes       | Arte Original, 1974                                          |
-| **Para Onde Vamos?**             | Jack Faragasso     | The Three Stigmata of Palmer Eldritch (MacFadden, 1966)      |
-| **Vigilante das Estrelas**       | Peter Andrew Jones | Buy Jupiter (Panther, 1975)                                  |
-| Essas Estrelas São Nossas        | Vincent DiFate     | Analog Science Fiction - Abril 1977                          |
-| Guerra dos Homens Alados         | Ken Barr           | Hot Stuff #4 (1977)                                          |
-| **Luz de Outra Dimensão**        | H. R. Van Dongen   | The Siege of Wonder (DAW, 1976)                              |
-| **250 Séculos Após...**          | Vincent DiFate     | Pintura de Urban Monad 116 - 1980                            |
-| A Cidade Perdida de Marte        | Décio Guedes       | Arte original, 1975                                          |
-| E de Espaço                      | Chris Foss         | Foundation (Panther, 1960)                                   |
-| **F de  Foguete**                | Chris Foss         | The Early Asimov Volume 1 (Panther, 1973)                    |
-| O Terceiro Planeta               | Paul  Lehr         | The Martian Way and Other Stories (Fawcett, 1969)            |
-| A Humanidade Artificial          | Bruce Pennington   | Equator and Segregation (New English Library, 1973)          |
-| Cavalo-Marinho no Céu            | John Berkey        | Lucky Starr and the Pirates of the Asteroids (Fawcett, 1978) |
-| O Diabólico Cérebro Eletrônico   | Vincent DiFate     | Double Star (Signet, 1979)                                   |
-| **Os Homens Moleculares**        | John Berkey        | The Caves of Steel (Fawcett, 1972)                           |
-| O Terror Rithiano                | Dean Ellis         | To Live Forever (Ballantine, 1976)                           |
-| Os Cérebros Prateados            | Nick Aristovulos   | In the Wake of Man (Bobbs-Merrill, 1975)                     |
-| **Nave Escrava**                 | Robert Foster      | Slave Ship (Ballantine, 1969)                                |
-| Boneca do Destino                |                    | We Who Are About To (Dell, 1977)                             |
-| Cei, o Gigante                   | Vincent DiFate     | The Best of Philip K Dick (Ballantine, 1977)                 |
-| **Venus Mais X**                 | Paul Lehr          | Earth is Room Enough (Fawcett, 1970)                         |
+| Título                                                       | Artista            | Publicação Original                                          |
+| ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| **827 Era Galáctica**<br />![](./docs/hemus_827_era_galactica.jpg) | Paul Lehr          | Pebble in the Sky (Fawcett, 1971)<br />![](./docs/pebble_in_the_sky.jpg) |
+| **A Terra Tem Espaço**<br />![](./docs/hemus_a_terra_tem_espaco.jpg) | Chris Foss         | The Early Asimov Volume 2 (Panther, 1974 )<br />![](./docs/the_early_asimov_2.jpg) |
+| **As Cavernas de Marte**<br />![]()                          | Paul Lehr          | Nine Tomorrows (Fawcett, 1969)<br />![](./docs/nine_tomorrows.jpg) |
+| **As Correntes do Espaço**                                   | Frank Kelly Freas  | AudioLP The Green Hills of Earth (Caedmon Records, 1977)<br />![](./docs/the_green_hills_of_earth.jpg) |
+| **Caça aos Robôs**                                           | John Berkey        | I, Robot (Fawcett, 1970)<br />![](./docs/i_robot.jpg)        |
+| **Despertar dos Deuses**                                     |                    | The Best of Isaac Asimov (Fawcett, 1976)<br />![]()          |
+| **Fim da Eternidade**                                        | Chris Foss         | Foundation and Empire (Panther, 1973)<br />![](./docs/foundation_and_empire.jpg) |
+| Fundação                                                     | Paul Lehr          | The Stars Like Dust (Fawcett, 1972)<br />![](./docs/the_stars_like_dust.jpg) |
+| **Fundação II**                                              | Dickran Palulian   | Omni Magazine - Outubro 1982                                 |
+| **Júpiter à Venda**<br />![](./docs/hemus_jupiter_a_venda.jpg) | Eddie Jones        | The Best of Trek (Signet, 1978)<br />![](./docs/the_best_of_trek.jpg) |
+| Nós Robôs                                                    | Michael Whelan     | Time and Again (Ace, 1976)<br />![](./docs/time_and_again.jpg) |
+| **Nós, os Marcianos**<br />![](./docs/hemus_nos_os_marcianos.jpg) | Paul Lehr          | The Asutra (Dell, 1974)<br />![](./docs/the_asutra.jpg)      |
+| **O Cair da Noite**<br />![](./docs/hemus_o_cair_da_noite.jpg) | Tim White          | Through a Glass Clearly (New English Library, 1978)<br />![](./docs/through_a_glass_clearly.jpg) |
+| **O Futuro Começou**                                         |                    | I, Robot (Panther, 1969)<br />![](./docs/i_robot_ii.jpg)     |
+| **O Grande Sol de Mercúrio** (1)                             | Paul Lehr          | The End of Eternity (Fawcett, 1971)<br />![](./docs/the_end_of_eternity.jpg) |
+| **O Homem Bicentenário**                                     | Richard Cohen      | Omni Magazine - Maio 1980                                    |
+| **O Robô de Júpiter**                                        | John Berney        | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) |
+| **Os Anéis de Saturno**                                      |                    |                                                              |
+| **Os Oceanos de Vênus**                                      | Don Maitz          | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) |
+| **Os Robôs**                                                 | Décio Guedes       | Arte Original, 1974<br />![](./docs/os_robos.jpg)            |
+| **Para Onde Vamos?**                                         | Jack Faragasso     | The Three Stigmata of Palmer Eldritch (MacFadden, 1966)<br />![](./docs/the_three_stigmata_of_palmer_edritch.jpg) |
+| **Vigilante das Estrelas**                                   | Peter Andrew Jones | Buy Jupiter (Panther, 1975)<br />![](./docs/buy_jupiter.jpg) |
+| Essas Estrelas São Nossas                                    | Vincent DiFate     | Analog Science Fiction - Abril 1977<br />![](./docs/analog_april_77.jpg) |
+| Guerra dos Homens Alados                                     | Ken Barr           | Hot Stuff #4 (1977)<br />![](./docs/hot_stuff_4.jpg)         |
+| **Luz de Outra Dimensão**                                    | H. R. Van Dongen   | The Siege of Wonder (DAW, 1976)<br />![](./docs/the_siege_of_wonder.jpg) |
+| **250 Séculos Após...**                                      | Vincent DiFate     | Pintura de Urban Monad 116 - 1980<br />![](./docs/urban_monad_116.jpg) |
+| A Cidade Perdida de Marte                                    | Décio Guedes       | Arte original, 1975                                          |
+| E de Espaço                                                  | Chris Foss         | Foundation (Panther, 1960)<br />![](./docs/foundation.jpg)   |
+| **F de  Foguete**                                            | Chris Foss         | The Early Asimov Volume 1 (Panther, 1973)                    |
+| O Terceiro Planeta                                           | Paul  Lehr         | The Martian Way and Other Stories (Fawcett, 1969)<br />![](./docs/the_martian_way.jpg) |
+| A Humanidade Artificial                                      | Bruce Pennington   | Equator and Segregation (New English Library, 1973)<br />![](./docs/equator.jpg) |
+| Cavalo-Marinho no Céu                                        | John Berkey        | Lucky Starr and the Pirates of the Asteroids (Fawcett, 1978)<br />![](./docs/lucky_star_and_the_pirates_of_the_asteroids.jpg) |
+| O Diabólico Cérebro Eletrônico                               | Vincent DiFate     | Double Star (Signet, 1979)<br />![](./docs/double_star.jpg)  |
+| **Os Homens Moleculares**                                    | John Berkey        | The Caves of Steel (Fawcett, 1972)<br />![](./docs/the_caves_of_steel.jpg) |
+| O Terror Rithiano                                            | Dean Ellis         | To Live Forever (Ballantine, 1976)<br />![](./docs/to_live_forever.jpg) |
+| Os Cérebros Prateados                                        | Nick Aristovulos   | In the Wake of Man (Bobbs-Merrill, 1975)<br />![](./docs/in_the_wake_of_man.jpg) |
+| **Nave Escrava**                                             | Robert Foster      | Slave Ship (Ballantine, 1969)<br />![](./docs/slave_ship.jpg) |
+| Boneca do Destino                                            |                    | We Who Are About To (Dell, 1977)                             |
+| Cei, o Gigante                                               | Vincent DiFate     | The Best of Philip K Dick (Ballantine, 1977)<br />![](./docs/the_best_of_philip_k_dick.jpg) |
+| **Venus Mais X**                                             | Paul Lehr          | Earth is Room Enough (Fawcett, 1970)<br />![](./docs/earth_is_room_enough.jpg) |
 
 ## Andamento do projeto
 
