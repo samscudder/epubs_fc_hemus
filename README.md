@@ -14,7 +14,7 @@ Edições originais:
 
 ![](./docs/antigos.png)
 
-Reedições:
+Reedições e novos lançamentos:
 
 ![Livros de ficção científica da Hemus](./docs/fc_hemus.jpg)
 
@@ -89,7 +89,7 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por auto
 
 Nas versões nacionais de livros, geralmente as ilustrações são as mesmas das publicações originais, mas neste caso foram aproveitadas de outros livros também. O artista não está creditado na maioria dos livros, e não sei se eram obtidas permissões para uso das imagens, pois foram cortadas as assinaturas dos artistas na maioria das capas. Pesquisando, consegui levantar a seguinte relação de artistas, e onde a arte foi originalmente usada.
 
-Em várias das reedições, ainda consta o nome do artista da versão original na página de Copyright (Edu, ou Decio Guedes)
+Em várias das reedições, ainda consta o nome do artista da versão original na página de Copyright (Edu, ou Decio Guedes), indicando que o miolo provavelmente é da primeira edição, e que foi encadernado novamente.
 
 | Título                           | Artista            | Publicação Original                                          |
 | -------------------------------- | ------------------ | ------------------------------------------------------------ |
@@ -150,50 +150,54 @@ Vou atualizando este documento conforme as atividades são executadas.
 
 ### Detalhado
 
-| Título                         | Páginas | Localizado | Scan | OCR  | EPUB | Revisado |
-| ------------------------------ | ------- | ---------- | ---- | ---- | ---- | -------- |
-| **827 Era Galáctica**          | 234     | ✅          | ✅    | ✅    | ✅    |          |
-| **A Terra Tem Espaço**         | 206     | ✅          | ✅    | ✅    |      |          |
-| **As Cavernas de Marte**       | 142     | ✅          | ✅    | ✅    |      |          |
-| **As Correntes do Espaço**     | 206     | ✅          | ✅    | ✅    |      |          |
-| **Caça aos Robôs**             | 296     | ✅          |      |      |      |          |
-| **Despertar dos Deuses**       | 272     | ✅          | ✅    | ✅    |      |          |
-| **Fim da Eternidade**          | 248     | ✅          |      |      |      |          |
-| Fundação                       | 503     | ✅          |      |      |      |          |
-| **Fundação II**                | 372     | ✅          | 370* |      |      |          |
-| **Júpiter à Venda**            | 236     | ✅          | ✅    | ✅    | ✅    |          |
-| Nós Robôs                      | 559     |            |      |      |      |          |
-| **Nós, os Marcianos**          | 256     | ✅          | ✅    | ✅    |      |          |
-| **O Cair da Noite**            | 378     | ✅          | ✅    | ✅    | ✅    | 187      |
-| **O Futuro Começou**           | 470     | ✅          |      |      |      |          |
-| **O Grande Sol de Mercúrio**   | 193     | ✅          | ✅    | ✅    |      |          |
-| **O Homem Bicentenário**       | 238     | ✅          | ✅    | ✅    | ✅    | 82       |
-| **O Robô de Júpiter**          | 142     | ✅          |      |      |      |          |
-| **Os Anéis de Saturno**        | 234     | ✅          |      |      |      |          |
-| **Os Oceanos de Vênus**        | 190     | ✅          | ✅    | ✅    |      |          |
-| **Os Robôs**                   | 146     | ✅          |      |      |      |          |
-| **Para Onde Vamos?**           | 374     | ✅          | ✅    | ✅    |      |          |
-| **Vigilante das Estrelas**     | 162     | ✅          | ✅    | ✅    |      |          |
-| Essas Estrelas São Nossas      | 197     | ✅          |      |      |      |          |
-| Guerra dos Homens Alados       | 224     | ✅          |      |      |      |          |
-| **Luz de Outra Dimensão**      | 228     | ✅          |      |      |      |          |
-| **250 Séculos Após...**        | 136     | ✅          | ✅    | ✅    |      |          |
-| A Cidade Perdida de Marte      | 218     |            |      |      |      |          |
-| E de Espaço                    | 202     | ✅          |      |      |      |          |
-| **F de  Foguete**              | 210     | ✅          | ✅    | ✅    |      |          |
-| O Terceiro Planeta             | 286     | ✅          |      |      |      |          |
-| A Humanidade Artificial        | 214     |            |      |      |      |          |
-| Cavalo-Marinho no Céu          | 222     |            |      |      |      |          |
-| O Diabólico Cérebro Eletrônico | 282     | ✅          |      |      |      |          |
-| **Os Homens Moleculares**      | 286     | ✅          | ✅    | ✅    |      |          |
-| O Terror Rithiano              | 124     | ✅          |      |      |      |          |
-| Os Cérebros Prateados          | 220     | ✅          |      |      |      |          |
-| **Nave Escrava**               | 168     | ✅          | ✅    | ✅    |      |          |
-| Boneca do Destino              | 214     | ✅          |      |      |      |          |
-| Cei, o Gigante                 | 210     |            |      |      |      |          |
-| **Venus Mais X**               | 178     | ✅          |      |      |      |          |
+| Título                         | Páginas | Localizado | Scan    | OCR  | EPUB | Revisado |
+| ------------------------------ | ------- | ---------- | ------- | ---- | ---- | -------- |
+| **827 Era Galáctica**          | 234     | ✅          | ✅       | ✅    | ✅    |          |
+| **A Terra Tem Espaço**         | 206     | ✅          | ✅       | ✅    |      |          |
+| **As Cavernas de Marte**       | 142     | ✅          | ✅       | ✅    |      |          |
+| **As Correntes do Espaço**     | 206     | ✅          | ✅       | ✅    |      |          |
+| **Caça aos Robôs**             | 296     | ✅          |         |      |      |          |
+| **Despertar dos Deuses**       | 272     | ✅          | ✅       | ✅    |      |          |
+| **Fim da Eternidade**          | 248     | ✅          | 246 (1) |      |      |          |
+| Fundação                       | 503     | ✅          |         |      |      |          |
+| **Fundação II**                | 372     | ✅          | 370 (2) |      |      |          |
+| **Júpiter à Venda**            | 236     | ✅          | ✅       | ✅    | ✅    |          |
+| Nós Robôs                      | 559     |            |         |      |      |          |
+| **Nós, os Marcianos**          | 256     | ✅          | ✅       | ✅    |      |          |
+| **O Cair da Noite**            | 378     | ✅          | ✅       | ✅    | ✅    | 187      |
+| **O Futuro Começou**           | 470     | ✅          |         |      |      |          |
+| **O Grande Sol de Mercúrio**   | 193     | ✅          | ✅       | ✅    |      |          |
+| **O Homem Bicentenário**       | 238     | ✅          | ✅       | ✅    | ✅    | 82       |
+| **O Robô de Júpiter**          | 142     | ✅          |         |      |      |          |
+| **Os Anéis de Saturno**        | 234     | ✅          |         |      |      |          |
+| **Os Oceanos de Vênus**        | 190     | ✅          | ✅       | ✅    |      |          |
+| **Os Robôs**                   | 146     | ✅          |         |      |      |          |
+| **Para Onde Vamos?**           | 374     | ✅          | ✅       | ✅    |      |          |
+| **Vigilante das Estrelas**     | 162     | ✅          | ✅       | ✅    |      |          |
+| Essas Estrelas São Nossas      | 197     | ✅          |         |      |      |          |
+| Guerra dos Homens Alados       | 224     | ✅          |         |      |      |          |
+| **Luz de Outra Dimensão**      | 228     | ✅          |         |      |      |          |
+| **250 Séculos Após...**        | 136     | ✅          | ✅       | ✅    |      |          |
+| A Cidade Perdida de Marte (3)  | 218     |            |         |      |      |          |
+| E de Espaço                    | 202     | ✅          |         |      |      |          |
+| **F de  Foguete**              | 210     | ✅          | ✅       | ✅    |      |          |
+| O Terceiro Planeta             | 286     | ✅          |         |      |      |          |
+| A Humanidade Artificial        | 214     | ✅          |         |      |      |          |
+| Cavalo-Marinho no Céu          | 222     | ✅          |         |      |      |          |
+| O Diabólico Cérebro Eletrônico | 282     | ✅          |         |      |      |          |
+| **Os Homens Moleculares**      | 286     | ✅          | ✅       | ✅    |      |          |
+| O Terror Rithiano              | 124     | ✅          |         |      |      |          |
+| Os Cérebros Prateados          | 220     | ✅          |         |      |      |          |
+| **Nave Escrava**               | 168     | ✅          | ✅       | ✅    |      |          |
+| Boneca do Destino              | 214     | ✅          |         |      |      |          |
+| Cei, o Gigante                 | 210     | ✅          |         |      |      |          |
+| **Venus Mais X**               | 178     | ✅          | 51      |      |      |          |
 
-(*) Faltam duas páginas que estão coladas
+(1) Faltam duas páginas que foram arrancadas do exemplar que consegui
+
+(2) Faltam duas páginas que estão coladas
+
+(3) Parece que este livro não foi lançado com uma capa "moderna"
 
 ## Erros comuns de OCR
 
