@@ -98,27 +98,27 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **As Cavernas de Marte**<br />![](./docs/hemus_as_cavernas_de_marte.png) | Paul Lehr          | Nine Tomorrows (Fawcett, 1969)<br />![](./docs/nine_tomorrows.jpg) |
 | **As Correntes do Espaço**<br />![](./docs/hemus_as_correntes_do_espaco.jpg) | Frank Kelly Freas  | AudioLP The Green Hills of Earth (Caedmon Records, 1977)<br />![](./docs/the_green_hills_of_earth.jpg) |
 | **Caça aos Robôs**                                           | John Berkey        | I, Robot (Fawcett, 1970)<br />![](./docs/i_robot.jpg)        |
-| **Despertar dos Deuses**                                     |                    | The Best of Isaac Asimov (Fawcett, 1976)<br />![]()          |
+| **Despertar dos Deuses**<br />![](D:\fontes\epubs_fc_hemus\docs\hemus_despertar_dos_deuses.png) | ???                | The Best of Isaac Asimov (Fawcett, 1976)<br />![](./docs/the_best_of_isaac_asimov.jpg) |
 | **Fim da Eternidade**                                        | Chris Foss         | Foundation and Empire (Panther, 1973)<br />![](./docs/foundation_and_empire.jpg) |
 | Fundação                                                     | Paul Lehr          | The Stars Like Dust (Fawcett, 1972)<br />![](./docs/the_stars_like_dust.jpg) |
-| **Fundação II**                                              | Dickran Palulian   | Omni Magazine - Outubro 1982                                 |
+| **Fundação II**<br />![](./docs/hemus_fundacao_ii.Jpg)       | Dickran Palulian   | Omni Magazine - Outubro 1982                                 |
 | **Júpiter à Venda**<br />![](./docs/hemus_jupiter_a_venda.jpg) | Eddie Jones        | The Best of Trek (Signet, 1978)<br />![](./docs/the_best_of_trek.jpg) |
 | Nós Robôs                                                    | Michael Whelan     | Time and Again (Ace, 1976)<br />![](./docs/time_and_again.jpg) |
 | **Nós, os Marcianos**<br />![](./docs/hemus_nos_os_marcianos.jpg) | Paul Lehr          | The Asutra (Dell, 1974)<br />![](./docs/the_asutra.jpg)      |
 | **O Cair da Noite**<br />![](./docs/hemus_o_cair_da_noite.jpg) | Tim White          | Through a Glass Clearly (New English Library, 1978)<br />![](./docs/through_a_glass_clearly.jpg) |
 | **O Futuro Começou**<br />![](./docs/hemus_o_futuro_comecou.jpg) |                    | I, Robot (Panther, 1969)<br />![](./docs/i_robot_ii.jpg)     |
 | **O Grande Sol de Mercúrio** (1)<br />![](.//docs/hemus_o_grande_sol_de_mercurio.jpg) | Paul Lehr          | The End of Eternity (Fawcett, 1971)<br />![](./docs/the_end_of_eternity.jpg) |
-| **O Homem Bicentenário**                                     | Richard Cohen      | Omni Magazine - Maio 1980                                    |
+| **O Homem Bicentenário**<br />![](D:\fontes\epubs_fc_hemus\docs\hemus_o_homem_bicentenario.jpg) | Richard Cohen      | Omni Magazine - Maio 1980<br />![](./docs/omni_may_1980.jpg) |
 | **O Robô de Júpiter**                                        | John Berney        | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) |
 | **Os Anéis de Saturno**                                      |                    |                                                              |
 | **Os Oceanos de Vênus**<br />![](./docs/hemus_os_oceanos_de_venus.png) | Don Maitz          | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) |
 | **Os Robôs**                                                 | Décio Guedes       | Arte Original, 1974<br />![](./docs/os_robos.jpg)            |
 | **Para Onde Vamos?**<br />![](./docs/hemus_para_onde_vamos.jpg) | Jack Faragasso     | The Three Stigmata of Palmer Eldritch (MacFadden, 1966)<br />![](./docs/the_three_stigmata_of_palmer_edritch.jpg) |
-| **Vigilante das Estrelas**                                   | Peter Andrew Jones | Buy Jupiter (Panther, 1975)<br />![](./docs/buy_jupiter.jpg) |
+| **Vigilante das Estrelas**<br />![](./docs/hemus_vigilante_das_estrelas.jpg) | Peter Andrew Jones | Buy Jupiter (Panther, 1975)<br />![](./docs/buy_jupiter.jpg) |
 | Essas Estrelas São Nossas                                    | Vincent DiFate     | Analog Science Fiction - Abril 1977<br />![](./docs/analog_april_77.jpg) |
 | Guerra dos Homens Alados                                     | Ken Barr           | Hot Stuff #4 (1977)<br />![](./docs/hot_stuff_4.jpg)         |
 | **Luz de Outra Dimensão**<br />![](./docs/hemus_luz_de_outra_dimensao.jpg) | H. R. Van Dongen   | The Siege of Wonder (DAW, 1976)<br />![](./docs/the_siege_of_wonder.jpg) |
-| **250 Séculos Após...**<br />![](./docs/hemus_250_seculos_apos.jpg) | Vincent DiFate     | Pintura de Urban Monad 116 - 1980<br />![](./docs/urban_monad_116.jpg) |
+| **250 Séculos Após...**<br />![](./docs/hemus_250_seculos_apos.jpg) | Vincent DiFate     | Pintura *Urban Monad 116* - 1980<br />![](./docs/urban_monad_116.jpg) |
 | A Cidade Perdida de Marte                                    | Décio Guedes       | Arte original, 1975                                          |
 | E de Espaço                                                  | Chris Foss         | Foundation (Panther, 1960)<br />![](./docs/foundation.jpg)   |
 | **F de  Foguete**<br />![](./docs/hemus_f_de_foguete.jpg)    | Chris Foss         | The Early Asimov Volume 1 (Panther, 1973)<br />![](./docs/the_early_asimov_1.jpg) |
@@ -130,7 +130,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | O Terror Rithiano                                            | Dean Ellis         | To Live Forever (Ballantine, 1976)<br />![](./docs/to_live_forever.jpg) |
 | Os Cérebros Prateados                                        | Nick Aristovulos   | In the Wake of Man (Bobbs-Merrill, 1975)<br />![](./docs/in_the_wake_of_man.jpg) |
 | **Nave Escrava**<br />![](./docs/hemus_nave_escrava.jpg)     | Robert Foster      | Slave Ship (Ballantine, 1969)<br />![](./docs/slave_ship.jpg) |
-| Boneca do Destino                                            |                    | We Who Are About To (Dell, 1977)                             |
+| Boneca do Destino                                            |                    | We Who Are About To (Dell, 1977)<br />![](./docs/we_who_are_about_to.jpg) |
 | Cei, o Gigante                                               | Vincent DiFate     | The Best of Philip K Dick (Ballantine, 1977)<br />![](./docs/the_best_of_philip_k_dick.jpg) |
 | **Venus Mais X**<br />![](./docs/hemus_venus_mais_x.jpg)     | Paul Lehr          | Earth is Room Enough (Fawcett, 1970)<br />![](./docs/earth_is_room_enough.jpg) |
 
@@ -191,7 +191,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Nave Escrava**               | 168     | ✅          | ✅       | ✅    |      |          |
 | Boneca do Destino              | 214     | ✅          |         |      |      |          |
 | Cei, o Gigante                 | 210     | ✅          |         |      |      |          |
-| **Venus Mais X**               | 178     | ✅          | 51      |      |      |          |
+| **Venus Mais X**               | 178     | ✅          | 122     |      |      |          |
 
 (1) Faltam duas páginas que foram arrancadas do exemplar que consegui
 
