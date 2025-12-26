@@ -98,7 +98,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **As Cavernas de Marte**<br />![](./docs/hemus_as_cavernas_de_marte.png) | Paul Lehr          | Nine Tomorrows (Fawcett, 1969)<br />![](./docs/nine_tomorrows.jpg) |
 | **As Correntes do Espaço**<br />![](./docs/hemus_as_correntes_do_espaco.jpg) | Frank Kelly Freas  | AudioLP The Green Hills of Earth (Caedmon Records, 1977)<br />![](./docs/the_green_hills_of_earth.jpg) |
 | **Caça aos Robôs**                                           | John Berkey        | I, Robot (Fawcett, 1970)<br />![](./docs/i_robot.jpg)        |
-| **Despertar dos Deuses**<br />![](D:\fontes\epubs_fc_hemus\docs\hemus_despertar_dos_deuses.png) | ???                | The Best of Isaac Asimov (Fawcett, 1976)<br />![](./docs/the_best_of_isaac_asimov.jpg) |
+| **Despertar dos Deuses**<br />![](D:\fontes\epubs_fc_hemus\docs\hemus_despertar_dos_deuses.jpg) | ???                | The Best of Isaac Asimov (Fawcett, 1976)<br />![](./docs/the_best_of_isaac_asimov.jpg) |
 | **Fim da Eternidade**                                        | Chris Foss         | Foundation and Empire (Panther, 1973)<br />![](./docs/foundation_and_empire.jpg) |
 | Fundação                                                     | Paul Lehr          | The Stars Like Dust (Fawcett, 1972)<br />![](./docs/the_stars_like_dust.jpg) |
 | **Fundação II**<br />![](./docs/hemus_fundacao_ii.Jpg)       | Dickran Palulian   | Omni Magazine - Outubro 1982                                 |
@@ -111,7 +111,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **O Homem Bicentenário**<br />![](D:\fontes\epubs_fc_hemus\docs\hemus_o_homem_bicentenario.jpg) | Richard Cohen      | Omni Magazine - Maio 1980<br />![](./docs/omni_may_1980.jpg) |
 | **O Robô de Júpiter**                                        | John Berney        | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) |
 | **Os Anéis de Saturno**                                      |                    |                                                              |
-| **Os Oceanos de Vênus**<br />![](./docs/hemus_os_oceanos_de_venus.png) | Don Maitz          | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) |
+| **Os Oceanos de Vênus**<br />![](./docs/hemus_os_oceanos_de_venus.jpg) | Don Maitz          | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) |
 | **Os Robôs**                                                 | Décio Guedes       | Arte Original, 1974<br />![](./docs/os_robos.jpg)            |
 | **Para Onde Vamos?**<br />![](./docs/hemus_para_onde_vamos.jpg) | Jack Faragasso     | The Three Stigmata of Palmer Eldritch (MacFadden, 1966)<br />![](./docs/the_three_stigmata_of_palmer_edritch.jpg) |
 | **Vigilante das Estrelas**<br />![](./docs/hemus_vigilante_das_estrelas.jpg) | Peter Andrew Jones | Buy Jupiter (Panther, 1975)<br />![](./docs/buy_jupiter.jpg) |
