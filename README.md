@@ -30,15 +30,9 @@ Existe um software gratuito que pode fazer a conversão, mas não tenho tido res
 
 ## Relação de Livros
 
-No final dos livros existe uma relação de títulos, que foi usado para compilar esta lista. Nas informações dos livros normalmente não existe uma data de publicação da edição (ou das várias edições) nacionais, e alguns dos livros tiveram capas diferentes durante sua existência:
+No final dos livros existe uma relação de títulos, que foi usado para compilar esta lista. Nas informações dos livros normalmente não existe uma data de publicação da edição (ou das várias edições) nacionais.
 
-![Variações de Capa](./docs/variacoes_capas.jpg)
-
-A segunda capa de Os Robôs usa a ilustração da capa da primeira edição da Hemus, e a terceira usa a ilustração da contracapa.
-
-Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por autor e título (alguns títulos originais precisam ser verificadas e estão sinalizada com `(*)`):
-
-
+Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por autor e título:
 
 | Título                             | Título Original                                     | Autor                 | Tradução                                                   |
 | ---------------------------------- | --------------------------------------------------- | --------------------- | ---------------------------------------------------------- |
@@ -85,11 +79,17 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por auto
 
 (1) Nas primeira edições e dentro do livro, o título aparece como "O Grande Sol de Mercúrio". Na capa das últimas edições aparece só "Grande Sol de Mercúrio"
 
+Alguns dos livros tiveram capas diferentes durante sua existência:
+
+![Variações de Capa](./docs/variacoes_capas.jpg)
+
+A segunda capa de Os Robôs usa a ilustração da capa da primeira edição da Hemus, e a terceira usa a ilustração da contracapa.
+
 ## Capas das Reedições
 
 Nas versões nacionais de livros, geralmente as ilustrações são as mesmas das publicações originais, mas neste caso foram aproveitadas de outros livros também. O artista não está creditado na maioria dos livros, e não sei se eram obtidas permissões para uso das imagens, pois foram cortadas as assinaturas dos artistas na maioria das capas. Pesquisando, consegui levantar a seguinte relação de artistas, e onde a arte foi originalmente usada.
 
-Em várias das reedições, ainda consta o nome do artista da versão original na página de Copyright (Edu, ou Decio Guedes), indicando que o miolo provavelmente é da primeira edição, e que foi encadernado novamente.
+Em várias das reedições, ainda consta o nome do artista da versão original na página de Copyright ("Edú", ou "Decio Guedes"), indicando que o miolo provavelmente é da primeira edição, e que foi encapado novamente, ou que foram aproveitadas os mesmos fotolítos para as edições subsequentes, sem alterações.
 
 | Título                                                       | Publicação Original                                          | Artista                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
@@ -101,7 +101,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **Despertar dos Deuses**<br />![](D:\fontes\epubs_fc_hemus\docs\hemus_despertar_dos_deuses.jpg) | The Best of Isaac Asimov (Fawcett, 1976)<br />![](./docs/the_best_of_isaac_asimov.jpg) | (Artista não identificado) |
 | **Fim da Eternidade**<br />![]()                             | Foundation and Empire (Panther, 1973)<br />![](./docs/foundation_and_empire.jpg) | Chris Foss                 |
 | Fundação                                                     | The Stars Like Dust (Fawcett, 1972)<br />![](./docs/the_stars_like_dust.jpg) | Paul Lehr                  |
-| **Fundação II**<br />![](./docs/hemus_fundacao_ii.Jpg)       | Omni Magazine - Outubro 1982                                 | Dickran Palulian           |
+| **Fundação II**<br />![](./docs/hemus_fundacao_ii.Jpg)       | Omni Magazine - Outubro 1982<br />![](D:\fontes\epubs_fc_hemus\docs\omni_october_1982.jpg) | Dickran Palulian           |
 | **Júpiter à Venda**<br />![](./docs/hemus_jupiter_a_venda.jpg) | The Best of Trek (Signet, 1978)<br />![](./docs/the_best_of_trek.jpg) | Eddie Jones                |
 | Nós Robôs                                                    | Time and Again (Ace, 1976)<br />![](./docs/time_and_again.jpg) | Michael Whelan             |
 | **Nós, os Marcianos**<br />![](./docs/hemus_nos_os_marcianos.jpg) | The Asutra (Dell, 1974)<br />![](./docs/the_asutra.jpg)      | Paul Lehr                  |
