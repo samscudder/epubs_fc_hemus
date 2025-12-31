@@ -97,18 +97,18 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **A Terra Tem Espaço**<br />![](./docs/hemus_a_terra_tem_espaco.jpg) | The Early Asimov Volume 2 (Panther, 1974 )<br />![](./docs/the_early_asimov_2.jpg) | Chris Foss                 |
 | **As Cavernas de Marte**<br />![](./docs/hemus_as_cavernas_de_marte.png) | Nine Tomorrows (Fawcett, 1969)<br />![](./docs/nine_tomorrows.jpg) | Paul Lehr                  |
 | **As Correntes do Espaço**<br />![](./docs/hemus_as_correntes_do_espaco.jpg) | AudioLP The Green Hills of Earth (Caedmon Records, 1977)<br />![](./docs/the_green_hills_of_earth.jpg) | Frank Kelly Freas          |
-| **Caça aos Robôs**<br />![]()                                | I, Robot (Fawcett, 1970)<br />![](./docs/i_robot.jpg)        | John Berkey                |
+| **Caça aos Robôs**<br />![](./docs/hemus_caca_aos_robos.jpg) | I, Robot (Fawcett, 1970)<br />![](./docs/i_robot.jpg)        | John Berkey                |
 | **Despertar dos Deuses**<br />![](D:\fontes\epubs_fc_hemus\docs\hemus_despertar_dos_deuses.jpg) | The Best of Isaac Asimov (Fawcett, 1976)<br />![](./docs/the_best_of_isaac_asimov.jpg) | (Artista não identificado) |
-| **Fim da Eternidade**<br />![]()                             | Foundation and Empire (Panther, 1973)<br />![](./docs/foundation_and_empire.jpg) | Chris Foss                 |
+| **Fim da Eternidade**<br />![](./docs/hemus_fim_da_eternidade.jpg) | Foundation and Empire (Panther, 1973)<br />![](./docs/foundation_and_empire.jpg) | Chris Foss                 |
 | Fundação                                                     | The Stars Like Dust (Fawcett, 1972)<br />![](./docs/the_stars_like_dust.jpg) | Paul Lehr                  |
 | **Fundação II**<br />![](./docs/hemus_fundacao_ii.jpg)       | Omni Magazine - Outubro 1982<br />![](./docs/omni_october_1982.jpg) | Dickran Palulian           |
 | **Júpiter à Venda**<br />![](./docs/hemus_jupiter_a_venda.jpg) | The Best of Trek (Signet, 1978)<br />![](./docs/the_best_of_trek.jpg) | Eddie Jones                |
-| Nós Robôs                                                    | Time and Again (Ace, 1976)<br />![](./docs/time_and_again.jpg) | Michael Whelan             |
+| Nós Robôs<br />![](./docs/hemus_nos_robos.jpg)               | Time and Again (Ace, 1976)<br />![](./docs/time_and_again.jpg) | Michael Whelan             |
 | **Nós, os Marcianos**<br />![](./docs/hemus_nos_os_marcianos.jpg) | The Asutra (Dell, 1974)<br />![](./docs/the_asutra.jpg)      | Paul Lehr                  |
 | **O Cair da Noite**<br />![](./docs/hemus_o_cair_da_noite.jpg) | Through a Glass Clearly (New English Library, 1978)<br />![](./docs/through_a_glass_clearly.jpg) | Tim White                  |
 | **O Futuro Começou**<br />![](./docs/hemus_o_futuro_comecou.jpg) | I, Robot (Panther, 1969)<br />![](./docs/i_robot_ii.jpg)     |                            |
 | **O Grande Sol de Mercúrio** (1)<br />![](.//docs/hemus_o_grande_sol_de_mercurio.jpg) | The End of Eternity (Fawcett, 1971)<br />![](./docs/the_end_of_eternity.jpg) | Paul Lehr                  |
-| **O Homem Bicentenário**<br />![](D:\fontes\epubs_fc_hemus\docs\hemus_o_homem_bicentenario.jpg) | Omni Magazine - Maio 1980<br />![](./docs/omni_may_1980.jpg) | Richard Cohen              |
+| **O Homem Bicentenário**<br />![](./docs/hemus_o_homem_bicentenario.jpg) | Omni Magazine - Maio 1980<br />![](./docs/omni_may_1980.jpg) | Richard Cohen              |
 | **O Robô de Júpiter**<br />![]()                             | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) | John Berney                |
 | **Os Anéis de Saturno**<br />![]()                           |                                                              |                            |
 | **Os Oceanos de Vênus**<br />![](./docs/hemus_os_oceanos_de_venus.jpg) | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) | Don Maitz                  |
@@ -144,7 +144,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | ----------- | --------- | ----- |
 | Páginas     | 9906      | 100,0 |
 | Localizado  | 9129      | 92,2  |
-| Scaneadas   | 4241      | 42,8  |
+| Scaneadas   | 4935      | 49,8  |
 | Convertidas | 1147      | 11,6  |
 | Revisadas   | 296       | 3,0   |
 
@@ -156,9 +156,9 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **A Terra Tem Espaço**             | 206     | ✅          | ✅       | ✅    |      |          |
 | **As Cavernas de Marte**           | 142     | ✅          | ✅       | ✅    |      |          |
 | **As Correntes do Espaço**         | 206     | ✅          | ✅       | ✅    |      |          |
-| **Caça aos Robôs**                 | 296     | ✅          |         |      |      |          |
+| **Caça aos Robôs**                 | 296     | ✅          | ✅       | ✅    |      |          |
 | **Despertar dos Deuses**           | 272     | ✅          | ✅       | ✅    |      |          |
-| **Fim da Eternidade**              | 248     | ✅          | ✅       |      |      |          |
+| **Fim da Eternidade**              | 248     | ✅          | ✅       | ✅    |      |          |
 | Fundação                           | 503     | ✅          |         |      |      |          |
 | **Fundação II**                    | 372     | ✅          | 370 (2) |      |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅       | ✅    | ✅    |          |
@@ -185,13 +185,13 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **A Humanidade Artificial**        | 214     | ✅          |         |      |      |          |
 | **Cavalo-Marinho no Céu**          | 222     | ✅          |         |      |      |          |
 | **O Diabólico Cérebro Eletrônico** | 282     | ✅          |         |      |      |          |
-| **Os Homens Moleculares**          | 286     | ✅          | ✅       | ✅    | 61   |          |
+| **Os Homens Moleculares**          | 286     | ✅          | ✅       | ✅    | 162  |          |
 | **O Terror Rithiano**              | 124     | ✅          |         |      |      |          |
 | Os Cérebros Prateados              | 220     | ✅          |         |      |      |          |
 | **Nave Escrava**                   | 168     | ✅          | ✅       | ✅    |      |          |
 | **Boneca do Destino**              | 214     | ✅          |         |      |      |          |
 | **Cei, o Gigante**                 | 210     | ✅          |         |      |      |          |
-| **Venus Mais X**                   | 178     | ✅          | ✅       |      |      |          |
+| **Venus Mais X**                   | 178     | ✅          | ✅       | ✅    |      |          |
 
 (1) Parece que este livro não foi lançado com uma capa "moderna"
 
