@@ -144,7 +144,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | ----------- | --------- | ----- |
 | Páginas     | 9906      | 100,0 |
 | Localizado  | 9129      | 92,2  |
-| Scaneadas   | 4935      | 49,8  |
+| Scaneadas   | 5281      | 53,3  |
 | Convertidas | 1147      | 11,6  |
 | Revisadas   | 296       | 3,0   |
 
@@ -181,12 +181,12 @@ Vou atualizando este documento conforme as atividades são executadas.
 | A Cidade Perdida de Marte (1)      | 218     |            |         |      |      |          |
 | E de Espaço                        | 202     | ✅          |         |      |      |          |
 | **F de  Foguete**                  | 210     | ✅          | ✅       | ✅    |      |          |
-| **O Terceiro Planeta**             | 286     | ✅          |         |      |      |          |
+| **O Terceiro Planeta**             | 286     | ✅          | ✅       |      |      |          |
 | **A Humanidade Artificial**        | 214     | ✅          |         |      |      |          |
-| **Cavalo-Marinho no Céu**          | 222     | ✅          |         |      |      |          |
+| **Cavalo-Marinho no Céu**          | 222     | ✅          | ✅       |      |      |          |
 | **O Diabólico Cérebro Eletrônico** | 282     | ✅          |         |      |      |          |
 | **Os Homens Moleculares**          | 286     | ✅          | ✅       | ✅    | 162  |          |
-| **O Terror Rithiano**              | 124     | ✅          |         |      |      |          |
+| **O Terror Rithiano**              | 124     | ✅          | ✅       |      |      |          |
 | Os Cérebros Prateados              | 220     | ✅          |         |      |      |          |
 | **Nave Escrava**                   | 168     | ✅          | ✅       | ✅    |      |          |
 | **Boneca do Destino**              | 214     | ✅          |         |      |      |          |
