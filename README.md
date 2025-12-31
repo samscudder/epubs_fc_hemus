@@ -98,7 +98,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **As Cavernas de Marte**<br />![](./docs/hemus_as_cavernas_de_marte.png) | Nine Tomorrows (Fawcett, 1969)<br />![](./docs/nine_tomorrows.jpg) | Paul Lehr                  |
 | **As Correntes do Espaço**<br />![](./docs/hemus_as_correntes_do_espaco.jpg) | AudioLP The Green Hills of Earth (Caedmon Records, 1977)<br />![](./docs/the_green_hills_of_earth.jpg) | Frank Kelly Freas          |
 | **Caça aos Robôs**<br />![](./docs/hemus_caca_aos_robos.jpg) | I, Robot (Fawcett, 1970)<br />![](./docs/i_robot.jpg)        | John Berkey                |
-| **Despertar dos Deuses**<br />![](D:\fontes\epubs_fc_hemus\docs\hemus_despertar_dos_deuses.jpg) | The Best of Isaac Asimov (Fawcett, 1976)<br />![](./docs/the_best_of_isaac_asimov.jpg) | (Artista não identificado) |
+| **Despertar dos Deuses**<br />![](./docs/hemus_despertar_dos_deuses.jpg) | The Best of Isaac Asimov (Fawcett, 1976)<br />![](./docs/the_best_of_isaac_asimov.jpg) | (Artista não identificado) |
 | **Fim da Eternidade**<br />![](./docs/hemus_fim_da_eternidade.jpg) | Foundation and Empire (Panther, 1973)<br />![](./docs/foundation_and_empire.jpg) | Chris Foss                 |
 | Fundação                                                     | The Stars Like Dust (Fawcett, 1972)<br />![](./docs/the_stars_like_dust.jpg) | Paul Lehr                  |
 | **Fundação II**<br />![](./docs/hemus_fundacao_ii.jpg)       | Omni Magazine - Outubro 1982<br />![](./docs/omni_october_1982.jpg) | Dickran Palulian           |
