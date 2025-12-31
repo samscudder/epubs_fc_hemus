@@ -181,12 +181,12 @@ Vou atualizando este documento conforme as atividades são executadas.
 | A Cidade Perdida de Marte (1)      | 218     |            |         |      |      |          |
 | E de Espaço                        | 202     | ✅          |         |      |      |          |
 | **F de  Foguete**                  | 210     | ✅          | ✅       | ✅    |      |          |
-| **O Terceiro Planeta**             | 286     | ✅          | ✅       |      |      |          |
+| **O Terceiro Planeta**             | 286     | ✅          | ✅       | ✅    |      |          |
 | **A Humanidade Artificial**        | 214     | ✅          |         |      |      |          |
-| **Cavalo-Marinho no Céu**          | 222     | ✅          | ✅       |      |      |          |
+| **Cavalo-Marinho no Céu**          | 222     | ✅          | ✅       | ✅    |      |          |
 | **O Diabólico Cérebro Eletrônico** | 282     | ✅          |         |      |      |          |
 | **Os Homens Moleculares**          | 286     | ✅          | ✅       | ✅    | 162  |          |
-| **O Terror Rithiano**              | 124     | ✅          | ✅       |      |      |          |
+| **O Terror Rithiano**              | 124     | ✅          | ✅       | ✅    |      |          |
 | Os Cérebros Prateados              | 220     | ✅          |         |      |      |          |
 | **Nave Escrava**                   | 168     | ✅          | ✅       | ✅    |      |          |
 | **Boneca do Destino**              | 214     | ✅          |         |      |      |          |
