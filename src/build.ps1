@@ -67,6 +67,10 @@ $folders = @(
     "vigilante_das_estrelas"
 )
 
+$folders = @(
+    "jupiter_a_venda"
+)
+
 foreach ($folder in $folders) {
     # Build-Epub -FolderName $folder
     Build-Epub -FolderName $folder
