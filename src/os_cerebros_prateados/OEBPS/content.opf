@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>Os Cérebros Prateados</dc:title>
+		<dc:identifier id="bookid">hemus_os_cebebros_prateados_v001</dc:identifier>
+		<dc:creator>Fritz Leiber</dc:creator>
+		<dc:publisher>Hemus</dc:publisher>
+		<dc:language>pt-br</dc:language>
+		<meta name="cover" content="cover.jpg"/>
+		<meta property="dcterms:modified">1981-01-01T00:00:01Z</meta>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="css/book.css" media-type="text/css"/>
+		<item id="cover.jpg" href="images/cover.jpg" media-type="image/jpeg"/>
+		<item id="rearcover.jpg" href="images/rearcover.jpg" media-type="image/jpeg"/>
+		<item id="hemus.jpg" href="images/hemus.jpg" media-type="image/jpeg"/>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="rearcover" href="rearcover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="halftitle" href="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item id="introduction" href="introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c01" href="c01.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c02" href="c02.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c03" href="c03.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c04" href="c04.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c05" href="c05.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c06" href="c06.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c07" href="c07.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c08" href="c08.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c09" href="c09.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c10" href="c10.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c11" href="c11.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c12" href="c12.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c13" href="c13.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c14" href="c14.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c15" href="c15.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c16" href="c16.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c17" href="c17.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c18" href="c18.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c19" href="c19.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c20" href="c20.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c21" href="c21.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c22" href="c22.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c23" href="c23.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c24" href="c24.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c25" href="c25.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c26" href="c26.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c27" href="c27.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c28" href="c28.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c29" href="c29.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c30" href="c30.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c31" href="c31.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c32" href="c32.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c33" href="c33.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c34" href="c34.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c35" href="c35.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c36" href="c36.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c37" href="c37.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c38" href="c38.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c39" href="c39.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c40" href="c40.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c41" href="c41.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c42" href="c42.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c43" href="c43.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c44" href="c44.xhtml" media-type="application/xhtml+xml"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no"/>
+		<itemref idref="rearcover"/>
+		<itemref idref="halftitle"/>
+		<itemref idref="titlepage"/>
+		<itemref idref="copyright"/>
+		<itemref idref="dedication"/>
+		<itemref idref="toc"/>
+		<itemref idref="introduction"/>
+		<itemref idref="c01"/>
+		<itemref idref="c02"/>
+		<itemref idref="c03"/>
+		<itemref idref="c04"/>
+		<itemref idref="c05"/>
+		<itemref idref="c06"/>
+		<itemref idref="c07"/>
+		<itemref idref="c08"/>
+		<itemref idref="c09"/>
+		<itemref idref="c10"/>
+		<itemref idref="c11"/>
+		<itemref idref="c12"/>
+		<itemref idref="c13"/>
+		<itemref idref="c14"/>
+		<itemref idref="c15"/>
+		<itemref idref="c16"/>
+		<itemref idref="c17"/>
+		<itemref idref="c18"/>
+		<itemref idref="c19"/>
+		<itemref idref="c20"/>
+		<itemref idref="c21"/>
+		<itemref idref="c22"/>
+		<itemref idref="c23"/>
+		<itemref idref="c24"/>
+		<itemref idref="c25"/>
+		<itemref idref="c26"/>
+		<itemref idref="c27"/>
+		<itemref idref="c28"/>
+		<itemref idref="c29"/>
+		<itemref idref="c30"/>
+		<itemref idref="c31"/>
+		<itemref idref="c32"/>
+		<itemref idref="c33"/>
+		<itemref idref="c34"/>
+		<itemref idref="c35"/>
+		<itemref idref="c36"/>
+		<itemref idref="c37"/>
+		<itemref idref="c38"/>
+		<itemref idref="c39"/>
+		<itemref idref="c40"/>
+		<itemref idref="c41"/>
+		<itemref idref="c42"/>
+		<itemref idref="c43"/>
+		<itemref idref="c44"/>
+	</spine>
+	<guide>
+		<reference type="cover" title="Cover" href="cover.xhtml"/>
+		<reference type="toc" title="Table of Contents" href="toc.xhtml"></reference>
+		<reference type="text" title="Rear Cover" href="rearcover.xhtml"></reference>
+	</guide>
+</package>

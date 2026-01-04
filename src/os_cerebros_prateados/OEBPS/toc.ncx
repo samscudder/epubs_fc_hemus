@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="hemus_os_cebebros_prateados_v001"/>
+		<meta name="dtb:depth" content="2"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>OS CÉREBROS PRATEADOS</text></docTitle>
+	<navMap>
+		<navPoint id="rearcover" playOrder="1"><navLabel><text>Contracapa</text></navLabel><content src="rearcover.xhtml"/></navPoint>
+		<navPoint id="halftitle" playOrder="2"><navLabel><text>Ante-rosto</text></navLabel><content src="halftitle.xhtml"/></navPoint>
+		<navPoint id="titlepage" playOrder="3"><navLabel><text>Folha de Rosto</text></navLabel><content src="titlepage.xhtml"/></navPoint>
+		<navPoint id="copyright" playOrder="4"><navLabel><text>Copyright</text></navLabel><content src="copyright.xhtml"/></navPoint>
+		<navPoint id="dedication" playOrder="5"><navLabel><text>Dedicatória</text></navLabel><content src="dedication.xhtml"/></navPoint>
+		<navPoint id="toc" playOrder="6"><navLabel><text>Sumário</text></navLabel><content src="toc.xhtml"/></navPoint>
+		<navPoint id="intro" playOrder="7"><navLabel><text>Introdução</text></navLabel><content src="introduction.xhtml"/></navPoint>
+		<navPoint id="c01" playOrder="8"><navLabel><text>Capítulo Um</text></navLabel><content src="c01.xhtml"/></navPoint>
+		<navPoint id="c02" playOrder="9"><navLabel><text>Capítulo Dois</text></navLabel><content src="c02.xhtml"/></navPoint>
+		<navPoint id="c03" playOrder="10"><navLabel><text>Capítulo Três</text></navLabel><content src="c03.xhtml"/></navPoint>
+		<navPoint id="c04" playOrder="11"><navLabel><text>Capítulo Quatro</text></navLabel><content src="c04.xhtml"/></navPoint>
+		<navPoint id="c05" playOrder="12"><navLabel><text>Capítulo Cinco</text></navLabel><content src="c05.xhtml"/></navPoint>
+		<navPoint id="c06" playOrder="13"><navLabel><text>Capítulo Seis</text></navLabel><content src="c06.xhtml"/></navPoint>
+		<navPoint id="c07" playOrder="14"><navLabel><text>Capítulo Sete</text></navLabel><content src="c07.xhtml"/></navPoint>
+		<navPoint id="c08" playOrder="15"><navLabel><text>Capítulo Oito</text></navLabel><content src="c08.xhtml"/></navPoint>
+		<navPoint id="c09" playOrder="16"><navLabel><text>Capítulo Nove</text></navLabel><content src="c09.xhtml"/></navPoint>
+		<navPoint id="c10" playOrder="17"><navLabel><text>Capítulo Dez</text></navLabel><content src="c10.xhtml"/></navPoint>
+		<navPoint id="c11" playOrder="18"><navLabel><text>Capítulo Onze</text></navLabel><content src="c11.xhtml"/></navPoint>
+		<navPoint id="c12" playOrder="19"><navLabel><text>Capítulo Doze</text></navLabel><content src="c12.xhtml"/></navPoint>
+		<navPoint id="c13" playOrder="20"><navLabel><text>Capítulo Treze</text></navLabel><content src="c13.xhtml"/></navPoint>
+		<navPoint id="c14" playOrder="21"><navLabel><text>Capítulo Quatorze</text></navLabel><content src="c14.xhtml"/></navPoint>
+		<navPoint id="c15" playOrder="22"><navLabel><text>Capítulo Quinze</text></navLabel><content src="c15.xhtml"/></navPoint>
+		<navPoint id="c16" playOrder="23"><navLabel><text>Capítulo Dezesseis</text></navLabel><content src="c16.xhtml"/></navPoint>
+		<navPoint id="c17" playOrder="24"><navLabel><text>Capítulo Dezessete</text></navLabel><content src="c17.xhtml"/></navPoint>
+		<navPoint id="c18" playOrder="25"><navLabel><text>Capítulo Dezoito</text></navLabel><content src="c18.xhtml"/></navPoint>
+		<navPoint id="c19" playOrder="26"><navLabel><text>Capítulo Dezenove</text></navLabel><content src="c19.xhtml"/></navPoint>
+		<navPoint id="c20" playOrder="27"><navLabel><text>Capítulo Vinte</text></navLabel><content src="c20.xhtml"/></navPoint>
+		<navPoint id="c21" playOrder="28"><navLabel><text>Capítulo Vinte e Um</text></navLabel><content src="c21.xhtml"/></navPoint>
+		<navPoint id="c22" playOrder="29"><navLabel><text>Capítulo Vinte e Dois</text></navLabel><content src="c22.xhtml"/></navPoint>
+		<navPoint id="c23" playOrder="30"><navLabel><text>Capítulo Vinte e Três</text></navLabel><content src="c23.xhtml"/></navPoint>
+		<navPoint id="c24" playOrder="31"><navLabel><text>Capítulo Vinte e Quatro</text></navLabel><content src="c24.xhtml"/></navPoint>
+		<navPoint id="c25" playOrder="32"><navLabel><text>Capítulo Vinte e Cinco</text></navLabel><content src="c25.xhtml"/></navPoint>
+		<navPoint id="c26" playOrder="33"><navLabel><text>Capítulo Vinte e Seis</text></navLabel><content src="c26.xhtml"/></navPoint>
+		<navPoint id="c27" playOrder="34"><navLabel><text>Capítulo Vinte e Sete</text></navLabel><content src="c27.xhtml"/></navPoint>
+		<navPoint id="c28" playOrder="35"><navLabel><text>Capítulo Vinte e Oito</text></navLabel><content src="c28.xhtml"/></navPoint>
+		<navPoint id="c29" playOrder="36"><navLabel><text>Capítulo Vinte e Nove</text></navLabel><content src="c29.xhtml"/></navPoint>
+		<navPoint id="c30" playOrder="37"><navLabel><text>Capítulo Trinta</text></navLabel><content src="c30.xhtml"/></navPoint>
+		<navPoint id="c31" playOrder="38"><navLabel><text>Capítulo Trinta e Um</text></navLabel><content src="c31.xhtml"/></navPoint>
+		<navPoint id="c32" playOrder="39"><navLabel><text>Capítulo Trinta e Dois</text></navLabel><content src="c32.xhtml"/></navPoint>
+		<navPoint id="c33" playOrder="40"><navLabel><text>Capítulo Trinta e Três</text></navLabel><content src="c33.xhtml"/></navPoint>
+		<navPoint id="c34" playOrder="41"><navLabel><text>Capítulo Trinta e Quatro</text></navLabel><content src="c34.xhtml"/></navPoint>
+		<navPoint id="c35" playOrder="42"><navLabel><text>Capítulo Trinta e Cinco</text></navLabel><content src="c35.xhtml"/></navPoint>
+		<navPoint id="c36" playOrder="43"><navLabel><text>Capítulo Trinta e Seis</text></navLabel><content src="c36.xhtml"/></navPoint>
+		<navPoint id="c37" playOrder="44"><navLabel><text>Capítulo Trinta e Sete</text></navLabel><content src="c37.xhtml"/></navPoint>
+		<navPoint id="c38" playOrder="45"><navLabel><text>Capítulo Trinta e Oito</text></navLabel><content src="c38.xhtml"/></navPoint>
+		<navPoint id="c39" playOrder="46"><navLabel><text>Capítulo Trinta e Nove</text></navLabel><content src="c39.xhtml"/></navPoint>
+		<navPoint id="c40" playOrder="47"><navLabel><text>Capítulo Quarenta</text></navLabel><content src="c40.xhtml"/></navPoint>
+		<navPoint id="c41" playOrder="48"><navLabel><text>Capítulo Quarenta e Um</text></navLabel><content src="c41.xhtml"/></navPoint>
+		<navPoint id="c42" playOrder="49"><navLabel><text>Capítulo Quarenta e Dois</text></navLabel><content src="c42.xhtml"/></navPoint>
+		<navPoint id="c43" playOrder="50"><navLabel><text>Capítulo Quarenta e Três</text></navLabel><content src="c43.xhtml"/></navPoint>
+		<navPoint id="c44" playOrder="51"><navLabel><text>Capítulo Quarenta e Quatro</text></navLabel><content src="c44.xhtml"/></navPoint>
+	</navMap>
+</ncx>
