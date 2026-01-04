@@ -120,7 +120,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **Luz de Outra Dimensão**<br />![](./docs/hemus_luz_de_outra_dimensao.jpg) | The Siege of Wonder (DAW, 1976)<br />![](./docs/the_siege_of_wonder.jpg) | H. R. Van Dongen           |
 | **250 Séculos Após...**<br />![](./docs/hemus_250_seculos_apos.jpg) | Pintura *Urban Monad 116* - 1980<br />![](./docs/urban_monad_116.jpg) | Vincent DiFate             |
 | A Cidade Perdida de Marte                                    | Arte original, 1975                                          | Décio Guedes               |
-| E de Espaço                                                  | Foundation (Panther, 1960)<br />![](./docs/foundation.jpg)   | Chris Foss                 |
+| E de Espaço<br />![](./docs/hemus_e_de_espaco.jpg)           | Foundation (Panther, 1960)<br />![](./docs/foundation.jpg)   | Chris Foss                 |
 | **F de  Foguete**<br />![](./docs/hemus_f_de_foguete.jpg)    | The Early Asimov Volume 1 (Panther, 1973)<br />![](./docs/the_early_asimov_1.jpg) | Chris Foss                 |
 | **O Terceiro Planeta**<br />![](./docs/hemus_o_terceiro_planeta.jpg) | The Martian Way and Other Stories (Fawcett, 1969)<br />![](./docs/the_martian_way.jpg) | Paul  Lehr                 |
 | **A Humanidade Artificial**<br />![](./docs/hemus_a_humanidade_artificial.jpg) | Equator (New English Library, 1973)<br />![](./docs/equator.jpg) | Bruce Pennington           |
@@ -164,7 +164,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Júpiter à Venda**                | 236     | ✅          | ✅       | ✅    | ✅    |          |
 | Nós Robôs                          | 559     |            |         |      |      |          |
 | **Nós, os Marcianos**              | 256     | ✅          | ✅       | ✅    |      |          |
-| **O Cair da Noite**                | 378     | ✅          | ✅       | ✅    | ✅    | 280      |
+| **O Cair da Noite**                | 378     | ✅          | ✅       | ✅    | ✅    | 347      |
 | **O Futuro Começou**               | 470     | ✅          |         |      |      |          |
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅       | ✅    |      |          |
 | **O Homem Bicentenário**           | 238     | ✅          | ✅       | ✅    | ✅    | 82       |
