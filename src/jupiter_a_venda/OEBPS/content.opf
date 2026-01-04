@@ -23,30 +23,30 @@
 		<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
 		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item id="preface" href="preface.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c01" href="c01.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c02" href="c02.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c03" href="c03.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c04" href="c04.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c05" href="c05.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c06" href="c06.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c07" href="c07.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c08" href="c08.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c09" href="c09.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c10" href="c10.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c11" href="c11.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c12" href="c12.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c13" href="c13.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c14" href="c14.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c15" href="c15.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c16" href="c16.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c17" href="c17.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c18" href="c18.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c19" href="c19.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c20" href="c20.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c21" href="c21.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c22" href="c22.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c23" href="c23.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c24" href="c24.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_salao_de_sinuca_darwiniano" href="o_salao_de_sinuca_darwiniano.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_dia_dos_cacadores" href="o_dia_dos_cacadores.xhtml" media-type="application/xhtml+xml"/>
+		<item id="shah_guido_g" href="shah_guido_g.xhtml" media-type="application/xhtml+xml"/>
+		<item id="botao_botao" href="botao_botao.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_dedo_do_macaco" href="o_dedo_do_macaco.xhtml" media-type="application/xhtml+xml"/>
+		<item id="everest" href="everest.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a_pausa" href="a_pausa.xhtml" media-type="application/xhtml+xml"/>
+		<item id="nao_permitamos_que" href="nao_permitamos_que.xhtml" media-type="application/xhtml+xml"/>
+		<item id="explorador_cada_um" href="explorador_cada_um.xhtml" media-type="application/xhtml+xml"/>
+		<item id="vazio" href="vazio.xhtml" media-type="application/xhtml+xml"/>
+		<item id="uma_abelha_se_importa" href="uma_abelha_se_importa.xhtml" media-type="application/xhtml+xml"/>
+		<item id="pobres_imbecis" href="pobres_imbecis.xhtml" media-type="application/xhtml+xml"/>
+		<item id="jupiter_a_venda" href="jupiter_a_venda.xhtml" media-type="application/xhtml+xml"/>
+		<item id="uma_estatua_para_papai" href="uma_estatua_para_papai.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chuva_chuva_va_embora" href="chuva_chuva_va_embora.xhtml" media-type="application/xhtml+xml"/>
+		<item id="foram_os_pais" href="foram_os_pais.xhtml" media-type="application/xhtml+xml"/>
+		<item id="exilio_no_inferno" href="exilio_no_inferno.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ponto_chave" href="ponto_chave.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_estudo_apropriado" href="o_estudo_apropriado.xhtml" media-type="application/xhtml+xml"/>
+		<item id="dois_quatro_tres_zero_dc" href="dois_quatro_tres_zero_dc.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_grande_trunfo" href="o_grande_trunfo.xhtml" media-type="application/xhtml+xml"/>
+		<item id="risque_um_fosforo" href="risque_um_fosforo.xhtml" media-type="application/xhtml+xml"/>
+		<item id="tiotimolina_para_as_estrelas" href="tiotimolina_para_as_estrelas.xhtml" media-type="application/xhtml+xml"/>
+		<item id="versos_na_luz" href="versos_na_luz.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="cover" linear="no"/>
@@ -57,30 +57,30 @@
 		<itemref idref="copyright"/>
 		<itemref idref="toc"/>
 		<itemref idref="preface"/>
-		<itemref idref="c01"/>
-		<itemref idref="c02"/>
-		<itemref idref="c03"/>
-		<itemref idref="c04"/>
-		<itemref idref="c05"/>
-		<itemref idref="c06"/>
-		<itemref idref="c07"/>
-		<itemref idref="c08"/>
-		<itemref idref="c09"/>
-		<itemref idref="c10"/>
-		<itemref idref="c11"/>
-		<itemref idref="c12"/>
-		<itemref idref="c13"/>
-		<itemref idref="c14"/>
-		<itemref idref="c15"/>
-		<itemref idref="c16"/>
-		<itemref idref="c17"/>
-		<itemref idref="c18"/>
-		<itemref idref="c19"/>
-		<itemref idref="c20"/>
-		<itemref idref="c21"/>
-		<itemref idref="c22"/>
-		<itemref idref="c23"/>
-		<itemref idref="c24"/>
+		<itemref idref="o_salao_de_sinuca_darwiniano"/>
+		<itemref idref="o_dia_dos_cacadores"/>
+		<itemref idref="shah_guido_g"/>
+		<itemref idref="botao_botao"/>
+		<itemref idref="o_dedo_do_macaco"/>
+		<itemref idref="everest"/>
+		<itemref idref="a_pausa"/>
+		<itemref idref="nao_permitamos_que"/>
+		<itemref idref="explorador_cada_um"/>
+		<itemref idref="vazio"/>
+		<itemref idref="uma_abelha_se_importa"/>
+		<itemref idref="pobres_imbecis"/>
+		<itemref idref="jupiter_a_venda"/>
+		<itemref idref="uma_estatua_para_papai"/>
+		<itemref idref="chuva_chuva_va_embora"/>
+		<itemref idref="foram_os_pais"/>
+		<itemref idref="exilio_no_inferno"/>
+		<itemref idref="ponto_chave"/>
+		<itemref idref="o_estudo_apropriado"/>
+		<itemref idref="dois_quatro_tres_zero_dc"/>
+		<itemref idref="o_grande_trunfo"/>
+		<itemref idref="risque_um_fosforo"/>
+		<itemref idref="tiotimolina_para_as_estrelas"/>
+		<itemref idref="versos_na_luz"/>
 	</spine>
 	<guide>
 		<reference type="cover" title="Cover" href="cover.xhtml"/>

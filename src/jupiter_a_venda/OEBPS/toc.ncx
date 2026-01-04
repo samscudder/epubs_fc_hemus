@@ -13,29 +13,29 @@
 		<navPoint id="copyright" playOrder="3"><navLabel><text>Copyright</text></navLabel><content src="copyright.xhtml"/></navPoint>
 		<navPoint id="toc" playOrder="4"><navLabel><text>Sumário</text></navLabel><content src="toc.xhtml"/></navPoint>
 		<navPoint id="preface" playOrder="5"><navLabel><text>Prefácio</text></navLabel><content src="preface.xhtml"/></navPoint>
-		<navPoint id="c01" playOrder="6"><navLabel><text>O Salão de Sinuca Darwiniano</text></navLabel><content src="c01.xhtml"/></navPoint>
-		<navPoint id="c02" playOrder="7"><navLabel><text>O Dia dos Caçadores</text></navLabel><content src="c02.xhtml"/></navPoint>
-		<navPoint id="c03" playOrder="8"><navLabel><text>Shah Guido G.</text></navLabel><content src="c03.xhtml"/></navPoint>
-		<navPoint id="c04" playOrder="9"><navLabel><text>Botão, Botão</text></navLabel><content src="c04.xhtml"/></navPoint>
-		<navPoint id="c05" playOrder="10"><navLabel><text>O Dedo do Macaco</text></navLabel><content src="c05.xhtml"/></navPoint>
-		<navPoint id="c06" playOrder="11"><navLabel><text>Everest</text></navLabel><content src="c06.xhtml"/></navPoint>
-		<navPoint id="c07" playOrder="12"><navLabel><text>A Pausa</text></navLabel><content src="c07.xhtml"/></navPoint>
-		<navPoint id="c08" playOrder="13"><navLabel><text>Não Permitamos Que...</text></navLabel><content src="c08.xhtml"/></navPoint>
-		<navPoint id="c09" playOrder="14"><navLabel><text>Explorador, Cada Um</text></navLabel><content src="c09.xhtml"/></navPoint>
-		<navPoint id="c10" playOrder="15"><navLabel><text>Vazio!</text></navLabel><content src="c10.xhtml"/></navPoint>
-		<navPoint id="c11" playOrder="16"><navLabel><text>Uma Abelha Se Importa?</text></navLabel><content src="c11.xhtml"/></navPoint>
-		<navPoint id="c12" playOrder="17"><navLabel><text>Pobres Imbecis</text></navLabel><content src="c12.xhtml"/></navPoint>
-		<navPoint id="c13" playOrder="18"><navLabel><text>Júpiter à Venda</text></navLabel><content src="c13.xhtml"/></navPoint>
-		<navPoint id="c14" playOrder="19"><navLabel><text>Uma Estátua Para Papai</text></navLabel><content src="c14.xhtml"/></navPoint>
-		<navPoint id="c15" playOrder="20"><navLabel><text>Chuva, Chuva, Vá Embora</text></navLabel><content src="c15.xhtml"/></navPoint>
-		<navPoint id="c16" playOrder="21"><navLabel><text>Foram os Pais</text></navLabel><content src="c16.xhtml"/></navPoint>
-		<navPoint id="c17" playOrder="22"><navLabel><text>Exílio no Inferno</text></navLabel><content src="c17.xhtml"/></navPoint>
-		<navPoint id="c18" playOrder="23"><navLabel><text>Ponto Chave</text></navLabel><content src="c18.xhtml"/></navPoint>
-		<navPoint id="c19" playOrder="24"><navLabel><text>O Estudo Apropriado</text></navLabel><content src="c19.xhtml"/></navPoint>
-		<navPoint id="c20" playOrder="25"><navLabel><text>2430 D.C.</text></navLabel><content src="c20.xhtml"/></navPoint>
-		<navPoint id="c21" playOrder="26"><navLabel><text>O Grande Trunfo</text></navLabel><content src="c21.xhtml"/></navPoint>
-		<navPoint id="c22" playOrder="27"><navLabel><text>Risque um Fósforo</text></navLabel><content src="c22.xhtml"/></navPoint>
-		<navPoint id="c23" playOrder="28"><navLabel><text>Tiotimolina Para as Estrelas</text></navLabel><content src="c23.xhtml"/></navPoint>
-		<navPoint id="c24" playOrder="29"><navLabel><text>Versos na Luz</text></navLabel><content src="c24.xhtml"/></navPoint>
+		<navPoint id="c01" playOrder="6"><navLabel><text>O Salão de Sinuca Darwiniano</text></navLabel><content src="o_salao_de_sinuca_darwiniano.xhtml"/></navPoint>
+		<navPoint id="c02" playOrder="7"><navLabel><text>O Dia dos Caçadores</text></navLabel><content src="o_dia_dos_cacadores.xhtml"/></navPoint>
+		<navPoint id="c03" playOrder="8"><navLabel><text>Shah Guido G.</text></navLabel><content src="shah_guido_g.xhtml"/></navPoint>
+		<navPoint id="c04" playOrder="9"><navLabel><text>Botão, Botão</text></navLabel><content src="botao_botao.xhtml"/></navPoint>
+		<navPoint id="c05" playOrder="10"><navLabel><text>O Dedo do Macaco</text></navLabel><content src="o_dedo_do_macaco.xhtml"/></navPoint>
+		<navPoint id="c06" playOrder="11"><navLabel><text>Everest</text></navLabel><content src="everest.xhtml"/></navPoint>
+		<navPoint id="c07" playOrder="12"><navLabel><text>A Pausa</text></navLabel><content src="a_pausa.xhtml"/></navPoint>
+		<navPoint id="c08" playOrder="13"><navLabel><text>Não Permitamos Que...</text></navLabel><content src="nao_permitamos_que.xhtml"/></navPoint>
+		<navPoint id="c09" playOrder="14"><navLabel><text>Explorador, Cada Um</text></navLabel><content src="explorador_cada_um.xhtml"/></navPoint>
+		<navPoint id="c10" playOrder="15"><navLabel><text>Vazio!</text></navLabel><content src="vazio.xhtml"/></navPoint>
+		<navPoint id="c11" playOrder="16"><navLabel><text>Uma Abelha Se Importa?</text></navLabel><content src="uma_abelha_se_importa.xhtml"/></navPoint>
+		<navPoint id="c12" playOrder="17"><navLabel><text>Pobres Imbecis</text></navLabel><content src="pobres_imbecis.xhtml"/></navPoint>
+		<navPoint id="c13" playOrder="18"><navLabel><text>Júpiter à Venda</text></navLabel><content src="jupiter_a_venda.xhtml"/></navPoint>
+		<navPoint id="c14" playOrder="19"><navLabel><text>Uma Estátua Para Papai</text></navLabel><content src="uma_estatua_para_papai.xhtml"/></navPoint>
+		<navPoint id="c15" playOrder="20"><navLabel><text>Chuva, Chuva, Vá Embora</text></navLabel><content src="chuva_chuva_va_embora.xhtml"/></navPoint>
+		<navPoint id="c16" playOrder="21"><navLabel><text>Foram os Pais</text></navLabel><content src="foram_os_pais.xhtml"/></navPoint>
+		<navPoint id="c17" playOrder="22"><navLabel><text>Exílio no Inferno</text></navLabel><content src="exilio_no_inferno.xhtml"/></navPoint>
+		<navPoint id="c18" playOrder="23"><navLabel><text>Ponto Chave</text></navLabel><content src="ponto_chave.xhtml"/></navPoint>
+		<navPoint id="c19" playOrder="24"><navLabel><text>O Estudo Apropriado</text></navLabel><content src="o_estudo_apropriado.xhtml"/></navPoint>
+		<navPoint id="c20" playOrder="25"><navLabel><text>2430 D.C.</text></navLabel><content src="dois_quatro_tres_zero_dc.xhtml"/></navPoint>
+		<navPoint id="c21" playOrder="26"><navLabel><text>O Grande Trunfo</text></navLabel><content src="o_grande_trunfo.xhtml"/></navPoint>
+		<navPoint id="c22" playOrder="27"><navLabel><text>Risque um Fósforo</text></navLabel><content src="risque_um_fosforo.xhtml"/></navPoint>
+		<navPoint id="c23" playOrder="28"><navLabel><text>Tiotimolina Para as Estrelas</text></navLabel><content src="tiotimolina_para_as_estrelas.xhtml"/></navPoint>
+		<navPoint id="c24" playOrder="29"><navLabel><text>Versos na Luz</text></navLabel><content src="versos_na_luz.xhtml"/></navPoint>
 	</navMap>
 </ncx>
