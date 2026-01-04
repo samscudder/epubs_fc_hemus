@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="hemus_f_de_foguete_v001"/>
+		<meta name="dtb:depth" content="2"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>F DE FOGUETE</text></docTitle>
+	<navMap>
+		<navPoint id="rearcover" playOrder="1"><navLabel><text>Contracapa</text></navLabel><content src="rearcover.xhtml"/></navPoint>
+		<navPoint id="halftitle" playOrder="2"><navLabel><text>Ante-rosto</text></navLabel><content src="halftitle.xhtml"/></navPoint>
+		<navPoint id="titlepage" playOrder="3"><navLabel><text>Folha de Rosto</text></navLabel><content src="titlepage.xhtml"/></navPoint>
+		<navPoint id="copyright" playOrder="4"><navLabel><text>Copyright</text></navLabel><content src="copyright.xhtml"/></navPoint>
+		<navPoint id="dedication" playOrder="5"><navLabel><text>Dedicatória</text></navLabel><content src="dedication.xhtml"/></navPoint>
+		<navPoint id="toc" playOrder="6"><navLabel><text>Sumário</text></navLabel><content src="toc.xhtml"/></navPoint>
+		<navPoint id="c01" playOrder="7"><navLabel><text>Introdução</text></navLabel><content src="introduction.xhtml"/></navPoint>
+		<navPoint id="c02" playOrder="8"><navLabel><text>F de foguete</text></navLabel><content src="f_de_foguete.xhtml"/></navPoint>
+		<navPoint id="c03" playOrder="9"><navLabel><text>O fim do começo</text></navLabel><content src="o_fim_do_comeco.xhtml"/></navPoint>
+		<navPoint id="c04" playOrder="10"><navLabel><text>A buzina de neblina</text></navLabel><content src="a_buzina_de_neblina.xhtml"/></navPoint>
+		<navPoint id="c05" playOrder="11"><navLabel><text>O foguete</text></navLabel><content src="o_foguete.xhtml"/></navPoint>
+		<navPoint id="c06" playOrder="12"><navLabel><text>O astronauta</text></navLabel><content src="o_astronauta.xhtml"/></navPoint>
+		<navPoint id="c07" playOrder="13"><navLabel><text>Os pomos dourados do Sol</text></navLabel><content src="os_pomos_dourados_do_sol.xhtml"/></navPoint>
+		<navPoint id="c08" playOrder="14"><navLabel><text>Um som de trovão</text></navLabel><content src="um_som_de_trovao.xhtml"/></navPoint>
+		<navPoint id="c09" playOrder="15"><navLabel><text>A longa chuva</text></navLabel><content src="a_longa_chuva.xhtml"/></navPoint>
+		<navPoint id="c10" playOrder="16"><navLabel><text>Os exilados</text></navLabel><content src="os_exilados.xhtml"/></navPoint>
+		<navPoint id="c11" playOrder="17"><navLabel><text>Aqui haverá tigres</text></navLabel><content src="aqui_havera_tigres.xhtml"/></navPoint>
+		<navPoint id="c12" playOrder="18"><navLabel><text>A janela cor de morango</text></navLabel><content src="a_janela_cor_de_morango.xhtml"/></navPoint>
+		<navPoint id="c13" playOrder="19"><navLabel><text>O dragão</text></navLabel><content src="o_dragao.xhtml"/></navPoint>
+		<navPoint id="c14" playOrder="20"><navLabel><text>O presente</text></navLabel><content src="o_presente.xhtml"/></navPoint>
+		<navPoint id="c15" playOrder="21"><navLabel><text>Gelo e fogo</text></navLabel><content src="gelo_e_fogo.xhtml"/></navPoint>
+		<navPoint id="c16" playOrder="22"><navLabel><text>Tio Einar</text></navLabel><content src="tio_einar.xhtml"/></navPoint>
+		<navPoint id="c17" playOrder="23"><navLabel><text>A máquina do tempo</text></navLabel><content src="a_maquina_do_tempo.xhtml"/></navPoint>
+		<navPoint id="c18" playOrder="24"><navLabel><text>O som do verão correndo</text></navLabel><content src="o_som_do_verao_correndo.xhtml"/></navPoint>
+	</navMap>
+</ncx>
