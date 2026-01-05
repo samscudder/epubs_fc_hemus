@@ -161,7 +161,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Fim da Eternidade**              | 248     | ✅          | ✅       | ✅    |      |          |
 | Fundação                           | 503     | ✅          |         |      |      |          |
 | **Fundação II**                    | 372     | ✅          | 370 (2) |      |      |          |
-| **Júpiter à Venda**                | 236     | ✅          | ✅       | ✅    | ✅    |          |
+| **Júpiter à Venda**                | 236     | ✅          | ✅       | ✅    | ✅    | 50       |
 | Nós Robôs                          | 559     |            |         |      |      |          |
 | **Nós, os Marcianos**              | 256     | ✅          | ✅       | ✅    |      |          |
 | **O Cair da Noite**                | 378     | ✅          | ✅       | ✅    | ✅    | 347      |
