@@ -6,9 +6,11 @@ A **Hemus - Editora e Livraria**, na década de 1970, traduziu e publicou vário
 
 Algumas das traduções desses clássicos tem mais de 50 anos, e, se encontrados, estão em estado bem desgastado.
 
-A **Hemus** foi sucedida pela **Editora Record**, que inclusive lançou uma versão nacional da *Isaac Asimov Magazine* com 25 edições publicadas. Atualmente a **Aleph** tem publicado novas traduções das séries Império Galáctico, Robôs e Fundação de Isaac Asimov.
+A **Hemus** foi sucedida pela **Editora Record**, que também lançou uma versão nacional da *Isaac Asimov Magazine* com 25 edições publicadas. Atualmente a **Aleph** tem publicado novas traduções das séries Império Galáctico, Robôs e Fundação de Isaac Asimov.
 
 Nas versões da Hemus, vários títulos foram adaptados. Por exemplo, *The Caves of Steel* virou *Caça aos Robôs*.
+
+Este documento será atualizado conforme forem surgindo novas informações.
 
 Edições originais:
 
@@ -18,7 +20,7 @@ Reedições e novos lançamentos:
 
 ![Livros de ficção científica da Hemus](./docs/fc_hemus.jpg)
 
-Em Novembro de 2025, comecei a scanear e preservar digitalmente as versões atualizadas da Hemus, para ler no Kindle. Comecei com os livros do Asimov, e se conseguir, continuarei com os outros livros.
+Em Novembro de 2025, comecei a scanear e preservar digitalmente as versões atualizadas da Hemus, para ler no Kindle.
 
 Estou digitalizando com um scanner de mesa OpticBook 3800L, e usando o software que acompanhou o scanner (Abbyy Fine Reader 12 Sprint) para fazer o OCR.
 
@@ -59,11 +61,11 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por auto
 | **Para Onde Vamos?**               | Where Do We Go From Here? (1971)                    | Isaac Asimov          | - Maria Judith Martins<br />- Danusa Scarton Rabello Alves |
 | **Vigilante das Estrelas**         | Lucky Starr and the Pirates of the Asteroids (1953) | Isaac Asimov          | - Attílio Cancian                                          |
 | **Essas Estrelas São Nossas**      | We Claim These Stars! (1959)                        | Poul Anderson         | - Affonso Blacheyre                                        |
-| Guerra dos Homens Alados           | War of the Wing-Men (1958)                          | Poul Anderson         |                                                            |
+| **Guerra dos Homens Alados**       | War of the Wing-Men (1958)                          | Poul Anderson         |                                                            |
 | **Luz de Outra Dimensão**          | The Light That Never Was (1972)                     | Lloyd Biggle Jr.      | - Maria Judith Martins                                     |
 | **250 Séculos Após...**            | Midsummer Century (1972)                            | James Blish           | - Attílio Cancian                                          |
-| A Cidade Perdida de Marte          | I Sing the Body Electric (1969)                     | Ray Bradbury          |                                                            |
-| E de Espaço                        | S is for Space (1966)                               | Ray Bradbury          |                                                            |
+| A Cidade Perdida de Marte(2)       | I Sing the Body Electric (1969)                     | Ray Bradbury          |                                                            |
+| **E de Espaço**                    | S is for Space (1966)                               | Ray Bradbury          |                                                            |
 | **F de  Foguete**                  | R is for Rocket (1962)                              | Ray Bradbury          |                                                            |
 | **O Terceiro Planeta**             | Report on Planet Three (1972)                       | Arthur C. Clarke      | - Attílio Cancian                                          |
 | **A Humanidade Artificial**        | The Overman Culture (1971)                          | Edmund Cooper         | - Agatha Maria Auersperg                                   |
@@ -71,7 +73,7 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por auto
 | **O Diabólico Cérebro Eletrônico** | When Harlie Was One (1972)                          | David Gerrold         | - Agatha Maria Auersperg                                   |
 | **Os Homens Moleculares**          | The Molecule Men (1971)                             | Fred e Geoffrey Hoyle | - Agatha Maria Auersperg                                   |
 | **O Terror Rithiano**              | The Rithian Terror (1965)                           | Damon Knight          | - Agatha M. Auersperg                                      |
-| Os Cérebros Prateados              | The Silver Eggheads (1961)                          | Fritz Leiber          |                                                            |
+| **Os Cérebros Prateados**          | The Silver Eggheads (1961)                          | Fritz Leiber          |                                                            |
 | **Nave Escrava**                   | Slave Ship (1956)                                   | Frederick Pohl        | - Agatha Auersperg                                         |
 | **Boneca do Destino**              | Destiny Doll (1971)                                 | Clifford D. Simak     | - Affonso Blacheyre                                        |
 | **Cei, o Gigante**                 | City in the Sky (1974)                              | Curt Siodmak          | - Sandra de Negraes Brisolla                               |
@@ -79,17 +81,28 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por auto
 
 (1) Nas primeira edições e dentro do livro, o título aparece como "O Grande Sol de Mercúrio". Na capa das últimas edições aparece só "Grande Sol de Mercúrio"
 
-Alguns dos livros tiveram capas diferentes durante sua existência:
+(2) Não foram encontradas images da capa deste livro no formato novo, mas continuava relacionado dentro dos outros livros da série.
+
+### Outros livros
+
+Não existem muitas informações disponíveis atualmente (como catálogos da Editora Hemus), mas também encontrei mais alguns livros, não mencionados anteriormente, com o logotipo da FC Hemus:
+
+| Título                | Título Original    | Autor           | Tradução     |
+| --------------------- | ------------------ | --------------- | ------------ |
+| **Exilado No Espaço** | The Last Astronaut | Robert P. White | Lauro Blandy |
+| A Galáxia Estranha    | Galaxy 666(?)      | Robert P. White |              |
+
+Robert P. White é um pseudônimo usado somente no Brasil do autor inglês Robert Lionel Fanthorpe. No exterior foram editados com o pseudônimo Pel Toro. Os livros, embora tenham impresso o logotipo `FC Hemus` na capa, não constam em nenhuma relação de livros.
+
+Fora as reedições, alguns dos livros tiveram capas diferentes durante sua existência:
 
 ![Variações de Capa](./docs/variacoes_capas.jpg)
 
-A segunda capa de Os Robôs usa a ilustração da capa da primeira edição da Hemus, e a terceira usa a ilustração da contracapa.
-
 ## Capas das Reedições
 
-Nas versões nacionais de livros, geralmente as ilustrações são as mesmas das publicações originais, mas neste caso foram aproveitadas de outros livros também. O artista não está creditado na maioria dos livros, e não sei se eram obtidas permissões para uso das imagens, pois foram cortadas as assinaturas dos artistas na maioria das capas. Pesquisando, consegui levantar a seguinte relação de artistas, e onde a arte foi originalmente usada.
+Nas versões nacionais de livros, geralmente as ilustrações são as mesmas das publicações originais, mas neste caso foram aproveitadas de outros livros também. O artista não está creditado na maioria dos livros, e não sei se eram obtidas permissões para uso das imagens, pois foram cortadas as assinaturas dos artistas. Pesquisando, consegui levantar a seguinte relação de artistas, e onde a arte foi originalmente usada.
 
-Em várias das reedições, ainda consta o nome do artista da versão original na página de Copyright ("Edú", ou "Decio Guedes"), indicando que o miolo provavelmente é da primeira edição, e que foi encapado novamente, ou que foram aproveitadas os mesmos fotolítos para as edições subsequentes, sem alterações.
+Em várias das reedições, ainda consta o nome do artista da versão original na página de Copyright ("Edú", ou "Decio Guedes"), indicando que o miolo pode ser da primeira edição, que foi encapado novamente, ou que foram aproveitados os mesmos fotolitos para as edições subsequentes, sem alterações.
 
 | Título                                                       | Publicação Original                                          | Artista                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
@@ -116,7 +129,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **Para Onde Vamos?**<br />![](./docs/hemus_para_onde_vamos.jpg) | The Three Stigmata of Palmer Eldritch (MacFadden, 1966)<br />![](./docs/the_three_stigmata_of_palmer_edritch.jpg) | Jack Faragasso             |
 | **Vigilante das Estrelas**<br />![](./docs/hemus_vigilante_das_estrelas.jpg) | Buy Jupiter (Panther, 1975)<br />![](./docs/buy_jupiter.jpg) | Peter Andrew Jones         |
 | **Essas Estrelas São Nossas**<br />![](./docs/hemus_essas_estrelas_sao_nossas.jpg) | Analog Science Fiction - Abril 1977<br />![](./docs/analog_april_77.jpg) | Vincent DiFate             |
-| Guerra dos Homens Alados                                     | Hot Stuff #4 (1977)<br />![](./docs/hot_stuff_4.jpg)         | Ken Barr                   |
+| **Guerra dos Homens Alados**                                 | Hot Stuff #4 (1977)<br />![](./docs/hot_stuff_4.jpg)         | Ken Barr                   |
 | **Luz de Outra Dimensão**<br />![](./docs/hemus_luz_de_outra_dimensao.jpg) | The Siege of Wonder (DAW, 1976)<br />![](./docs/the_siege_of_wonder.jpg) | H. R. Van Dongen           |
 | **250 Séculos Após...**<br />![](./docs/hemus_250_seculos_apos.jpg) | Pintura *Urban Monad 116* - 1980<br />![](./docs/urban_monad_116.jpg) | Vincent DiFate             |
 | A Cidade Perdida de Marte                                    | Arte original, 1975                                          | Décio Guedes               |
@@ -128,7 +141,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **O Diabólico Cérebro Eletrônico**<br />![](./docs/hemus_o_diabolico_cerebro_eletronico.jpg) | Double Star (Signet, 1979)<br />![](./docs/double_star.jpg)  | Vincent DiFate             |
 | **Os Homens Moleculares**<br />![](./docs/hemus_os_homens_moleculares.jpg) | The Caves of Steel (Fawcett, 1972)<br />![](./docs/the_caves_of_steel.jpg) | John Berkey                |
 | **O Terror Rithiano**<br />![](./docs/hemus_o_terror_rithiano.jpg) | To Live Forever (Ballantine, 1976)<br />![](./docs/to_live_forever.jpg) | Dean Ellis                 |
-| Os Cérebros Prateados                                        | In the Wake of Man (Bobbs-Merrill, 1975)<br />![](./docs/in_the_wake_of_man.jpg) | Nick Aristovulos           |
+| **Os Cérebros Prateados**<br />![](./docs/\hemus_os_cerebros_prateados.jpg) | In the Wake of Man (Bobbs-Merrill, 1975)<br />![](./docs/in_the_wake_of_man.jpg) | Nick Aristovulos           |
 | **Nave Escrava**<br />![](./docs/hemus_nave_escrava.jpg)     | Slave Ship (Ballantine, 1969)<br />![](./docs/slave_ship.jpg) | Robert Foster              |
 | **Boneca do Destino**<br />![](./docs/hemus_boneca_do_destino.jpg) | We Who Are About To (Dell, 1977)<br />![](./docs/we_who_are_about_to.jpg) | (Artista não identificado) |
 | **Cei, o Gigante**<br />![](./docs/hemus_cei_o_gigante.jpg)  | The Best of Philip K Dick (Ballantine, 1977)<br />![](./docs/the_best_of_philip_k_dick.jpg) | Vincent DiFate             |
@@ -144,9 +157,9 @@ Vou atualizando este documento conforme as atividades são executadas.
 | ----------- | --------- | ----- |
 | Páginas     | 9906      | 100,0 |
 | Localizado  | 9129      | 92,2  |
-| Scaneadas   | 5281      | 53,3  |
+| Scaneadas   | 6068      | 61,2  |
 | Convertidas | 1147      | 11,6  |
-| Revisadas   | 296       | 3,0   |
+| Revisadas   | 507       | 5,1   |
 
 ### Detalhado
 
@@ -161,25 +174,25 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Fim da Eternidade**              | 248     | ✅          | ✅       | ✅    |      |          |
 | Fundação                           | 503     | ✅          |         |      |      |          |
 | **Fundação II**                    | 372     | ✅          | 370 (2) |      |      |          |
-| **Júpiter à Venda**                | 236     | ✅          | ✅       | ✅    | ✅    | 50       |
-| Nós Robôs                          | 559     |            |         |      |      |          |
+| **Júpiter à Venda**                | 236     | ✅          | ✅       | ✅    | ✅    | 78       |
+| Nós Robôs                          | 559     |            | 533     |      |      |          |
 | **Nós, os Marcianos**              | 256     | ✅          | ✅       | ✅    |      |          |
 | **O Cair da Noite**                | 378     | ✅          | ✅       | ✅    | ✅    | 347      |
 | **O Futuro Começou**               | 470     | ✅          |         |      |      |          |
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅       | ✅    |      |          |
 | **O Homem Bicentenário**           | 238     | ✅          | ✅       | ✅    | ✅    | 82       |
-| **O Robô de Júpiter**              | 142     | ✅          |         |      |      |          |
+| **O Robô de Júpiter**              | 142     | ✅          | ✅       |      |      |          |
 | **Os Anéis de Saturno**            | 234     | ✅          |         |      |      |          |
 | **Os Oceanos de Vênus**            | 190     | ✅          | ✅       | ✅    |      |          |
-| **Os Robôs**                       | 146     | ✅          |         |      |      |          |
+| **Os Robôs**                       | 264     | ✅          | ✅       |      |      |          |
 | **Para Onde Vamos?**               | 374     | ✅          | ✅       | ✅    |      |          |
 | **Vigilante das Estrelas**         | 162     | ✅          | ✅       | ✅    |      |          |
 | **Essas Estrelas São Nossas**      | 197     | ✅          |         |      |      |          |
-| Guerra dos Homens Alados           | 224     | ✅          |         |      |      |          |
+| **Guerra dos Homens Alados**       | 224     | ✅          |         |      |      |          |
 | **Luz de Outra Dimensão**          | 228     | ✅          |         |      |      |          |
 | **250 Séculos Após...**            | 136     | ✅          | ✅       | ✅    |      |          |
 | A Cidade Perdida de Marte (1)      | 218     |            |         |      |      |          |
-| E de Espaço                        | 202     | ✅          |         |      |      |          |
+| **E de Espaço**                    | 202     | ✅          |         |      |      |          |
 | **F de  Foguete**                  | 210     | ✅          | ✅       | ✅    |      |          |
 | **O Terceiro Planeta**             | 286     | ✅          | ✅       | ✅    |      |          |
 | **A Humanidade Artificial**        | 214     | ✅          |         |      |      |          |
@@ -187,7 +200,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **O Diabólico Cérebro Eletrônico** | 282     | ✅          |         |      |      |          |
 | **Os Homens Moleculares**          | 286     | ✅          | ✅       | ✅    | 162  |          |
 | **O Terror Rithiano**              | 124     | ✅          | ✅       | ✅    |      |          |
-| Os Cérebros Prateados              | 220     | ✅          |         |      |      |          |
+| **Os Cérebros Prateados**          | 220     | ✅          |         |      |      |          |
 | **Nave Escrava**                   | 168     | ✅          | ✅       | ✅    |      |          |
 | **Boneca do Destino**              | 214     | ✅          |         |      |      |          |
 | **Cei, o Gigante**                 | 210     | ✅          |         |      |      |          |

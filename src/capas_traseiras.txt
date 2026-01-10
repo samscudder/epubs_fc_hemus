@@ -92,7 +92,6 @@ Fundação II
 Nós Robôs
 
 Se ha algum motivo pelo qual Isaac Asimov entrará para a história, é por suas teses e predições acuradas sobre a ciência da Robótica, nome, alias, que devemo a ele. O Autor conta
-
 São de sua autoria, também, as assim chamadas “Três Leis da Robótica”, e que são aceitas como perfeitamente válidas e aplicáveis aos futuros robôs antropomórficos, os futuros escravos da humanidade:
 1ª Um robô não pode causar dano a um ser humano, ou, por inação, permitir que seja causado dano a um humano.
 2ª Um robô deve obedecer às ordens que lhe forem dadas pelos seres humanos, exceto quando tais ordens conflitarem com a Primeira Lei.
