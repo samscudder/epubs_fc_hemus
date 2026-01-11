@@ -13,25 +13,25 @@
 		<navPoint id="titlepage" playOrder="3"><navLabel><text>Folha de Rosto</text></navLabel><content src="titlepage.xhtml"/></navPoint>
 		<navPoint id="copyright" playOrder="4"><navLabel><text>Copyright</text></navLabel><content src="copyright.xhtml"/></navPoint>
 		<navPoint id="dedication" playOrder="5"><navLabel><text>Dedicatória</text></navLabel><content src="dedication.xhtml"/></navPoint>
-		<navPoint id="c01" playOrder="6"><navLabel><text>O Cair da Noite</text></navLabel><content src="c01.xhtml"/></navPoint>
-		<navPoint id="c02" playOrder="7"><navLabel><text>Manchas Verdes</text></navLabel><content src="c02.xhtml"/></navPoint>
-		<navPoint id="c03" playOrder="8"><navLabel><text>A Anfitriã</text></navLabel><content src="c03.xhtml"/></navPoint>
-		<navPoint id="c04" playOrder="9"><navLabel><text>O Homem em Cultura</text></navLabel><content src="c04.xhtml"/></navPoint>
-		<navPoint id="c05" playOrder="10"><navLabel><text>O Tubo da Morte</text></navLabel><content src="c05.xhtml"/></navPoint>
-		<navPoint id="c06" playOrder="11"><navLabel><text>Por Uma Boa Causa...</text></navLabel><content src="c06.xhtml"/></navPoint>
-		<navPoint id="c07" playOrder="12"><navLabel><text>E Se...</text></navLabel><content src="c07.xhtml"/></navPoint>
-		<navPoint id="c08" playOrder="13"><navLabel><text>Sally</text></navLabel><content src="c08.xhtml"/></navPoint>
-		<navPoint id="c09" playOrder="14"><navLabel><text>Moscas</text></navLabel><content src="c09.xhtml"/></navPoint>
-		<navPoint id="c10" playOrder="15"><navLabel><text>Ninguém Aqui, Só Nós...</text></navLabel><content src="c10.xhtml"/></navPoint>
-		<navPoint id="c11" playOrder="16"><navLabel><text>Um Dia Tão Belo</text></navLabel><content src="c11.xhtml"/></navPoint>
-		<navPoint id="c12" playOrder="17"><navLabel><text>O Fura-Greves</text></navLabel><content src="c12.xhtml"/></navPoint>
-		<navPoint id="c13" playOrder="18"><navLabel><text>Ponha o Pino A no Furo B</text></navLabel><content src="c13.xhtml"/></navPoint>
-		<navPoint id="c14" playOrder="19"><navLabel><text>O Feiticeiro Moderno</text></navLabel><content src="c14.xhtml"/></navPoint>
-		<navPoint id="c15" playOrder="20"><navLabel><text>Até a Quarta Geração</text></navLabel><content src="c15.xhtml"/></navPoint>
-		<navPoint id="c16" playOrder="21"><navLabel><text>O Que É Essa Coisa Chamada Amor?</text></navLabel><content src="c16.xhtml"/></navPoint>
-		<navPoint id="c17" playOrder="22"><navLabel><text>A Máquina Que Ganhou a Guerra</text></navLabel><content src="c17.xhtml"/></navPoint>
-		<navPoint id="c18" playOrder="23"><navLabel><text>Meu Filho, o Físico</text></navLabel><content src="c18.xhtml"/></navPoint>
-		<navPoint id="c19" playOrder="24"><navLabel><text>Olhos Fazem Mais Do Que Ver</text></navLabel><content src="c19.xhtml"/></navPoint>
-		<navPoint id="c20" playOrder="25"><navLabel><text>Segregacionista</text></navLabel><content src="c20.xhtml"/></navPoint>
+		<navPoint id="o_cair_da_noite" playOrder="6"><navLabel><text>O Cair da Noite</text></navLabel><content src="o_cair_da_noite.xhtml"/></navPoint>
+		<navPoint id="manchas_verdes" playOrder="7"><navLabel><text>Manchas Verdes</text></navLabel><content src="manchas_verdes.xhtml"/></navPoint>
+		<navPoint id="a_anfitria" playOrder="8"><navLabel><text>A Anfitriã</text></navLabel><content src="a_anfitria.xhtml"/></navPoint>
+		<navPoint id="o_homem_em_cultura" playOrder="9"><navLabel><text>O Homem em Cultura</text></navLabel><content src="o_homem_em_cultura.xhtml"/></navPoint>
+		<navPoint id="o_tubo_da_morte" playOrder="10"><navLabel><text>O Tubo da Morte</text></navLabel><content src="o_tubo_da_morte.xhtml"/></navPoint>
+		<navPoint id="por_uma_boa_causa" playOrder="11"><navLabel><text>Por Uma Boa Causa...</text></navLabel><content src="por_uma_boa_causa.xhtml"/></navPoint>
+		<navPoint id="e_se" playOrder="12"><navLabel><text>E Se...</text></navLabel><content src="e_se.xhtml"/></navPoint>
+		<navPoint id="sally" playOrder="13"><navLabel><text>Sally</text></navLabel><content src="sally.xhtml"/></navPoint>
+		<navPoint id="moscas" playOrder="14"><navLabel><text>Moscas</text></navLabel><content src="moscas.xhtml"/></navPoint>
+		<navPoint id="ninguem_aqui_so_nos" playOrder="15"><navLabel><text>Ninguém Aqui, Só Nós...</text></navLabel><content src="ninguem_aqui_so_nos.xhtml"/></navPoint>
+		<navPoint id="um_dia_tao_belo" playOrder="16"><navLabel><text>Um Dia Tão Belo</text></navLabel><content src="um_dia_tao_belo.xhtml"/></navPoint>
+		<navPoint id="o_fura-greve" playOrder="17"><navLabel><text>O Fura-Greves</text></navLabel><content src="o_fura-greve.xhtml"/></navPoint>
+		<navPoint id="ponha_o_pino_a_no_furo_b" playOrder="18"><navLabel><text>Ponha o Pino A no Furo B</text></navLabel><content src="ponha_o_pino_a_no_furo_b.xhtml"/></navPoint>
+		<navPoint id="o_feiticeiro_moderno" playOrder="19"><navLabel><text>O Feiticeiro Moderno</text></navLabel><content src="o_feiticeiro_moderno.xhtml"/></navPoint>
+		<navPoint id="ate_a_quarta_geracao" playOrder="20"><navLabel><text>Até a Quarta Geração</text></navLabel><content src="ate_a_quarta_geracao.xhtml"/></navPoint>
+		<navPoint id="o_que_e_essa_coisa_chamada_amor" playOrder="21"><navLabel><text>O Que É Essa Coisa Chamada Amor?</text></navLabel><content src="o_que_e_essa_coisa_chamada_amor.xhtml"/></navPoint>
+		<navPoint id="a_maquina_que_ganhou_a_guerra" playOrder="22"><navLabel><text>A Máquina Que Ganhou a Guerra</text></navLabel><content src="a_maquina_que_ganhou_a_guerra.xhtml"/></navPoint>
+		<navPoint id="meu_filho_o_fisico" playOrder="23"><navLabel><text>Meu Filho, o Físico</text></navLabel><content src="meu_filho_o_fisico.xhtml"/></navPoint>
+		<navPoint id="olhos_fazem_mais_do_que_ver" playOrder="24"><navLabel><text>Olhos Fazem Mais Do Que Ver</text></navLabel><content src="olhos_fazem_mais_do_que_ver.xhtml"/></navPoint>
+		<navPoint id="segregacionista" playOrder="25"><navLabel><text>Segregacionista</text></navLabel><content src="segregacionista.xhtml"/></navPoint>
 	</navMap>
 </ncx>

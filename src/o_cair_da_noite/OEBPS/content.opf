@@ -23,26 +23,26 @@
 		<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
 		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c01" href="c01.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c02" href="c02.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c03" href="c03.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c04" href="c04.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c05" href="c05.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c06" href="c06.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c07" href="c07.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c08" href="c08.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c09" href="c09.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c10" href="c10.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c11" href="c11.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c12" href="c12.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c13" href="c13.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c14" href="c14.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c15" href="c15.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c16" href="c16.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c17" href="c17.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c18" href="c18.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c19" href="c19.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c20" href="c20.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_cair_da_noite" href="o_cair_da_noite.xhtml" media-type="application/xhtml+xml"/>
+		<item id="manchas_verdes" href="manchas_verdes.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a_anfitria" href="a_anfitria.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_homem_em_cultura" href="o_homem_em_cultura.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_tubo_da_morte" href="o_tubo_da_morte.xhtml" media-type="application/xhtml+xml"/>
+		<item id="por_uma_boa_causa" href="por_uma_boa_causa.xhtml" media-type="application/xhtml+xml"/>
+		<item id="e_se" href="e_se.xhtml" media-type="application/xhtml+xml"/>
+		<item id="sally" href="sally.xhtml" media-type="application/xhtml+xml"/>
+		<item id="moscas" href="moscas.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ninguem_aqui_so_nos" href="ninguem_aqui_so_nos.xhtml" media-type="application/xhtml+xml"/>
+		<item id="um_dia_tao_belo" href="um_dia_tao_belo.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_fura-greve" href="o_fura-greve.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ponha_o_pino_a_no_furo_b" href="ponha_o_pino_a_no_furo_b.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_feiticeiro_moderno" href="o_feiticeiro_moderno.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ate_a_quarta_geracao" href="ate_a_quarta_geracao.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_que_e_essa_coisa_chamada_amor" href="o_que_e_essa_coisa_chamada_amor.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a_maquina_que_ganhou_a_guerra" href="a_maquina_que_ganhou_a_guerra.xhtml" media-type="application/xhtml+xml"/>
+		<item id="meu_filho_o_fisico" href="meu_filho_o_fisico.xhtml" media-type="application/xhtml+xml"/>
+		<item id="olhos_fazem_mais_do_que_ver" href="olhos_fazem_mais_do_que_ver.xhtml" media-type="application/xhtml+xml"/>
+		<item id="segregacionista" href="segregacionista.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="cover" linear="no"/>
@@ -52,26 +52,26 @@
 		<itemref idref="copyright"/>
 		<itemref idref="toc"/>
 		<itemref idref="dedication"/>
-		<itemref idref="c01"/>
-		<itemref idref="c02"/>
-		<itemref idref="c03"/>
-		<itemref idref="c04"/>
-		<itemref idref="c05"/>
-		<itemref idref="c06"/>
-		<itemref idref="c07"/>
-		<itemref idref="c08"/>
-		<itemref idref="c09"/>
-		<itemref idref="c10"/>
-		<itemref idref="c11"/>
-		<itemref idref="c12"/>
-		<itemref idref="c13"/>
-		<itemref idref="c14"/>
-		<itemref idref="c15"/>
-		<itemref idref="c16"/>
-		<itemref idref="c17"/>
-		<itemref idref="c18"/>
-		<itemref idref="c19"/>
-		<itemref idref="c20"/>
+		<itemref idref="o_cair_da_noite"/>
+		<itemref idref="manchas_verdes"/>
+		<itemref idref="a_anfitria"/>
+		<itemref idref="o_homem_em_cultura"/>
+		<itemref idref="o_tubo_da_morte"/>
+		<itemref idref="por_uma_boa_causa"/>
+		<itemref idref="e_se"/>
+		<itemref idref="sally"/>
+		<itemref idref="moscas"/>
+		<itemref idref="ninguem_aqui_so_nos"/>
+		<itemref idref="um_dia_tao_belo"/>
+		<itemref idref="o_fura-greve"/>
+		<itemref idref="ponha_o_pino_a_no_furo_b"/>
+		<itemref idref="o_feiticeiro_moderno"/>
+		<itemref idref="ate_a_quarta_geracao"/>
+		<itemref idref="o_que_e_essa_coisa_chamada_amor"/>
+		<itemref idref="a_maquina_que_ganhou_a_guerra"/>
+		<itemref idref="meu_filho_o_fisico"/>
+		<itemref idref="olhos_fazem_mais_do_que_ver"/>
+		<itemref idref="segregacionista"/>
 	</spine>
 	<guide>
 		<reference type="cover" title="Cover" href="cover.xhtml"/>
