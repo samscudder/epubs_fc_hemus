@@ -12,36 +12,49 @@
 		<navPoint id="titlepage" playOrder="2"><navLabel><text>Página de Rosto</text></navLabel><content src="titlepage.xhtml"/></navPoint>
 		<navPoint id="copyright" playOrder="3"><navLabel><text>Copyright</text></navLabel><content src="copyright.xhtml"/></navPoint>
 		<navPoint id="toc" playOrder="4"><navLabel><text>Sumário</text></navLabel><content src="toc.xhtml"/></navPoint>
-		<navPoint id="c01" playOrder="5"><navLabel><text>1. </text></navLabel><content src="c01.xhtml"/></navPoint>
-		<navPoint id="c02" playOrder="6"><navLabel><text>2. </text></navLabel><content src="c02.xhtml"/></navPoint>
-		<navPoint id="c03" playOrder="7"><navLabel><text>3. </text></navLabel><content src="c03.xhtml"/></navPoint>
-		<navPoint id="c04" playOrder="8"><navLabel><text>4. </text></navLabel><content src="c04.xhtml"/></navPoint>
-		<navPoint id="c05" playOrder="9"><navLabel><text>5. </text></navLabel><content src="c05.xhtml"/></navPoint>
-		<navPoint id="c06" playOrder="10"><navLabel><text>6. </text></navLabel><content src="c06.xhtml"/></navPoint>
-		<navPoint id="c07" playOrder="11"><navLabel><text>7. </text></navLabel><content src="c07.xhtml"/></navPoint>
-		<navPoint id="c08" playOrder="12"><navLabel><text>8. </text></navLabel><content src="c08.xhtml"/></navPoint>
-		<navPoint id="c09" playOrder="13"><navLabel><text>9. </text></navLabel><content src="c09.xhtml"/></navPoint>
-		<navPoint id="c10" playOrder="14"><navLabel><text>10. </text></navLabel><content src="c10.xhtml"/></navPoint>
-		<navPoint id="c11" playOrder="15"><navLabel><text>11. </text></navLabel><content src="c11.xhtml"/></navPoint>
-		<navPoint id="c12" playOrder="16"><navLabel><text>12. </text></navLabel><content src="c12.xhtml"/></navPoint>
-		<navPoint id="c13" playOrder="17"><navLabel><text>13. </text></navLabel><content src="c13.xhtml"/></navPoint>
-		<navPoint id="c14" playOrder="18"><navLabel><text>14. </text></navLabel><content src="c14.xhtml"/></navPoint>
-		<navPoint id="c15" playOrder="19"><navLabel><text>15. </text></navLabel><content src="c15.xhtml"/></navPoint>
-		<navPoint id="c16" playOrder="20"><navLabel><text>16. </text></navLabel><content src="c16.xhtml"/></navPoint>
-		<navPoint id="c17" playOrder="21"><navLabel><text>17. </text></navLabel><content src="c17.xhtml"/></navPoint>
-		<navPoint id="c18" playOrder="22"><navLabel><text>18. </text></navLabel><content src="c18.xhtml"/></navPoint>
-		<navPoint id="c19" playOrder="23"><navLabel><text>19. </text></navLabel><content src="c19.xhtml"/></navPoint>
-		<navPoint id="c20" playOrder="24"><navLabel><text>20. </text></navLabel><content src="c20.xhtml"/></navPoint>
-		<navPoint id="c21" playOrder="25"><navLabel><text>21. </text></navLabel><content src="c21.xhtml"/></navPoint>
-		<navPoint id="c22" playOrder="26"><navLabel><text>22. </text></navLabel><content src="c22.xhtml"/></navPoint>
-		<navPoint id="c23" playOrder="27"><navLabel><text>23. </text></navLabel><content src="c23.xhtml"/></navPoint>
-		<navPoint id="c24" playOrder="28"><navLabel><text>24. </text></navLabel><content src="c24.xhtml"/></navPoint>
-		<navPoint id="c25" playOrder="29"><navLabel><text>25. </text></navLabel><content src="c25.xhtml"/></navPoint>
-		<navPoint id="c26" playOrder="30"><navLabel><text>26. </text></navLabel><content src="c26.xhtml"/></navPoint>
-		<navPoint id="c27" playOrder="31"><navLabel><text>27. </text></navLabel><content src="c27.xhtml"/></navPoint>
-		<navPoint id="c28" playOrder="32"><navLabel><text>28. </text></navLabel><content src="c28.xhtml"/></navPoint>
-		<navPoint id="c29" playOrder="33"><navLabel><text>29. </text></navLabel><content src="c29.xhtml"/></navPoint>
-		<navPoint id="c30" playOrder="34"><navLabel><text>30. </text></navLabel><content src="c30.xhtml"/></navPoint>
-		<navPoint id="c31" playOrder="35"><navLabel><text>31. </text></navLabel><content src="c31.xhtml"/></navPoint>
+		<navPoint id="dedicatoria" playOrder="5"><navLabel><text>Dedicatória</text></navLabel><content src="dedicatoria.xhtml"/></navPoint>
+		<navPoint id="introducao" playOrder="6"><navLabel><text>Introdução</text></navLabel><content src="introducao.xhtml"/></navPoint>
+		<navPoint id="p_nao_humanos" playOrder="7"><navLabel><text>Alguns robôs não-humanos</text></navLabel><content src="p_nao_humanos.xhtml"/>
+			<navPoint id="o_melhor_amigo_de_um_garoto" playOrder="8"><navLabel><text>O melhor amigo de um garoto</text></navLabel><content src="o_melhor_amigo_de_um_garoto.xhtml"/></navPoint>
+			<navPoint id="sally" playOrder="9"><navLabel><text>Sally</text></navLabel><content src="sally.xhtml"/></navPoint>
+			<navPoint id="um_dia" playOrder="10"><navLabel><text>Um dia</text></navLabel><content src="um_dia.xhtml"/></navPoint>
+		</navPoint>
+		<navPoint id="p_imoveis" playOrder="11"><navLabel><text>Alguns robôs imóveis</text></navLabel><content src="p_imoveis.xhtml"/>
+			<navPoint id="ponto_de_vista" playOrder="12"><navLabel><text>Ponto de vista</text></navLabel><content src="ponto_de_vista.xhtml"/></navPoint>
+			<navPoint id="pense" playOrder="13"><navLabel><text>Pense!</text></navLabel><content src="pense.xhtml"/></navPoint>
+			<navPoint id="amor_verdadeiro" playOrder="14"><navLabel><text>Amor verdadeiro</text></navLabel><content src="amor_verdadeiro.xhtml"/></navPoint>
+		</navPoint>
+		<navPoint id="p_metalicos" playOrder="15"><navLabel><text>Alguns robôs metálicos</text></navLabel><content src="p_metalicos.xhtml"/>
+			<navPoint id="robo_al-76_extraviado" playOrder="16"><navLabel><text>Robô AL-76 extraviado</text></navLabel><content src="robo_al-76_extraviado.xhtml"/></navPoint>
+			<navPoint id="vitoria_involuntaria" playOrder="17"><navLabel><text>Vitória involuntária</text></navLabel><content src="vitoria_involuntaria.xhtml"/></navPoint>
+			<navPoint id="estranho_no_paraiso" playOrder="18"><navLabel><text>Estranho no paraíso</text></navLabel><content src="estranho_no_paraiso.xhtml"/></navPoint>
+			<navPoint id="versos_na_luz" playOrder="19"><navLabel><text>Versos na luz</text></navLabel><content src="versos_na_luz.xhtml"/></navPoint>
+			<navPoint id="segregacionista" playOrder="20"><navLabel><text>Segregacionista</text></navLabel><content src="segregacionista.xhtml"/></navPoint>
+			<navPoint id="robbie" playOrder="21"><navLabel><text>Robbie</text></navLabel><content src="robbie.xhtml"/></navPoint>
+		</navPoint>
+		<navPoint id="p_humanoides" playOrder="22"><navLabel><text>Alguns robôs humanóides</text></navLabel><content src="p_humanoides.xhtml"/>
+			<navPoint id="vamos_nos_unir" playOrder="23"><navLabel><text>Vamos nos unir</text></navLabel><content src="vamos_nos_unir.xhtml"/></navPoint>
+			<navPoint id="imagem_especular" playOrder="24"><navLabel><text>Imagem especular</text></navLabel><content src="imagem_especular.xhtml"/></navPoint>
+			<navPoint id="o_incidente_do_tricentenario" playOrder="25"><navLabel><text>O incidente do tricentenário</text></navLabel><content src="o_incidente_do_tricentenario.xhtml"/></navPoint>
+		</navPoint>
+		<navPoint id="p_powell_e_donovan" playOrder="26"><navLabel><text>Powell e Donovan</text></navLabel><content src="p_powell_e_donovan.xhtml"/>
+			<navPoint id="primeira_lei" playOrder="27"><navLabel><text>Primeira lei</text></navLabel><content src="primeira_lei.xhtml"/></navPoint>
+			<navPoint id="corre-corre" playOrder="28"><navLabel><text>Corre-corre</text></navLabel><content src="corre-corre.xhtml"/></navPoint>
+			<navPoint id="razao" playOrder="29"><navLabel><text>Razão</text></navLabel><content src="razao.xhtml"/></navPoint>
+		</navPoint>
+		<navPoint id="p_susan_calvin" playOrder="30"><navLabel><text>Susan Calvin</text></navLabel><content src="p_susan_calvin.xhtml"/>
+			<navPoint id="mentiroso" playOrder="31"><navLabel><text>Mentiroso!</text></navLabel><content src="mentiroso.xhtml"/></navPoint>
+			<navPoint id="satisfacao_garantida" playOrder="32"><navLabel><text>Satisfação garantida</text></navLabel><content src="satisfacao_garantida.xhtml"/></navPoint>
+			<navPoint id="lenny" playOrder="33"><navLabel><text>Lenny</text></navLabel><content src="lenny.xhtml"/></navPoint>
+			<navPoint id="escravo" playOrder="34"><navLabel><text>Escravo</text></navLabel><content src="escravo.xhtml"/></navPoint>
+			<navPoint id="o_robozinho_perdido" playOrder="35"><navLabel><text>O robozinho perdido</text></navLabel><content src="o_robozinho_perdido.xhtml"/></navPoint>
+			<navPoint id="risco" playOrder="36"><navLabel><text>Risco</text></navLabel><content src="risco.xhtml"/></navPoint>
+			<navPoint id="fuga" playOrder="37"><navLabel><text>Fuga!</text></navLabel><content src="fuga.xhtml"/></navPoint>
+			<navPoint id="o_conflito_evitavel" playOrder="38"><navLabel><text>O conflito evitável</text></navLabel><content src="o_conflito_evitavel.xhtml"/></navPoint>
+			<navPoint id="intuicao_feminina" playOrder="39"><navLabel><text>Intuição feminina</text></navLabel><content src="intuicao_feminina.xhtml"/></navPoint>
+			<navPoint id="para_que_vos_ocupeis_dele" playOrder="40"><navLabel><text>...Para que vos ocupeis dele</text></navLabel><content src="para_que_vos_ocupeis_dele.xhtml"/></navPoint>
+			<navPoint id="o_homem_bicentenario" playOrder="41"><navLabel><text>O homem bicentenário</text></navLabel><content src="o_homem_bicentenario.xhtml"/></navPoint>
+		</navPoint>
+		<navPoint id="p_uma_ultima_palavra" playOrder="42"><navLabel><text>Uma última palavra</text></navLabel><content src="p_uma_ultima_palavra.xhtml"/></navPoint>
 	</navMap>
 </ncx>

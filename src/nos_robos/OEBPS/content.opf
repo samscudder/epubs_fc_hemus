@@ -7,7 +7,7 @@
 		<dc:publisher>Hemus</dc:publisher>
 		<dc:language>pt-br</dc:language>
 		<meta name="cover" content="cover.jpg"/>
-		<meta property="dcterms:modified">1978-01-01T00:00:01Z</meta>
+		<meta property="dcterms:modified">1984-01-01T00:00:01Z</meta>
 	</metadata>
 	<manifest>
 		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
@@ -19,40 +19,48 @@
 		<item id="rearcover" href="rearcover.xhtml" media-type="application/xhtml+xml"/>
 		<item id="halftitle" href="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
-		<item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item id="dedicatoria" href="dedicatoria.xhtml" media-type="application/xhtml+xml"/>
 		<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
 		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-		<item id="c01" href="c01.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c02" href="c02.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c03" href="c03.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c04" href="c04.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c05" href="c05.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c06" href="c06.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c07" href="c07.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c08" href="c08.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c09" href="c09.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c10" href="c10.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c11" href="c11.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c12" href="c12.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c13" href="c13.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c14" href="c14.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c15" href="c15.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c16" href="c16.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c17" href="c17.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c18" href="c18.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c19" href="c19.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c20" href="c20.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c21" href="c21.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c22" href="c22.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c23" href="c23.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c24" href="c24.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c25" href="c25.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c26" href="c26.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c27" href="c27.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c28" href="c28.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c29" href="c29.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c30" href="c30.xhtml" media-type="application/xhtml+xml"/>
-		<item id="c31" href="c31.xhtml" media-type="application/xhtml+xml"/>
+		<item id="introducao" href="introducao.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p_nao_humanos" href="p_nao_humanos.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_melhor_amigo_de_um_garoto" href="o_melhor_amigo_de_um_garoto.xhtml" media-type="application/xhtml+xml"/>
+		<item id="sally" href="sally.xhtml" media-type="application/xhtml+xml"/>
+		<item id="um_dia" href="um_dia.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p_imoveis" href="p_imoveis.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ponto_de_vista" href="ponto_de_vista.xhtml" media-type="application/xhtml+xml"/>
+		<item id="pense" href="pense.xhtml" media-type="application/xhtml+xml"/>
+		<item id="amor_verdadeiro" href="amor_verdadeiro.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p_metalicos" href="p_metalicos.xhtml" media-type="application/xhtml+xml"/>
+		<item id="robo_al-76_extraviado" href="robo_al-76_extraviado.xhtml" media-type="application/xhtml+xml"/>
+		<item id="vitoria_involuntaria" href="vitoria_involuntaria.xhtml" media-type="application/xhtml+xml"/>
+		<item id="estranho_no_paraiso" href="estranho_no_paraiso.xhtml" media-type="application/xhtml+xml"/>
+		<item id="versos_na_luz" href="versos_na_luz.xhtml" media-type="application/xhtml+xml"/>
+		<item id="segregacionista" href="segregacionista.xhtml" media-type="application/xhtml+xml"/>
+		<item id="robbie" href="robbie.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p_humanoides" href="p_humanoides.xhtml" media-type="application/xhtml+xml"/>
+		<item id="vamos_nos_unir" href="vamos_nos_unir.xhtml" media-type="application/xhtml+xml"/>
+		<item id="imagem_especular" href="imagem_especular.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_incidente_do_tricentenario" href="o_incidente_do_tricentenario.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p_powell_e_donovan" href="p_powell_e_donovan.xhtml" media-type="application/xhtml+xml"/>
+		<item id="primeira_lei" href="primeira_lei.xhtml" media-type="application/xhtml+xml"/>
+		<item id="corre-corre" href="corre-corre.xhtml" media-type="application/xhtml+xml"/>
+		<item id="razao" href="razao.xhtml" media-type="application/xhtml+xml"/>
+		<item id="pegue_aquele_coelho" href="pegue_aquele_coelho.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p_susan_calvin" href="p_susan_calvin.xhtml" media-type="application/xhtml+xml"/>
+		<item id="mentiroso" href="mentiroso.xhtml" media-type="application/xhtml+xml"/>
+		<item id="satisfacao_garantida" href="satisfacao_garantida.xhtml" media-type="application/xhtml+xml"/>
+		<item id="lenny" href="lenny.xhtml" media-type="application/xhtml+xml"/>
+		<item id="escravo" href="escravo.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_robozinho_perdido" href="o_robozinho_perdido.xhtml" media-type="application/xhtml+xml"/>
+		<item id="risco" href="risco.xhtml" media-type="application/xhtml+xml"/>
+		<item id="fuga" href="fuga.xhtml" media-type="application/xhtml+xml"/>
+		<item id="evidencia" href="evidencia.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_conflito_evitavel" href="o_conflito_evitavel.xhtml" media-type="application/xhtml+xml"/>
+		<item id="intuicao_feminina" href="intuicao_feminina.xhtml" media-type="application/xhtml+xml"/>
+		<item id="para_que_vos_ocupeis_dele" href="para_que_vos_ocupeis_dele.xhtml" media-type="application/xhtml+xml"/>
+		<item id="o_homem_bicentenario" href="o_homem_bicentenario.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p_uma_ultima_palavra" href="p_uma_ultima_palavra.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="cover" linear="no"/>
@@ -60,39 +68,47 @@
 		<itemref idref="halftitle"/>
 		<itemref idref="titlepage"/>
 		<itemref idref="copyright"/>
-		<itemref idref="dedication"/>
+		<itemref idref="dedicatoria"/>
 		<itemref idref="toc"/>
-		<itemref idref="c01"/>
-		<itemref idref="c02"/>
-		<itemref idref="c03"/>
-		<itemref idref="c04"/>
-		<itemref idref="c05"/>
-		<itemref idref="c06"/>
-		<itemref idref="c07"/>
-		<itemref idref="c08"/>
-		<itemref idref="c09"/>
-		<itemref idref="c10"/>
-		<itemref idref="c11"/>
-		<itemref idref="c12"/>
-		<itemref idref="c13"/>
-		<itemref idref="c14"/>
-		<itemref idref="c15"/>
-		<itemref idref="c16"/>
-		<itemref idref="c17"/>
-		<itemref idref="c18"/>
-		<itemref idref="c19"/>
-		<itemref idref="c20"/>
-		<itemref idref="c21"/>
-		<itemref idref="c22"/>
-		<itemref idref="c23"/>
-		<itemref idref="c24"/>
-		<itemref idref="c25"/>
-		<itemref idref="c26"/>
-		<itemref idref="c27"/>
-		<itemref idref="c28"/>
-		<itemref idref="c29"/>
-		<itemref idref="c30"/>
-		<itemref idref="c31"/>
+		<itemref idref="introducao"/>
+		<itemref idref="p_nao_humanos"/>
+		<itemref idref="o_melhor_amigo_de_um_garoto"/>
+		<itemref idref="sally"/>
+		<itemref idref="um_dia"/>
+		<itemref idref="p_imoveis"/>
+		<itemref idref="ponto_de_vista"/>
+		<itemref idref="pense"/>
+		<itemref idref="amor_verdadeiro"/>
+		<itemref idref="p_metalicos"/>
+		<itemref idref="robo_al-76_extraviado"/>
+		<itemref idref="vitoria_involuntaria"/>
+		<itemref idref="estranho_no_paraiso"/>
+		<itemref idref="versos_na_luz"/>
+		<itemref idref="segregacionista"/>
+		<itemref idref="robbie"/>
+		<itemref idref="p_humanoides"/>
+		<itemref idref="vamos_nos_unir"/>
+		<itemref idref="imagem_especular"/>
+		<itemref idref="o_incidente_do_tricentenario"/>
+		<itemref idref="p_powell_e_donovan"/>
+		<itemref idref="primeira_lei"/>
+		<itemref idref="corre-corre"/>
+		<itemref idref="razao"/>
+		<itemref idref="pegue_aquele_coelho"/>
+		<itemref idref="p_susan_calvin"/>
+		<itemref idref="mentiroso"/>
+		<itemref idref="satisfacao_garantida"/>
+		<itemref idref="lenny"/>
+		<itemref idref="escravo"/>
+		<itemref idref="o_robozinho_perdido"/>
+		<itemref idref="risco"/>
+		<itemref idref="fuga"/>
+		<itemref idref="evidencia"/>
+		<itemref idref="o_conflito_evitavel"/>
+		<itemref idref="intuicao_feminina"/>
+		<itemref idref="para_que_vos_ocupeis_dele"/>
+		<itemref idref="o_homem_bicentenario"/>
+		<itemref idref="p_uma_ultima_palavra"/>
 	</spine>
 	<guide>
 		<reference type="cover" title="Cover" href="cover.xhtml"/>

@@ -10,6 +10,7 @@ p { border: 0; margin: 0; text-align: justify; text-indent: 2em;}
 .toc a { text-decoration: none; }
 
 .noborder { border: 0; margin-left: 2em; }
+.border { border: 1px solid black; padding: 1em; }
 
 #cover_image { text-align: center; margin: auto; }
 #cover_image img { height: 100%; }
