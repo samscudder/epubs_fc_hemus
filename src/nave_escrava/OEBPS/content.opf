@@ -40,6 +40,7 @@
 		<item id="c16" href="c16.xhtml" media-type="application/xhtml+xml"/>
 		<item id="c17" href="c17.xhtml" media-type="application/xhtml+xml"/>
 		<item id="c18" href="c18.xhtml" media-type="application/xhtml+xml"/>
+		<item id="nota" href="nota.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="cover" linear="no"/>
@@ -67,6 +68,7 @@
 		<itemref idref="c16"/>
 		<itemref idref="c17"/>
 		<itemref idref="c18"/>
+		<itemref idref="nota"/>
 	</spine>
 	<guide>
 		<reference type="cover" title="Cover" href="cover.xhtml"/>
