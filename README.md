@@ -12,7 +12,11 @@ Nas versões da Hemus, vários títulos foram adaptados. Por exemplo, *The Caves
 
 Este documento será atualizado conforme forem surgindo novas informações.
 
-Edições originais:
+Primeiros lançamentos FC Hemus:
+
+
+
+Nova série (conforme relação dentro dos livros):
 
 ![](./docs/antigos.png)
 
@@ -32,77 +36,68 @@ Existe um software gratuito que pode fazer a conversão, mas não tenho tido res
 
 ## Relação de Livros
 
-No final dos livros existe uma relação de títulos, que foi usado para compilar esta lista. Nas informações dos livros normalmente não existe uma data de publicação da edição (ou das várias edições) nacionais.
+Nas informações dos livros normalmente não existe uma data de publicação da edição (ou das várias edições) nacionais.
 
-Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por autor e título:
+Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por sobrenome do autor e título:
 
-| Título                             | Título Original                                     | Autor                 | Tradução                                                   |
-| ---------------------------------- | --------------------------------------------------- | --------------------- | ---------------------------------------------------------- |
-| **827 Era Galáctica**              | Pebble in the Sky (1950)                            | Isaac Asimov          | - Agatha M. Auersperg                                      |
-| **A Terra Tem Espaço**             | Earth  is Room Enough (1957)                        | Isaac Asimov          | - Affonso Blacheyre                                        |
-| **As Cavernas de Marte**           | David Starr, Space Ranger (1952)                    | Isaac Asimov          | - Agatha M. Auersperg                                      |
-| **As Correntes do Espaço**         | The Currents of Space (1952)                        | Isaac Asimov          | - Luiz Roberto de Godoi Vidal                              |
-| **Caça aos Robôs**                 | The Caves of Steel (1954)                           | Isaac Asimov          | - Agatha M. Auersperg                                      |
-| **Despertar dos Deuses**           | The Gods Themselves (1972)                          | Isaac Asimov          | - Edith de Carvalho Negraes                                |
-| **Fim da Eternidade**              | The End of Eternity (1955)                          | Isaac Asimov          | - Luiz Carlos Ascênio Nunes                                |
-| Fundação                           | Foundation Trilogy (1951-53)                        | Isaac Asimov          |                                                            |
-| **Fundação II**                    | Foundation’s Edge (1982)                            | Isaac Asimov          |                                                            |
-| **Júpiter à Venda**                | Buy Jupiter (1975)                                  | Isaac Asimov          | - Attílio Cancian                                          |
-| Nós Robôs                          | The Complete Robot (1982)                           | Isaac Asimov          |                                                            |
-| **Nós, os Marcianos**              | The Martian Way and Other Stories (1955)            | Isaac Asimov          | - Agatha M. Auersperg                                      |
-| **O Cair da Noite**                | Nightfall and Other Stories (1969)                  | Isaac Asimov          | - Maria Judith Martins                                     |
-| **O Futuro Começou**               | The Early Asimov (1972)                             | Isaac Asimov          |                                                            |
-| **O Grande Sol de Mercúrio** (1)   | Lucky Starr and the Big Sun of Mercury (1956)       | Isaac Asimov          | - Agatha M. Auersperg                                      |
-| **O Homem Bicentenário**           | The Bicentennial Man and Other Stories (1976)       | Isaac Asimov          | - Luiz Roberto S. S. Malta                                 |
-| **O Robô de Júpiter**              | Lucky Starr and the Moons of Jupiter (1957)         | Isaac Asimov          | - Lindbergh C. de Oliveira                                 |
-| **Os Anéis de Saturno**            | Lucky Starr and the Rings of Saturn (1958)          | Isaac Asimov          | - Agatha M. Auersperg                                      |
-| **Os Oceanos de Vênus**            | Lucky Starr and the Oceans of Venus (1954)          | Isaac Asimov          | - Agatha M. Auersperg                                      |
-| **Os Robôs**                       | The Naked Sun (1957)                                | Isaac Asimov          | - Jonas Carmargo Leite                                     |
-| **Para Onde Vamos?**               | Where Do We Go From Here? (1971)                    | Isaac Asimov          | - Maria Judith Martins<br />- Danusa Scarton Rabello Alves |
-| **Vigilante das Estrelas**         | Lucky Starr and the Pirates of the Asteroids (1953) | Isaac Asimov          | - Attílio Cancian                                          |
-| **Essas Estrelas São Nossas**      | We Claim These Stars! (1959)                        | Poul Anderson         | - Affonso Blacheyre                                        |
-| **Guerra dos Homens Alados**       | War of the Wing-Men (1958)                          | Poul Anderson         |                                                            |
-| **Luz de Outra Dimensão**          | The Light That Never Was (1972)                     | Lloyd Biggle Jr.      | - Maria Judith Martins                                     |
-| **250 Séculos Após...**            | Midsummer Century (1972)                            | James Blish           | - Attílio Cancian                                          |
-| A Cidade Perdida de Marte(2)       | I Sing the Body Electric (1969)                     | Ray Bradbury          |                                                            |
-| **E de Espaço**                    | S is for Space (1966)                               | Ray Bradbury          |                                                            |
-| **F de  Foguete**                  | R is for Rocket (1962)                              | Ray Bradbury          |                                                            |
-| **O Terceiro Planeta**             | Report on Planet Three (1972)                       | Arthur C. Clarke      | - Attílio Cancian                                          |
-| **A Humanidade Artificial**        | The Overman Culture (1971)                          | Edmund Cooper         | - Agatha Maria Auersperg                                   |
-| **Cavalo-Marinho no Céu**          | Seahorse in the Sky (1969)                          | Edmund Cooper         | - Agatha Maria Auersperg                                   |
-| **O Diabólico Cérebro Eletrônico** | When Harlie Was One (1972)                          | David Gerrold         | - Agatha Maria Auersperg                                   |
-| **Os Homens Moleculares**          | The Molecule Men (1971)                             | Fred e Geoffrey Hoyle | - Agatha Maria Auersperg                                   |
-| **O Terror Rithiano**              | The Rithian Terror (1965)                           | Damon Knight          | - Agatha M. Auersperg                                      |
-| **Os Cérebros Prateados**          | The Silver Eggheads (1961)                          | Fritz Leiber          |                                                            |
-| **Nave Escrava**                   | Slave Ship (1956)                                   | Frederick Pohl        | - Agatha Auersperg                                         |
-| **Boneca do Destino**              | Destiny Doll (1971)                                 | Clifford D. Simak     | - Affonso Blacheyre                                        |
-| **Cei, o Gigante**                 | City in the Sky (1974)                              | Curt Siodmak          | - Sandra de Negraes Brisolla                               |
-| **Venus Mais X**                   | Venus Plus X (1960)                                 | Theodore Sturgeon     | - Agatha M. Auersperg                                      |
+| Título                                                | Título Original                                     | Autor                 | Tradução                                                   |
+| ----------------------------------------------------- | --------------------------------------------------- | --------------------- | ---------------------------------------------------------- |
+| **827 Era Galáctica**                                 | Pebble in the Sky (1950)                            | Isaac Asimov          | - Agatha M. Auersperg                                      |
+| **A Terra Tem Espaço**                                | Earth  is Room Enough (1957)                        | Isaac Asimov          | - Affonso Blacheyre                                        |
+| **As Cavernas de Marte**                              | David Starr, Space Ranger (1952)                    | Isaac Asimov          | - Agatha M. Auersperg                                      |
+| **As Correntes do Espaço**                            | The Currents of Space (1952)                        | Isaac Asimov          | - Luiz Roberto de Godoi Vidal                              |
+| **Caça aos Robôs**                                    | The Caves of Steel (1954)                           | Isaac Asimov          | - Agatha M. Auersperg                                      |
+| **Despertar dos Deuses**                              | The Gods Themselves (1972)                          | Isaac Asimov          | - Edith de Carvalho Negraes                                |
+| **Fim da Eternidade**                                 | The End of Eternity (1955)                          | Isaac Asimov          | - Luiz Carlos Ascênio Nunes                                |
+| Fundação                                              | Foundation Trilogy (1951-53)                        | Isaac Asimov          |                                                            |
+| **Fundação II**                                       | Foundation’s Edge (1982)                            | Isaac Asimov          |                                                            |
+| **Júpiter à Venda**                                   | Buy Jupiter (1975)                                  | Isaac Asimov          | - Attílio Cancian                                          |
+| Nós Robôs                                             | The Complete Robot (1982)                           | Isaac Asimov          |                                                            |
+| **Nós, os Marcianos**                                 | The Martian Way and Other Stories (1955)            | Isaac Asimov          | - Agatha M. Auersperg                                      |
+| **O Cair da Noite**                                   | Nightfall and Other Stories (1969)                  | Isaac Asimov          | - Maria Judith Martins                                     |
+| **O Futuro Começou**                                  | The Early Asimov (1972)                             | Isaac Asimov          |                                                            |
+| **O Grande Sol de Mercúrio / Grande Sol de Mercúrio** | Lucky Starr and the Big Sun of Mercury (1956)       | Isaac Asimov          | - Agatha M. Auersperg                                      |
+| **O Homem Bicentenário**                              | The Bicentennial Man and Other Stories (1976)       | Isaac Asimov          | - Luiz Roberto S. S. Malta                                 |
+| **O Robô de Júpiter**                                 | Lucky Starr and the Moons of Jupiter (1957)         | Isaac Asimov          | - Lindbergh C. de Oliveira                                 |
+| **Os Anéis de Saturno**                               | Lucky Starr and the Rings of Saturn (1958)          | Isaac Asimov          | - Agatha M. Auersperg                                      |
+| **Os Oceanos de Vênus**                               | Lucky Starr and the Oceans of Venus (1954)          | Isaac Asimov          | - Agatha M. Auersperg                                      |
+| **Os Robôs**                                          | The Naked Sun (1957)                                | Isaac Asimov          | - Jonas Carmargo Leite                                     |
+| **Para Onde Vamos?**                                  | Where Do We Go From Here? (1971)                    | Isaac Asimov          | - Maria Judith Martins<br />- Danusa Scarton Rabello Alves |
+| **O Vigilante / Vigilante das Estrelas**              | Lucky Starr and the Pirates of the Asteroids (1953) | Isaac Asimov          | - Attílio Cancian                                          |
+| **Essas Estrelas São Nossas**                         | We Claim These Stars! (1959)                        | Poul Anderson         | - Affonso Blacheyre                                        |
+| **Guerra dos Homens Alados**                          | War of the Wing-Men (1958)                          | Poul Anderson         |                                                            |
+| **Luz de Outra Dimensão**                             | The Light That Never Was (1972)                     | Lloyd Biggle Jr.      | - Maria Judith Martins                                     |
+| **250 Séculos Após...**                               | Midsummer Century (1972)                            | James Blish           | - Attílio Cancian                                          |
+| A Cidade Perdida de Marte(1)                          | I Sing the Body Electric (1969)                     | Ray Bradbury          |                                                            |
+| **E de Espaço**                                       | S is for Space (1966)                               | Ray Bradbury          |                                                            |
+| **F de  Foguete**                                     | R is for Rocket (1962)                              | Ray Bradbury          |                                                            |
+| **O Terceiro Planeta**                                | Report on Planet Three (1972)                       | Arthur C. Clarke      | - Attílio Cancian                                          |
+| **A Humanidade Artificial**                           | The Overman Culture (1971)                          | Edmund Cooper         | - Agatha Maria Auersperg                                   |
+| **Cavalo-Marinho no Céu**                             | Seahorse in the Sky (1969)                          | Edmund Cooper         | - Agatha Maria Auersperg                                   |
+| **O Diabólico Cérebro Eletrônico**                    | When Harlie Was One (1972)                          | David Gerrold         | - Agatha Maria Auersperg                                   |
+| **Os Homens Moleculares**                             | The Molecule Men (1971)                             | Fred e Geoffrey Hoyle | - Agatha Maria Auersperg                                   |
+| **O Terror Rithiano**                                 | The Rithian Terror (1965)                           | Damon Knight          | - Agatha M. Auersperg                                      |
+| **Os Cérebros Prateados**                             | The Silver Eggheads (1961)                          | Fritz Leiber          |                                                            |
+| **Nave Escrava**                                      | Slave Ship (1956)                                   | Frederick Pohl        | - Agatha Auersperg                                         |
+| **Boneca do Destino**                                 | Destiny Doll (1971)                                 | Clifford D. Simak     | - Affonso Blacheyre                                        |
+| **Cei, o Gigante**                                    | City in the Sky (1974)                              | Curt Siodmak          | - Sandra de Negraes Brisolla                               |
+| **Venus Mais X**                                      | Venus Plus X (1960)                                 | Theodore Sturgeon     | - Agatha M. Auersperg                                      |
+| **Exilado do Espaço**                                 | The Last Astronaut                                  | Robert P. White (1)   | Lauro Blandy                                               |
+| A Galáxia Estranha                                    |                                                     | Robert P. White (1)   |                                                            |
 
-(1) Nas primeira edições e dentro do livro, o título aparece como "O Grande Sol de Mercúrio". Na capa das últimas edições aparece só "Grande Sol de Mercúrio"
+(1) Robert P. White é um pseudônimo usado somente no Brasil do autor inglês Robert Lionel Fanthorpe. No exterior foram editados com o pseudônimo Pel Toro. Os livros, embora tenham impresso o logotipo `FC Hemus` na capa, não constam em nenhuma relação dentro dos livros.
 
-(2) Não foram encontradas images da capa deste livro no formato novo, mas continuava relacionado dentro dos outros livros da série.
-
-### Outros livros
-
-Não existem muitas informações disponíveis atualmente (como catálogos da Editora Hemus), mas também encontrei mais alguns livros, não mencionados anteriormente, com o logotipo da FC Hemus:
-
-| Título                | Título Original    | Autor           | Tradução     |
-| --------------------- | ------------------ | --------------- | ------------ |
-| **Exilado No Espaço** | The Last Astronaut | Robert P. White | Lauro Blandy |
-| A Galáxia Estranha    | Galaxy 666(?)      | Robert P. White |              |
-
-Robert P. White é um pseudônimo usado somente no Brasil do autor inglês Robert Lionel Fanthorpe. No exterior foram editados com o pseudônimo Pel Toro. Os livros, embora tenham impresso o logotipo `FC Hemus` na capa, não constam em nenhuma relação de livros.
+(2) Não foram encontradas imagens da capa deste livro no formato novo, mas continuava relacionado dentro dos outros livros da série.
 
 Fora as reedições, alguns dos livros tiveram capas diferentes durante sua existência:
 
 ![Variações de Capa](./docs/variacoes_capas.jpg)
 
-## Capas das Reedições
+## Artes das Capas
 
 Nas versões nacionais de livros, geralmente as ilustrações são as mesmas das publicações originais, mas neste caso foram aproveitadas de outros livros também. O artista não está creditado na maioria dos livros, e não sei se eram obtidas permissões para uso das imagens, pois foram cortadas as assinaturas dos artistas. Pesquisando, consegui levantar a seguinte relação de artistas, e onde a arte foi originalmente usada.
 
-Em várias das reedições, ainda consta o nome do artista da versão original na página de Copyright ("Edú", ou "Decio Guedes"), indicando que o miolo pode ser da primeira edição, que foi encapado novamente, ou que foram aproveitados os mesmos fotolitos para as edições subsequentes, sem alterações.
+Em várias das reedições, ainda consta o nome do artista da versão original na página de Copyright ("Edú", ou "Decio Guedes"), indicando que o miolo pode ser da primeira edição e que foi encapado novamente, ou que foram aproveitados os mesmos fotolitos para as impressões subsequentes, sem alterações.
 
 | Título                                                       | Publicação Original                                          | Artista                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
@@ -173,8 +168,8 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Despertar dos Deuses**           | 272     | ✅          | ✅       | ✅    |      |          |
 | **Fim da Eternidade**              | 248     | ✅          | ✅       | ✅    |      |          |
 | Fundação                           | 503     | ✅          |         |      |      |          |
-| **Fundação II**                    | 372     | ✅          | 370 (2) |      |      |          |
-| **Júpiter à Venda**                | 236     | ✅          | ✅       | ✅    | ✅    | 78       |
+| **Fundação II**                    | 372     | ✅          | 370 (1) |      |      |          |
+| **Júpiter à Venda**                | 236     | ✅          | ✅       | ✅    | ✅    | 126      |
 | Nós Robôs                          | 559     |            | 533     |      |      |          |
 | **Nós, os Marcianos**              | 256     | ✅          | ✅       | ✅    |      |          |
 | **O Cair da Noite**                | 378     | ✅          | ✅       | ✅    | ✅    | 347      |
@@ -191,7 +186,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Guerra dos Homens Alados**       | 224     | ✅          |         |      |      |          |
 | **Luz de Outra Dimensão**          | 228     | ✅          |         |      |      |          |
 | **250 Séculos Após...**            | 136     | ✅          | ✅       | ✅    |      |          |
-| A Cidade Perdida de Marte (1)      | 218     |            |         |      |      |          |
+| A Cidade Perdida de Marte          | 218     |            |         |      |      |          |
 | **E de Espaço**                    | 202     | ✅          |         |      |      |          |
 | **F de  Foguete**                  | 210     | ✅          | ✅       | ✅    |      |          |
 | **O Terceiro Planeta**             | 286     | ✅          | ✅       | ✅    |      |          |
@@ -201,14 +196,12 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Os Homens Moleculares**          | 286     | ✅          | ✅       | ✅    | 162  |          |
 | **O Terror Rithiano**              | 124     | ✅          | ✅       | ✅    |      |          |
 | **Os Cérebros Prateados**          | 220     | ✅          |         |      |      |          |
-| **Nave Escrava**                   | 168     | ✅          | ✅       | ✅    |      |          |
+| **Nave Escrava**                   | 168     | ✅          | ✅       | ✅    | ✅    |          |
 | **Boneca do Destino**              | 214     | ✅          |         |      |      |          |
 | **Cei, o Gigante**                 | 210     | ✅          |         |      |      |          |
 | **Venus Mais X**                   | 178     | ✅          | ✅       | ✅    |      |          |
 
-(1) Parece que este livro não foi lançado com uma capa "moderna"
-
-(2) Faltam duas páginas que estão coladas
+(1) Faltam duas páginas que estão coladas
 
 ## Erros comuns de OCR
 
