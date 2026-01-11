@@ -19,7 +19,6 @@
 		<item id="rearcover" href="rearcover.xhtml" media-type="application/xhtml+xml"/>
 		<item id="halftitle" href="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
-		<item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml"/>
 		<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
 		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item id="introduction" href="introduction.xhtml" media-type="application/xhtml+xml"/>
@@ -47,7 +46,6 @@
 		<itemref idref="halftitle"/>
 		<itemref idref="titlepage"/>
 		<itemref idref="copyright"/>
-		<itemref idref="dedication"/>
 		<itemref idref="toc"/>
 		<itemref idref="introduction"/>
 		<itemref idref="f_de_foguete"/>
