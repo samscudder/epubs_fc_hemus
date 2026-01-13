@@ -43,31 +43,48 @@ function Build-Epub {
 
 Remove-Item *.epub
 $folders = @(
+    "250_seculos_apos",
     "827_era_galactica",
+    "a_humanidade_artificial",
     "a_terra_tem_espaco",
     "as_cavernas_de_marte",
     "as_correntes_do_espaco",
+    "boneca_do_destino",
     "caca_aos_robos",
+    "cavalo-marinho_no_ceu",
+    "cei_o_gigante",
     "despertar_dos_deuses",
+    "e_de_espaco",
+    "essas_estrelas_sao_nossas",
+    "f_de_foguete",
     "fim_da_eternidade",
     "fundacao",
     "fundacao_ii",
     "jupiter_a_venda",
+    "luz_de_outra_dimensao",
+    "nave_escrava",
     "nos_os_marcianos",
     "nos_robos",
     "o_cair_da_noite",
+    "o_diabolico_cerebro_eletronico",
     "o_futuro_comecou",
     "o_grande_sol_de_mercurio",
     "o_homem_bicentenario",
     "o_robo_de_jupiter",
-    "oceanos_de_venus",
+    "o_terceiro_planeta",
+    "o_terror_rithiano",
     "os_aneis_de_saturno",
+    "os_cerebros_prateados",
+    "os_homens_moleculares",
+    "os_oceanos_de_venus",
     "os_robos",
     "para_onde_vamos",
+    "venus_mais_x"
     "vigilante_das_estrelas"
 )
 
 $folders = @(
+    "nos_robos",
     "jupiter_a_venda"
 )
 
