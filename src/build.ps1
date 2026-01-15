@@ -84,7 +84,7 @@ $folders = @(
 )
 
 $folders = @(
-    "nos_robos",
+    "nos_os_marcianos",
     "jupiter_a_venda"
 )
 

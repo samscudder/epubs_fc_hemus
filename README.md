@@ -2,29 +2,7 @@
 
 ## O projeto
 
-A **Hemus - Editora e Livraria**, na década de 1970, traduziu e publicou vários livros de ficção científica, a maioria de Isaac Asimov. As traduções foram realizadas por várias pessoas diferentes, e na época ainda não era usado o ISBN no Brasil para identificar livros. Na década de 80, a coleção foi expandida posteriormente e quase todos os livros foram relançados com uma nova capa, mais moderna, com uma faixa branca contendo o nome do autor e do livro. Essas versões novas usavam arte de outros livros da época, ocultando o nome do artista.
-
-Algumas das traduções desses clássicos tem mais de 50 anos, e, se encontrados, estão em estado bem desgastado.
-
-A **Hemus** foi sucedida pela **Editora Record**, que também lançou uma versão nacional da *Isaac Asimov Magazine* com 25 edições publicadas. Atualmente a **Aleph** tem publicado novas traduções das séries Império Galáctico, Robôs e Fundação de Isaac Asimov.
-
-Nas versões da Hemus, vários títulos foram adaptados. Por exemplo, *The Caves of Steel* virou *Caça aos Robôs*.
-
-Este documento será atualizado conforme forem surgindo novas informações.
-
-Primeiros lançamentos FC Hemus:
-
-
-
-Nova série (conforme relação dentro dos livros):
-
-![](./docs/antigos.png)
-
-Reedições e novos lançamentos:
-
-![Livros de ficção científica da Hemus](./docs/fc_hemus.jpg)
-
-Em Novembro de 2025, comecei a scanear e preservar digitalmente as versões atualizadas da Hemus, para ler no Kindle.
+Em Novembro de 2025, comecei a scanear e preservar digitalmente as versões mais recentes da FC Hemus, para ler no Kindle.
 
 Estou digitalizando com um scanner de mesa OpticBook 3800L, e usando o software que acompanhou o scanner (Abbyy Fine Reader 12 Sprint) para fazer o OCR.
 
@@ -34,11 +12,52 @@ A melhor forma de ler no Kindle é pegar o EPUB e usar o recurso Send to Kindle 
 
 Existe um software gratuito que pode fazer a conversão, mas não tenho tido resultados tão bons, além do fato dele adicionar um monte de porcaria no código fonte do livro, e de você precisar transferir para o Kindle por esse software para funcionar a capa do livro.
 
-## Relação de Livros
+## A Série
+
+A **Hemus - Editora e Livraria**, na década de 1970, traduziu e publicou vários livros de ficção científica, a maioria de Isaac Asimov. As traduções foram realizadas por várias pessoas diferentes, e na época ainda não era usado o ISBN no Brasil para identificar livros. Na década de 80, a coleção foi expandida posteriormente e quase todos os livros foram relançados com uma nova capa, mais moderna, com uma faixa branca contendo o nome do autor e do livro. Essas versões novas usavam arte de outros livros da época, ocultando o nome do artista.
+
+Algumas das traduções desses clássicos tem mais de 50 anos, e, se encontrados, estão em estado bem desgastado.
+
+A **Hemus** foi sucedida pela **Editora Record**, que também lançou uma versão nacional da *Isaac Asimov Magazine* com 25 edições publicadas. Atualmente a **Aleph** tem publicado novas traduções das séries Império Galáctico, Robôs e Fundação de Isaac Asimov.
+
+Nas versões da Hemus, vários títulos foram adaptados. Por exemplo, *The Caves of Steel* virou *Caça aos Robôs*.
 
 Nas informações dos livros normalmente não existe uma data de publicação da edição (ou das várias edições) nacionais.
 
-Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por sobrenome do autor e título:
+Este documento será atualizado conforme forem surgindo novas informações.
+
+### Primeiros lançamentos FC Hemus:
+
+![](./docs/iniciais.jpg)
+
+Estes livros tem a honra de serem considerados os dois piores livros de ficção científica já escritos, de acordo com [este artigo em  inglês](https://boards.straightdope.com/t/the-second-worst-sf-book-ever/387877) . Na página de copyright as informações não correspondem aos livros originais, então é possível que não tenham sido autorizados pelos autor, e as mudanças de informações foram para despistar. O autor, Robert P. White não é o nome, e nenhum pseudônimo conhecido do autor original. Nas publicações do exterior aparece Pel Torro, que é pseudônimo de Lionel Fanthorpe, um padre anglicano inglês.
+
+De qualquer forma, estes livros não apareceram em nenhuma relação posterior de livros. Dentro de Exilado No Espaço, aparece a informação de que foi impressa em 1975.
+
+| Título              | Título original de acordo com o livro | Título original verdadeiro | Tradutor        |
+| ------------------- | ------------------------------------- | -------------------------- | --------------- |
+| O Exilado do Espaço | Lost in Space                         | The Last Astronaut         | Lauro Blandy    |
+| A Galáxia Estranha  | The Foreign Galaxy                    | Galaxy 666                 | Lauro S. Blandy |
+
+### Nova série:
+
+Dentro dos livros existe uma relação de títulos que podem ser comprados até pelos correios. As capas eram todas inéditas, desenhadas por artistas nacionais:
+
+![](./docs/antigos.png)
+
+### Reedições e novos lançamentos:
+
+![Livros de ficção científica da Hemus](./docs/fc_hemus.jpg)
+
+**A Cidade Perdida de Marte** ainda consta na relação de livros que podem ser comprados das ultimas edições mas não foi localizada nenhuma imagem da capa no estilo novo.
+
+Os últimos livros lançados na série foram **Nós Robôs** e **Fundação II** (este com um logotipo novo para FC Hemus).
+
+`Júpiter à Venda`, `Nós, Robôs`, `Nós, os Marcianos`, `O Cair da Noite`, `O Futuro Começou`, e `O Homem Bicentenário` são coletâneas de estórias curtas do Asimov publicadas em revistas.
+
+## Relação Final de Livros
+
+Aqui está uma relação dos livros da série FC Hemus em ordem alfabética por sobrenome do autor e título:
 
 | Título                                                | Título Original                                     | Autor                 | Tradução                                                   |
 | ----------------------------------------------------- | --------------------------------------------------- | --------------------- | ---------------------------------------------------------- |
@@ -68,7 +87,7 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por sobr
 | **Guerra dos Homens Alados**                          | War of the Wing-Men (1958)                          | Poul Anderson         |                                                            |
 | **Luz de Outra Dimensão**                             | The Light That Never Was (1972)                     | Lloyd Biggle Jr.      | - Maria Judith Martins                                     |
 | **250 Séculos Após...**                               | Midsummer Century (1972)                            | James Blish           | - Attílio Cancian                                          |
-| A Cidade Perdida de Marte(1)                          | I Sing the Body Electric (1969)                     | Ray Bradbury          |                                                            |
+| A Cidade Perdida de Marte                             | I Sing the Body Electric (1969)                     | Ray Bradbury          |                                                            |
 | **E de Espaço**                                       | S is for Space (1966)                               | Ray Bradbury          |                                                            |
 | **F de  Foguete**                                     | R is for Rocket (1962)                              | Ray Bradbury          |                                                            |
 | **O Terceiro Planeta**                                | Report on Planet Three (1972)                       | Arthur C. Clarke      | - Attílio Cancian                                          |
@@ -77,25 +96,21 @@ Aqui está uma lista dos livros da série FC Hemus em ordem alfabética por sobr
 | **O Diabólico Cérebro Eletrônico**                    | When Harlie Was One (1972)                          | David Gerrold         | - Agatha Maria Auersperg                                   |
 | **Os Homens Moleculares**                             | The Molecule Men (1971)                             | Fred e Geoffrey Hoyle | - Agatha Maria Auersperg                                   |
 | **O Terror Rithiano**                                 | The Rithian Terror (1965)                           | Damon Knight          | - Agatha M. Auersperg                                      |
-| **Os Cérebros Prateados**                             | The Silver Eggheads (1961)                          | Fritz Leiber          |                                                            |
+| **Os Cérebros Prateados**                             | The Silver Eggheads (1961)                          | Fritz Leiber          | - Agatha M. Auersperg                                      |
 | **Nave Escrava**                                      | Slave Ship (1956)                                   | Frederick Pohl        | - Agatha Auersperg                                         |
 | **Boneca do Destino**                                 | Destiny Doll (1971)                                 | Clifford D. Simak     | - Affonso Blacheyre                                        |
 | **Cei, o Gigante**                                    | City in the Sky (1974)                              | Curt Siodmak          | - Sandra de Negraes Brisolla                               |
 | **Venus Mais X**                                      | Venus Plus X (1960)                                 | Theodore Sturgeon     | - Agatha M. Auersperg                                      |
-| **Exilado do Espaço**                                 | The Last Astronaut                                  | Robert P. White (1)   | Lauro Blandy                                               |
-| A Galáxia Estranha                                    |                                                     | Robert P. White (1)   |                                                            |
-
-(1) Robert P. White é um pseudônimo usado somente no Brasil do autor inglês Robert Lionel Fanthorpe. No exterior foram editados com o pseudônimo Pel Toro. Os livros, embora tenham impresso o logotipo `FC Hemus` na capa, não constam em nenhuma relação dentro dos livros.
-
-(2) Não foram encontradas imagens da capa deste livro no formato novo, mas continuava relacionado dentro dos outros livros da série.
-
-Fora as reedições, alguns dos livros tiveram capas diferentes durante sua existência:
-
-![Variações de Capa](./docs/variacoes_capas.jpg)
+| **Exilado do Espaço**                                 | The Last Astronaut                                  | Robert P. White       | Lauro Blandy                                               |
+| **A Galáxia Estranha**                                | Galaxy 666                                          | Robert P. White       | Lauro S. Blandy                                            |
 
 ## Artes das Capas
 
 Nas versões nacionais de livros, geralmente as ilustrações são as mesmas das publicações originais, mas neste caso foram aproveitadas de outros livros também. O artista não está creditado na maioria dos livros, e não sei se eram obtidas permissões para uso das imagens, pois foram cortadas as assinaturas dos artistas. Pesquisando, consegui levantar a seguinte relação de artistas, e onde a arte foi originalmente usada.
+
+Algumas edições dos livros tiveram capas diferentes durante sua existência:
+
+![Variações de Capa](./docs/variacoes_capas.jpg)
 
 Em várias das reedições, ainda consta o nome do artista da versão original na página de Copyright ("Edú", ou "Decio Guedes"), indicando que o miolo pode ser da primeira edição e que foi encapado novamente, ou que foram aproveitados os mesmos fotolitos para as impressões subsequentes, sem alterações.
 
@@ -148,73 +163,57 @@ Vou atualizando este documento conforme as atividades são executadas.
 
 ### Resumo
 
-|             | Realizado | %     |
+| Etapa       | Realizado | %     |
 | ----------- | --------- | ----- |
-| Páginas     | 9906      | 100,0 |
-| Localizado  | 9129      | 92,2  |
-| Scaneadas   | 6068      | 61,2  |
-| Convertidas | 1147      | 11,6  |
-| Revisadas   | 507       | 5,1   |
+| Páginas     | 10141     | 100,0 |
+| Localizado  | 9923      | 97,9  |
+| Scaneadas   | 6506      | 64,2  |
+| Convertidas | 1634      | 16,1  |
+| Revisadas   | 555       | 5,4   |
 
 ### Detalhado
 
-| Título                             | Páginas | Localizado | Scan    | OCR  | EPUB | Revisado |
-| ---------------------------------- | ------- | ---------- | ------- | ---- | ---- | -------- |
-| **827 Era Galáctica**              | 234     | ✅          | ✅       | ✅    | ✅    |          |
-| **A Terra Tem Espaço**             | 206     | ✅          | ✅       | ✅    |      |          |
-| **As Cavernas de Marte**           | 142     | ✅          | ✅       | ✅    |      |          |
-| **As Correntes do Espaço**         | 206     | ✅          | ✅       | ✅    |      |          |
-| **Caça aos Robôs**                 | 296     | ✅          | ✅       | ✅    |      |          |
-| **Despertar dos Deuses**           | 272     | ✅          | ✅       | ✅    |      |          |
-| **Fim da Eternidade**              | 248     | ✅          | ✅       | ✅    |      |          |
-| Fundação                           | 503     | ✅          |         |      |      |          |
-| **Fundação II**                    | 372     | ✅          | 370 (1) |      |      |          |
-| **Júpiter à Venda**                | 236     | ✅          | ✅       | ✅    | ✅    | 126      |
-| Nós Robôs                          | 559     |            | 533     |      |      |          |
-| **Nós, os Marcianos**              | 256     | ✅          | ✅       | ✅    |      |          |
-| **O Cair da Noite**                | 378     | ✅          | ✅       | ✅    | ✅    | 347      |
-| **O Futuro Começou**               | 470     | ✅          |         |      |      |          |
-| **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅       | ✅    |      |          |
-| **O Homem Bicentenário**           | 238     | ✅          | ✅       | ✅    | ✅    | 82       |
-| **O Robô de Júpiter**              | 142     | ✅          | ✅       |      |      |          |
-| **Os Anéis de Saturno**            | 234     | ✅          |         |      |      |          |
-| **Os Oceanos de Vênus**            | 190     | ✅          | ✅       | ✅    |      |          |
-| **Os Robôs**                       | 264     | ✅          | ✅       |      |      |          |
-| **Para Onde Vamos?**               | 374     | ✅          | ✅       | ✅    |      |          |
-| **Vigilante das Estrelas**         | 162     | ✅          | ✅       | ✅    |      |          |
-| **Essas Estrelas São Nossas**      | 197     | ✅          |         |      |      |          |
-| **Guerra dos Homens Alados**       | 224     | ✅          |         |      |      |          |
-| **Luz de Outra Dimensão**          | 228     | ✅          |         |      |      |          |
-| **250 Séculos Após...**            | 136     | ✅          | ✅       | ✅    |      |          |
-| A Cidade Perdida de Marte          | 218     |            |         |      |      |          |
-| **E de Espaço**                    | 202     | ✅          |         |      |      |          |
-| **F de  Foguete**                  | 210     | ✅          | ✅       | ✅    |      |          |
-| **O Terceiro Planeta**             | 286     | ✅          | ✅       | ✅    |      |          |
-| **A Humanidade Artificial**        | 214     | ✅          |         |      |      |          |
-| **Cavalo-Marinho no Céu**          | 222     | ✅          | ✅       | ✅    |      |          |
-| **O Diabólico Cérebro Eletrônico** | 282     | ✅          |         |      |      |          |
-| **Os Homens Moleculares**          | 286     | ✅          | ✅       | ✅    | 162  |          |
-| **O Terror Rithiano**              | 124     | ✅          | ✅       | ✅    |      |          |
-| **Os Cérebros Prateados**          | 220     | ✅          |         |      |      |          |
-| **Nave Escrava**                   | 168     | ✅          | ✅       | ✅    | ✅    |          |
-| **Boneca do Destino**              | 214     | ✅          |         |      |      |          |
-| **Cei, o Gigante**                 | 210     | ✅          |         |      |      |          |
-| **Venus Mais X**                   | 178     | ✅          | ✅       | ✅    |      |          |
-
-(1) Faltam duas páginas que estão coladas
-
-## Erros comuns de OCR
-
-Aqui estão os erros mais comuns de OCR que foram encontrados na hora de revisar o texto, e corrigidos quando encontrados.
-
-- *Corno* no lugar de *como*
-- *Tomar* no lugar de *tornar* (e retomar no lugar de retornar)
-- traço (-) no lugar de travessão (—)
-- ah no lugar de ali
-- palavras que não foram emendadas quando separadas por traço no final da linha
-  Quebras de parágrafo inexistentes nos finais de páginas
-
-Em alguns dos livros, encontrei formas bem arcaicas de grafar as palavras. Na maioria dos casos corrigi para o usado na época:
-
-* *cinquenta* estava grafado *cincoenta*.
-
+| Título                             | Páginas | Localizado | Scan | OCR  | EPUB | Revisado |
+| ---------------------------------- | ------- | ---------- | ---- | ---- | ---- | -------- |
+| **827 Era Galáctica**              | 234     | ✅          | ✅    | ✅    | ✅    |          |
+| **A Terra Tem Espaço**             | 206     | ✅          | ✅    | ✅    |      |          |
+| **As Cavernas de Marte**           | 142     | ✅          | ✅    | ✅    |      |          |
+| **As Correntes do Espaço**         | 206     | ✅          | ✅    | ✅    |      |          |
+| **Caça aos Robôs**                 | 296     | ✅          | ✅    | ✅    |      |          |
+| **Despertar dos Deuses**           | 272     | ✅          | ✅    | ✅    |      |          |
+| **Fim da Eternidade**              | 248     | ✅          | ✅    | ✅    |      |          |
+| Fundação                           | 503     | ✅          |      |      |      |          |
+| **Fundação II**                    | 372     | ✅          | 370  |      |      |          |
+| **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 126      |
+| Nós Robôs                          | 559     |            | 533  |      |      |          |
+| **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | 218  |          |
+| **O Cair da Noite**                | 378     | ✅          | ✅    | ✅    | ✅    | 347      |
+| **O Futuro Começou**               | 470     | ✅          |      |      |      |          |
+| **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅    | ✅    |      |          |
+| **O Homem Bicentenário**           | 238     | ✅          | ✅    | ✅    | ✅    | 82       |
+| **O Robô de Júpiter**              | 142     | ✅          | ✅    |      |      |          |
+| **Os Anéis de Saturno**            | 234     | ✅          |      |      |      |          |
+| **Os Oceanos de Vênus**            | 190     | ✅          | ✅    | ✅    |      |          |
+| **Os Robôs**                       | 264     | ✅          | ✅    |      |      |          |
+| **Para Onde Vamos?**               | 374     | ✅          | ✅    | ✅    |      |          |
+| **Vigilante das Estrelas**         | 162     | ✅          | ✅    | ✅    |      |          |
+| **Essas Estrelas São Nossas**      | 197     | ✅          |      |      |      |          |
+| **Guerra dos Homens Alados**       | 224     | ✅          |      |      |      |          |
+| **Luz de Outra Dimensão**          | 228     | ✅          |      |      |      |          |
+| **250 Séculos Após...**            | 136     | ✅          | ✅    | ✅    |      |          |
+| A Cidade Perdida de Marte          | 218     |            |      |      |      |          |
+| **E de Espaço**                    | 202     | ✅          |      |      |      |          |
+| **F de  Foguete**                  | 210     | ✅          | ✅    | ✅    |      |          |
+| **O Terceiro Planeta**             | 286     | ✅          | ✅    | ✅    |      |          |
+| **A Humanidade Artificial**        | 214     | ✅          |      |      |      |          |
+| **Cavalo-Marinho no Céu**          | 222     | ✅          | ✅    | ✅    |      |          |
+| **O Diabólico Cérebro Eletrônico** | 282     | ✅          |      |      |      |          |
+| **Os Homens Moleculares**          | 286     | ✅          | ✅    | ✅    | 162  |          |
+| **O Terror Rithiano**              | 124     | ✅          | ✅    | ✅    |      |          |
+| **Os Cérebros Prateados**          | 220     | ✅          |      |      |      |          |
+| **Nave Escrava**                   | 168     | ✅          | ✅    | ✅    | ✅    |          |
+| **Boneca do Destino**              | 214     | ✅          |      |      |      |          |
+| **Cei, o Gigante**                 | 210     | ✅          |      |      |      |          |
+| **Venus Mais X**                   | 178     | ✅          | ✅    | ✅    |      |          |
+| **A Galáxia Estranha**             | 109     | ✅          |      |      |      |          |
+| **Exilado do Espaço**              | 126     | ✅          |      |      |      |          |
