@@ -186,7 +186,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Fundação II**                    | 372     | ✅          | 370  |      |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 126      |
 | Nós Robôs                          | 559     |            | 533  |      |      |          |
-| **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | 218  |          |
+| **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 52       |
 | **O Cair da Noite**                | 378     | ✅          | ✅    | ✅    | ✅    | 347      |
 | **O Futuro Começou**               | 470     | ✅          |      |      |      |          |
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅    | ✅    |      |          |

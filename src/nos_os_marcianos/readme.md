@@ -1,4 +1,4 @@
-# Nós, Marcianos
+# Nós, os Marcianos
 
 ## Correções do original
 
@@ -6,7 +6,9 @@ O texto original foi composto numa época em que não existiam corretores ortogr
 
 Os números de página são da edição em português.
 
-#### Grafia incorreta
+### Grafia incorreta
+
+Algumas palavras foram conferidas com o original em inglês para validar o significado.
 
 * **Cincoenta** foi corrigido para **cinquenta** nas páginas 19, 29, 34, 37, 53, 55, 130, 137, 164 e 193.
 
@@ -14,9 +16,11 @@ Os números de página são da edição em português.
 
 * **Inconciente** foi corrigido para **inconsciente** na página 178 (embora duas linhas antes tem a palavra `conscientemente` escrito corretamente)
 * **Consiente** foi corrigido para **consciente** na página 183.
-* **Ehi** foi corrigido para **ei** nas páginas 27, 45, 73, 100 e 112.
+* **Ehi** foi corrigido para **ei** nas páginas 27, 45, 73, 100, 112 e 233.
 * **Concertá-la** foi corrigido para **consertá-la** na página 88.
 * **Rotima** foi corrigido para **rotina** na página 214.
+* Faltou um travessão na página 230.
+* **Sé** foi corrigido para **Só** na página 241.
 
 ### Falas com quebra de parágrafo
 
@@ -35,6 +39,12 @@ O parágrafo no meio deveria começar com “ e como é o ultimo parágrafo da f
 Estes sinais foram adicionados de acordo com o texto do original em inglês, nas seguintes páginas da edição em português:
 
 18, 19, 20, 34, 36, 37, 38, 39, 40, 41, 70, 177, 178, 179, 203, 211
+
+### Nós, os Marcianos..., Capítulo 5 (página 38)
+
+No texto original cita "...all government money is going into rocketry research and space medicine..."
+
+"Rocketry" foi traduzido como "mísseis", quando o correto seria "foguetes".
 
 ### Nós os Marcianos..., Capítulo 7 (página 51)
 
