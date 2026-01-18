@@ -156,6 +156,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **Boneca do Destino**<br />![](./docs/hemus_boneca_do_destino.jpg) | We Who Are About To (Dell, 1977)<br />![](./docs/we_who_are_about_to.jpg) | (Artista não identificado) |
 | **Cei, o Gigante**<br />![](./docs/hemus_cei_o_gigante.jpg)  | The Best of Philip K Dick (Ballantine, 1977)<br />![](./docs/the_best_of_philip_k_dick.jpg) | Vincent DiFate             |
 | **Venus Mais X**<br />![](./docs/hemus_venus_mais_x.jpg)     | Earth is Room Enough (Fawcett, 1970)<br />![](./docs/earth_is_room_enough.jpg) | Paul Lehr                  |
+| **A Galáxia Estranha**<br />![](./docs/hemus_a_galaxia_estranha.png) | Space, Time and Nathaniel (New English Library, 1971)<br />![](./docs/space_time_nathaniel.jpg) | Bruce Pennington           |
 
 ## Andamento do projeto
 
@@ -184,13 +185,13 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Fim da Eternidade**              | 248     | ✅          | ✅    | ✅    |      |          |
 | Fundação                           | 503     | ✅          |      |      |      |          |
 | **Fundação II**                    | 372     | ✅          | 370  |      |      |          |
-| **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 126      |
+| **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 148      |
 | Nós Robôs                          | 559     |            | 533  |      |      |          |
 | **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 52       |
 | **O Cair da Noite**                | 378     | ✅          | ✅    | ✅    | ✅    | 347      |
 | **O Futuro Começou**               | 470     | ✅          |      |      |      |          |
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅    | ✅    |      |          |
-| **O Homem Bicentenário**           | 238     | ✅          | ✅    | ✅    | ✅    | 82       |
+| **O Homem Bicentenário**           | 238     | ✅          | ✅    | ✅    | ✅    | 113      |
 | **O Robô de Júpiter**              | 142     | ✅          | ✅    |      |      |          |
 | **Os Anéis de Saturno**            | 234     | ✅          |      |      |      |          |
 | **Os Oceanos de Vênus**            | 190     | ✅          | ✅    | ✅    |      |          |
@@ -208,7 +209,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **A Humanidade Artificial**        | 214     | ✅          |      |      |      |          |
 | **Cavalo-Marinho no Céu**          | 222     | ✅          | ✅    | ✅    |      |          |
 | **O Diabólico Cérebro Eletrônico** | 282     | ✅          |      |      |      |          |
-| **Os Homens Moleculares**          | 286     | ✅          | ✅    | ✅    | 162  |          |
+| **Os Homens Moleculares**          | 286     | ✅          | ✅    | ✅    | ✅    |          |
 | **O Terror Rithiano**              | 124     | ✅          | ✅    | ✅    |      |          |
 | **Os Cérebros Prateados**          | 220     | ✅          |      |      |      |          |
 | **Nave Escrava**                   | 168     | ✅          | ✅    | ✅    | ✅    |          |
