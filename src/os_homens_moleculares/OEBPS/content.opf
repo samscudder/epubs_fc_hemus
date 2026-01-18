@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:title>Os Homens Moleculares</dc:title>
-		<dc:identifier id="bookid">hemus_os_homens_moleculares_v001</dc:identifier>
+		<dc:identifier id="bookid">hemus_os_homens_moleculares_v000</dc:identifier>
 		<dc:creator>Fred Hoyle</dc:creator>
 		<dc:creator>Geoffrey Hoyle</dc:creator>
 		<dc:publisher>Hemus</dc:publisher>
@@ -15,7 +15,6 @@
 		<item id="css" href="css/book.css" media-type="text/css"/>
 		<item id="cover.jpg" href="images/cover.jpg" media-type="image/jpeg"/>
 		<item id="rearcover.jpg" href="images/rearcover.jpg" media-type="image/jpeg"/>
-		<item id="hemus.jpg" href="images/hemus.jpg" media-type="image/jpeg"/>
 		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
 		<item id="rearcover" href="rearcover.xhtml" media-type="application/xhtml+xml"/>
 		<item id="halftitle" href="halftitle.xhtml" media-type="application/xhtml+xml"/>
