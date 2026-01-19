@@ -30,7 +30,7 @@ Este documento será atualizado conforme forem surgindo novas informações.
 
 ![](./docs/iniciais.jpg)
 
-Estes livros tem a honra de serem considerados os dois piores livros de ficção científica já escritos, de acordo com [este artigo em  inglês](https://boards.straightdope.com/t/the-second-worst-sf-book-ever/387877) . Na página de copyright as informações não correspondem aos livros originais, então é possível que não tenham sido autorizados pelos autor, e as mudanças de informações foram para despistar. O autor, Robert P. White não é o nome, e nenhum pseudônimo conhecido do autor original. Nas publicações do exterior aparece Pel Torro, que é pseudônimo de Lionel Fanthorpe, um padre anglicano inglês.
+Estes livros tem a honra de serem considerados os dois piores livros de ficção científica já escritos, de acordo com [este artigo em  inglês](https://boards.straightdope.com/t/the-second-worst-sf-book-ever/387877) . Na página de copyright as informações não correspondem aos livros originais, então é possível que não tenham sido autorizados pelos autor, e as mudanças de informações foram para despistar. O autor, Robert P. White não é o nome, e nenhum pseudônimo conhecido, do autor original. Nas publicações do exterior aparece Pel Torro, que é pseudônimo de Lionel Fanthorpe, um padre anglicano inglês.
 
 De qualquer forma, estes livros não apareceram em nenhuma relação posterior de livros. Dentro de Exilado No Espaço, aparece a informação de que foi impressa em 1975.
 
@@ -216,5 +216,5 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Boneca do Destino**              | 214     | ✅          |      |      |      |          |
 | **Cei, o Gigante**                 | 210     | ✅          |      |      |      |          |
 | **Venus Mais X**                   | 178     | ✅          | ✅    | ✅    |      |          |
-| **A Galáxia Estranha**             | 109     | ✅          |      |      |      |          |
+| **A Galáxia Estranha**             | 109     | ✅          | ✅    | ✅    |      |          |
 | **Exilado do Espaço**              | 126     | ✅          |      |      |      |          |
