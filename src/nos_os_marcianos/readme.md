@@ -2,7 +2,9 @@
 
 ## Correções do original
 
-O texto original foi composto numa época em que não existiam corretores ortográficos e dependia muito do conhecimento da pessoa que estava montando a matriz da página. Haviam também alguns estilos de composição que variavam de pessoa para pessoa e isto pode levar a inconsistências no livro final. Algumas pessoas, por exemplo, na hora de italicizar a última palavra de uma frase, italicizavam também o ponto de  exclamação ou interrogação que fecha a frase. Isto é feita de forma inconsistente neste livro.
+O texto original foi composto numa época em que não existiam corretores ortográficos e dependia muito do conhecimento da pessoa que estava montando a matriz da página. Haviam também alguns estilos de composição que variavam de pessoa para pessoa e isto podia levar a inconsistências no livro final. Algumas pessoas, por exemplo, na hora de italicizar a última palavra de uma frase, italicizavam também o ponto de  exclamação ou interrogação que fecha a frase. Isto é feita de forma inconsistente neste livro.
+
+Estes são os erros encontrados, embora é plausível que hajam mais.
 
 Os números de página são da edição em português.
 
@@ -14,12 +16,20 @@ Algumas palavras foram conferidas com o original em inglês para validar o signi
 
   Curiosamente na página 35 está grafado como `cinqüenta`, que era o correto para a época.
 
+* **Infernar** foi corrigido para **Infernizar** na página 52.
+
 * **Inconciente** foi corrigido para **inconsciente** na página 178 (embora duas linhas antes tem a palavra `conscientemente` escrito corretamente)
+
 * **Consiente** foi corrigido para **consciente** na página 183.
+
 * **Ehi** foi corrigido para **ei** nas páginas 27, 45, 73, 100, 112 e 233.
+
 * **Concertá-la** foi corrigido para **consertá-la** na página 88.
+
 * **Rotima** foi corrigido para **rotina** na página 214.
+
 * Faltou um travessão na página 230.
+
 * **Sé** foi corrigido para **Só** na página 241.
 
 ### Falas com quebra de parágrafo
@@ -58,12 +68,65 @@ O original em inglês é:
 
 Como não existe no dicionário a palavra "burado", acredito que seja "buraco".
 
-### Nós, os Marcianos..., Capítulo 9 (página 69)
+### Nós os Marcianos..., Capítulo 8 (página 55)
+
+Temos esta frase:
+
+> Eramos os primeiros humanos a chegar  tão longe, os primeiros a ultrapassar os asteróides a ver Júpiter a olho nu, os primeiros a ver Saturno — assim, como o viam.
+
+No original em inglês, encontramos:
+
+> They were the first humans to penetrate this far, the first to pass the asteroids, the first to see Jupiter like a glowing pebble to the naked eye, the first to see Saturn – like that.
+
+Então está faltando uma vírgula entre "asteróides" e "a ver".
+
+### Nós os Marcianos..., Capítulo 10 (página 64)
+
+Temos a frase:
+
+> ... O gigantesco jato posterior composto voltou a rugir, mas agora estava desacelerado.
+
+No original em inglês é:
+
+> ... The composite jet in the rear began its mighty roaring once again, but now the result was deceleration.
+
+Faz mais sentido usar "desacelerando" no lugar de "desacelerado".
+
+### Nós os marcianos..., Capítulo 11 (página 68)
+
+Falta uma quebra de parágrafo no final de uma fala.
+
+### Nós, os Marcianos..., Capítulo 11 (página 69)
 
 No texto está escrito "Ehi!", que deveria ser "Ei!".
+
+### Mocidade, Capítulo3 (página 89)
+
+No parágrafo:
+
+> O Mercante se agitava com força, mas seus esforços eram inúteis. — Você não consegue de comunicar com ele? — berrou.
+
+Deveria ser "se" no lugar de "de".
+
+### Mocidade, Capítulo 6 (página 99)
+
+No original em inglês temos este parágrafo:
+
+> “Sure, there is. Look at it. See those round things. They’re ports. And you can see the rocket tubes.”
+
+"Rocket" pode ser traduzido como míssil ou foguete. No texto está como míssil, mas foguete faz mais sentido.
+
+### Mocidade, Capítulo 13 (página 121)
+
+Encontramos a mesma situação, onde "rocket blast" foi traduzido como "explosão dos mísseis", quando o mais correto seria "exaustão dos foguetes".
+
+
 
 ## Termos incorretos
 
 Em alguns lugares temos termos incorretos, mas que foram mantidas no texto.
 
 * “Capas polares” no lugar de “calotas polares”
+
+
+
