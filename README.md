@@ -71,7 +71,7 @@ Aqui está uma relação dos livros da série FC Hemus em ordem alfabética por 
 | Fundação                                              | Foundation Trilogy (1951-53)                        | Isaac Asimov          |                                                            |
 | **Fundação II**                                       | Foundation’s Edge (1982)                            | Isaac Asimov          |                                                            |
 | **Júpiter à Venda**                                   | Buy Jupiter (1975)                                  | Isaac Asimov          | - Attílio Cancian                                          |
-| Nós Robôs                                             | The Complete Robot (1982)                           | Isaac Asimov          |                                                            |
+| **Nós Robôs**                                         | The Complete Robot (1982)                           | Isaac Asimov          |                                                            |
 | **Nós, os Marcianos**                                 | The Martian Way and Other Stories (1955)            | Isaac Asimov          | - Agatha M. Auersperg                                      |
 | **O Cair da Noite**                                   | Nightfall and Other Stories (1969)                  | Isaac Asimov          | - Maria Judith Martins                                     |
 | **O Futuro Começou**                                  | The Early Asimov (1972)                             | Isaac Asimov          |                                                            |
@@ -101,8 +101,8 @@ Aqui está uma relação dos livros da série FC Hemus em ordem alfabética por 
 | **Boneca do Destino**                                 | Destiny Doll (1971)                                 | Clifford D. Simak     | - Affonso Blacheyre                                        |
 | **Cei, o Gigante**                                    | City in the Sky (1974)                              | Curt Siodmak          | - Sandra de Negraes Brisolla                               |
 | **Venus Mais X**                                      | Venus Plus X (1960)                                 | Theodore Sturgeon     | - Agatha M. Auersperg                                      |
-| **Exilado do Espaço**                                 | The Last Astronaut                                  | Robert P. White       | Lauro Blandy                                               |
-| **A Galáxia Estranha**                                | Galaxy 666                                          | Robert P. White       | Lauro S. Blandy                                            |
+| **Exilado do Espaço**                                 | The Last Astronaut                                  | Robert P. White       | - Lauro Blandy                                             |
+| **A Galáxia Estranha**                                | Galaxy 666                                          | Robert P. White       | - Lauro S. Blandy                                          |
 
 ## Artes das Capas
 
@@ -132,7 +132,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **O Futuro Começou**<br />![](./docs/hemus_o_futuro_comecou.jpg) | I, Robot (Panther, 1969)<br />![](./docs/i_robot_ii.jpg)     |                            |
 | **O Grande Sol de Mercúrio** (1)<br />![](.//docs/hemus_o_grande_sol_de_mercurio.jpg) | The End of Eternity (Fawcett, 1971)<br />![](./docs/the_end_of_eternity.jpg) | Paul Lehr                  |
 | **O Homem Bicentenário**<br />![](./docs/hemus_o_homem_bicentenario.jpg) | Omni Magazine - Maio 1980<br />![](./docs/omni_may_1980.jpg) | Richard Cohen              |
-| **O Robô de Júpiter**<br />![]()                             | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) | John Berney                |
+| **O Robô de Júpiter**<br />![](./docs/hemus_o_robo_de_jupiter.jpg) | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) | John Berney                |
 | **Os Anéis de Saturno**<br />![]()                           |                                                              |                            |
 | **Os Oceanos de Vênus**<br />![](./docs/hemus_os_oceanos_de_venus.jpg) | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) | Don Maitz                  |
 | **Os Robôs**<br />![](./docs/hemus_os_robos.jpg)             | Arte Original, 1974<br />![](./docs/os_robos.jpg)            | Décio Guedes               |
@@ -186,7 +186,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | Fundação                           | 503     |            |      |      |      |          |
 | **Fundação II**                    | 372     | ✅          | 370  |      |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 148      |
-| Nós Robôs                          | 559     |            | 533  |      |      |          |
+| **Nós Robôs**                      | 559     | ✅          | 533  |      |      |          |
 | **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 107      |
 | **O Cair da Noite**                | 378     | ✅          | ✅    | ✅    | ✅    | 347      |
 | **O Futuro Começou**               | 470     | ✅          |      |      |      |          |
