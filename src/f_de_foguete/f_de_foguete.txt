@@ -75,7 +75,7 @@ E então os preliminares estavam finalizados. O combustível estava no foguete e
 — Já se foi! - gritou Priory.
 E todos começamos a respirar depressa de novo, congelados ali no chão, como que entorpecidos pela rajada de um enorme paralisa-dor.
 — Quero crescer depressa — disse então — quero crescer depressa, para poder pilotar aquele foguete.
-Mordi os lábios. Eu era tão jovem, e não se pode candidatar a trabalhar no espaço. Você precisa ser escolhido. Escolhido.
+Mordi os lábios. Eu era tão jovem, e não se pode candidatar a trabalhar no espaço. Você precisa ser <i>escolhido</i>. Escolhido.
 Finalmente alguém, acho que foi Sidney, sugeriu:
 — Vamos ao teleshow, agora.
 Todos disseram sim, exceto Priory e eu. Dissemos não, e os outros meninos foram-se rindo a não mais poder, conversando, e deixaram Priory e eu ali, olhando para o local onde estivera a espaçonave.
@@ -83,8 +83,7 @@ Estragou tudo para nós... aquela decolagem.
 Por causa dela, fui reprovado no exame final de semântica, na segunda-feira.
 Não me importei.
 Em ocasiões como aquela, agradecia a Providência pelos concentrados. Quando seu estômago não é nada senão u’a massa enroscada de excitação, você dificilmente se sente disposto a puxar uma cadeira para uma refeição quente completa. Alguns tabletes engolidos, serviam maravilhosamente como substitutos, sem a urgência do apetite.
-Mas fiquei pensando no assunto, intensa e repetidamente, todo
-o dia, e até tarde da noite. Fiquei tão mal que precisei usar massagem mecânica para dormir todas as noites, junto com a música mais suave de Tchaikovsky para conseguir fechar os olhos.
+Mas fiquei pensando no assunto, intensa e repetidamente, todo o dia, e até tarde da noite. Fiquei tão mal que precisei usar massagem mecânica para dormir todas as noites, junto com a música mais suave de Tchaikovsky para conseguir fechar os olhos.
 — Meu Deus, meu jovem — dizia meu professor, naquela segunda-feira, na escola. — Se isto continua, vou ter que reclassificá-lo na próxima reunião do quadro de psicólogos.
 — Lamento — repliquei.
 Olhou firme para mim. — Que espécie de bloqueio você arranjou? Deve ser muito simples, e também consciente.
@@ -101,6 +100,7 @@ Não pude ouvir o que foi dito.
 Mas quando pousou o áudio em seu apoio, olhou diretamente para mim com um brilho estranhíssimo nos olhos.
 Era de inveja e admiração e piedade, tudo misturado. Era um pouco triste e tinha muito de alegria. Havia muito ali, dentro de seus olhos. O resto de seu rosto não dizia nada.
 Fazia me sentir como um santo e um demônio sentado ali.
+
 Ralph e eu deslizamos para casa, saindo da escola de fórmulas,
 no começo daquela tarde. Contei a Ralph o acontecido e ele enrugou a testa, do modo sombrio que sempre fazia.
 Comecei a preocupar-me. E juntos, duplicamos e triplicamos a preocupação.
@@ -115,18 +115,17 @@ Paramos fora de minha casa e olhei longamente para o céu. Ralph disse algo engr
 Não disse nada, porque não havia espaço em minha garganta para nada, exceto um volume hectagonal.
 — O que há com seus olhos? — perguntou Priory.
 — Ora, olhei muito tempo para o sol. Vamos entrar, Ralph.
-Gritamos sob o chuveiro, no cubículo de banhos, mas nossos
-gritos não eram muito convincentes, mesmo quando ligamos a água fria.
+Gritamos sob o chuveiro, no cubículo de banhos, mas nossos gritos não eram muito convincentes, mesmo quando ligamos a água fria.
 Enquanto estávamos no secador a ar quente, pensei bastante. A literatura, considerava, estava cheia de pessoas que combateram batalhas contra oponentes duros e afiados como navalha. Afundaram cérebro e músculos contra obstáculos, até que venceram, ou foram derrotados. Mas aqui estava eu com quase nenhum sinal externo de conflito. Estava correndo com botas com espeques dentro de minha cabeça, fazendo cortes e ferimentos onde ninguém podia vê-los, exceto eu e um psicólogo. Mas era igualmente ruim.
 — Ralph — eu disse, enquanto nos vestíamos — estou numa guerra.
 — Sozinho? — perguntou.
 — Não posso incluir você, porque é pessoal. Quantas vezes minha mãe disse “Não coma muito, Chris, seus olhos são maiores que seu estômago?”
 — Um milhão de vezes.
-— Dois milhões. Bem, parafraseando, Ralph. Mude para: “Não veja tanto, Chris, sua mente é muito grande para seu corpo”. Arranjei uma guerra entre uma mente que almeja coisas que o corpo não pode dar.
+— <i>Dois</i> milhões. Bem, parafraseando, Ralph. Mude para: “Não <i>veja</i> tanto, Chris, sua mente é muito grande para seu corpo”. Arranjei uma guerra entre uma mente que almeja coisas que o corpo não pode dar.
 Priory assentiu, quieto. — Vejo o que você quer dizer com uma guerra pessoal. Nesse caso, Christopher, eu também estou em guerra.
 — Eu sabia que estava — retruquei. — De alguma forma, eu acho que os outros caras vão superar isso, mas não nós, Ralph. Creio que ficaremos esperando.
 Sentamo-nos no meio do ensolarado terraço superior da casa, e começamos a verificar parte da lição de casa em nossas pranchetas de fórmulas. Priory não conseguiu fazer nada. Tampouco eu. Priory pôs em palavras exatamente aquilo que eu não ousara dizer em voz alta.
-— Chris, a Junta Astronáutica seleciona. Você não pode alistar-se. Você espera.
+— Chris, a Junta Astronáutica <i>seleciona</i>. Você não pode alistar-se. Você <i>espera</i>.
 — Eu sei.
 — Você espera desde o tempo em que tem idade para sentir um frio na barriga quando vê um foguete lunar, até que os anos passam, e a cada mês que passa você espera que uma manhã um helicóptero azul da Junta descerá do céu, no seu jardim, e que um engenheiro de aspecto afável vai sair, subir a rampa, e tocar a campainha.
 — Você continua esperando por aquele helicóptero até fazer vinte e um anos. E então, no último dia do seu vigésimo ano, você bebe e ri bastante, e diz, que diabo, afinal eu não me importava muito mesmo com isso.
@@ -150,7 +149,7 @@ Quando Ralph se foi, minha mãe olhou para mim seriamente, então afagou meu cab
 — Algo está acontecendo, Chris.
 Meu coração parou de falar, porque eu não queria falar mais, por um pouco. Esperava.
 Abri a boca, mas Jhene continuou:
-— Algo está acontecendo em algum lugar. Telefonaram-me duas vezes no trabalho, hoje. Uma vez era seu professor. Uma, ...não posso dizer. Não quero dizer até que as coisas aconteçam...
+— Algo está acontecendo em algum lugar. Telefonaram-me duas vezes no trabalho, hoje. Uma vez era seu professor. Uma, ...não posso dizer. Não <i>quero</i> dizer até que as coisas aconteçam...
 Meu coração voltou a falar de novo, cáüdo e lento.
 — Não me diga, então, Jhene. Aquelas chamadas...
 Ela apenas olhava para mim. Tomou minha mão entre as suas, suaves e quentes. — Você é tão jovem, Chris. Tão terrivelmente jovem.
@@ -161,9 +160,10 @@ E minha mãe acrescentou, de modo muito esquisito. — Ele trabalhava embaixo da
 Meu coração urrou em meu peito. Um grito alto e pungente.
 — Oh, mamãe, mamãe...
 Era a primeira vez, em muitos anos, que a chamava de mãe.
+
 Quando acordei na manhã seguinte, havia muito sol no quarto,, mas o colchão onde Priory dormiu, estava vazio. Escutei. Não estava tomando banho, e o secador não estava zumbindo. Tinha-se ido.
 Encontrei a nota espetada na porta deslizante.
-— Vejo-o na fórmula, à tarde. Sua mãe quis que eu fizesse algumas coisas para ela. Recebeu um telefonema esta manhã, e disse que eu precisava ajudá-la. Até logo. Priory.
+— <i>Vejo-o na fórmula, à tarde. Sua mãe quis que eu fizesse algumas coisas para ela. Recebeu um telefonema esta manhã, e disse que eu precisava ajudá-la. Até logo. Priory.</i>
 Priory fazendo serviços para Jhene. Estranho. Um telefonema de manhã bem cedo para Jhene. Voltei e sentei-me no colchão.
 Enquanto estava lá sentado, a turma gritou lá fora, no jardim: — Ei, Chris! Está atrasado!
 Pus a cabeça pela janela. — Já desço!
@@ -184,11 +184,11 @@ Jhene fingiu estar interessada em pentear seus longos e leves cabelos com um pen
 — Chris, por favor, não faça perguntas.
 Antes que eu pudesse dizer alguma coisa, um som pelo ar. Penetrava mesmo pela parede à prova de som da casa, e vibrava em minha medula, veloz e alto como uma seta de resplandente musicalidade.
 Engoü em seco. Todo o medo, e incerteza, e dúvida, foram-se, instantaneamente.
-Quando ouvi aquele som, pensei em Ralph Priory. — Oh, Ralph, se você pudesse estar aqui, agora. — Eu não podia acreditar na realidade daquilo. Ouvindo aquele som, e ouvindo com todo o meu corpo e alma, tanto quanto com meus ouvidos.
+Quando ouvi aquele som, pensei em Ralph Priory. — <i>Oh, Ralph, se você pudesse estar aqui, agora.</i> — Eu não podia acreditar na realidade daquilo. Ouvindo aquele som, e ouvindo com todo o meu corpo e alma, tanto quanto com meus ouvidos.
 Aproximava-se, aquele som. Eu receava que se afastasse. Mas não. Tornou-se mais grave e desceu do lado de fora da casa em grandes pétalas rotativas de luz e sombra, e eu percebi que era um helicóptero da cor do céu. Seu barulho cessou, e no silêncio, minha mãe inclinou-se para frente, tensa, deixou cair o vibropente, e suspendeu a respiração.
 Naquele silêncio, também, ouvi passos subindo a rampa, lá embaixo. Passos que eu longamente esperara.
 Alguém tocou a campainha.
-E eu sabia quem era.
+E eu <i>sabia</i> quem era.
 E tudo o que eu podia pensar era, Ralph, que diabo, tinha de ir embora agora, quando tudo isto acontece? Caramba, Ralph, por que foi?
 O homem parecia como se tivesse nascido dentro daquele uniforme. Caía-lhe como uma segunda camada de pele cor-de-sal, retocada aqui e ah com uma linha, ou um azul. Um uniforme tão simples e perfeito quanto podia ser, mas com toda a força musculosa do universo por detrás.
 Seu nome era Trent. Falava com voz firme, com uma perfeição naturalmente arqueada, diretamente ao assunto.
@@ -199,16 +199,16 @@ notas mais altas, alto QI. Percepção A-l, curiosidade três A. Entusiasmo nece
 “...conversando com seus professores de semântica e psicologia...”
 — Sim, senhor.
 “...e não esqueça, sr. Christopher...”
-Senhor Christopher!
+<i>Senhor</i> Christopher!
 “...e não se esqueça, sr. Christopher, ninguém deve saber que foi selecionado pela Junta Astronáutica.”
 — Ninguém?
 — Sua mãe e seu professor sabem, naturalmente. Mas ninguém mais. Compreendeu bem?
 — Sim, senhor.
 Trent sorriu, quieto, de pé, com suas grandes mãos ao longo do corpo. — Quer perguntar por que, não? Por que não pode contar a seus amigos? Vou explicar.
 — É uma forma de proteção psicológica. Selecionamos cerca de dez mil rapazes a cada ano, dentre os bilhões, da Terra. Deste número, três mil saem, oito anos depois, como homens do espaço, de uma espécie ou outra. Os outros devem voltar à sociedade. Falharam, mas não há razão para que todos saibam. Usualmente fracassam, se é o caso, nos primeiros seis meses. E é duro voltar e encarar os amigos, e dizer que não conseguiu manter o passo no maior emprego do mundo. De modo que facilitamos a volta.
-— Mas ainda há outra razão. É psicológica, também. Metade da graça de ser criança é poder se gabar perante os outros, sendo de alguma forma, superior. Tiramos metade da graça da nossa seleção de astronautas proibindo-lhes estritamente de contar algo para seus amigos. Então, você vai saber se queria ir para o espaço por razões frívolas, ou pelo espaço, em si. Se você está empenhado por vangloria, está perdido. Se você se empenha porque não vê outro caminho e precisa ser assim, então está salvo.
+— Mas ainda há outra razão. É psicológica, também. Metade da graça de ser criança é poder se gabar perante os outros, sendo de alguma forma, superior. Tiramos metade da graça da nossa seleção de astronautas proibindo-lhes estritamente de contar algo para seus amigos. Então, você vai saber se queria ir para o espaço por razões frívolas, ou pelo espaço, em si. Se você está empenhado por vangloria, está perdido. Se você se empenha porque não vê outro caminho e <i>precisa</i> ser assim, então está salvo.
 Fez uma vênia para minha mãe. — Obrigado, sr. Christopher.
-— Senhor - eu disse. - Uma pergunta. Tenho um amigo, Ralph Priory. Ele vive num ortoposto...
+— Senhor — eu disse. — Uma pergunta. Tenho um amigo, Ralph Priory. Ele vive num ortoposto...
 Trent fez que sim. — Não posso comunicar-lhe sua classificação, daro, mas ele está em nossa lista. É seu amigo? Quer que o acompanhe, claro. Verificarei seus registros. Criado num posto, você disse?
 Não é muito bom. Mas... veremos.
 — Se puder, obrigado.
@@ -217,14 +217,15 @@ Saudou. Saiu. Foi-se com o helicóptero, pelo céu, e minha mãe logo estava a m
 — Tem razão, toda a razão — murmurei — vou, prometo que sim...
 — Controlei minha voz — Jhene... como... como vamos contar a Ralph? Que fazer?
 — Você vai embora, é tudo, Chris. Diga-lhe isso. Muito simplesmente. Não lhe diga mais nada. Ele entenderá.
-— Mas Jhene, você...
+— Mas Jhene, <i>você</i>...
 — Ela sorriu, docemente. — Sim, ficarei só, Chris. Mas terei meu trabalho, e terei Ralph.
 — Quer dizer que...
-— Vou tirá-lo do ortoposto. Ele viverá aqui, enquanto você estiver fora. É o que você queria que eu dissesse, não é, Chris?
+— Vou tirá-lo do ortoposto. Ele viverá aqui, enquanto você estiver fora. É o que você <i>queria</i> que eu dissesse, não é, Chris?
 Assenti, todo paralisado, e esquisito por dentro.
 — É exatamente o que eu queria que você dissesse.
-— Ele será um bom filho, Chris. Quase tão bom quanto você.
-— Ele será excelente!
+— Ele será um bom filho, Chris. <i>Quase</i> tão bom quanto você.
+— Ele será <i>excelente!</i>
+
 Contamos a Ralph Priory. Como eu iria embora talvez para uma escola na Europa, por um ano, e como mamãe queria que ele viesse viver como filho dela, agora, até a hora de eu voltar. Dissemos isto bem depressa, como se queimasse nossas línguas. E quando acaba-
 mos, Ralph veio e apertou minha mão e beijou minha mãe no rosto e disse:
 — Terei muito orgulho disso, muito mesmo.
@@ -239,10 +240,10 @@ E então, no escuro, pouco antes de eu adormecer, Priory virou-se um pouquinho e
 — Pensando?
 Uma pausa.
 — Sim.
-Ele disse — Você... você não está esperando mais, não é, Chris?
+Ele disse — Você... você não está <i>esperando</i> mais, não é, Chris?
 Eu sabia o que ele queria dizer. Eu não podia responder.
 Disse-lhe — Estou terrivelmente cansado, Ralph.
-Virou-se de novo, acomodou-se, e falou: — É o que pensava. Você não está mais esperando. Puxa, isso é muito bom, Chris. Muito bom.
+Virou-se de novo, acomodou-se, e falou: — É o que pensava. Você não está mais <i>esperando</i>. Puxa, isso é muito bom, Chris. Muito bom.
 Esticou o braço e bateu no meu, de leve.
 Então pusemo-nos a dormir.
 Era manhã de sábado. Os meninos estavam gritando lá fora. Suas vozes enchiam a neblina das sete horas. Ouvi o ventilador do Velho Wickard abrir-se e o “ziip” de seu paralisador brincando alegremente à volta deles.
@@ -258,7 +259,7 @@ Apressou-nos para o desjejum, beijou-nos no rosto, e empurrou-nos pela porta, pa
 — Ora, Chris, por que não?
 Seus rostos indicavam surpresa. Era a primeira vez na história que eu não desejara ir. — Está brincando, Chris.
 — Claro que está.
-— Não, não está; é exatamehte o que quer dizer — interrompeu Priory. - E eu também não quero ir. Vamos todos os sábados. Fica cansativo. Poderemos ir na semana que vem.
+— Não, não está; é exatamehte o que quer dizer — interrompeu Priory. - E eu também não quero ir. Vamos <i>todos</i> os sábados. Fica cansativo. Poderemos ir na semana que vem.
 — Ahh...
 Não gostaram, mas não foram sozinhos. Não tinha graça, disseram, sem nós.
 — Caramba — iremos na semana que vem.

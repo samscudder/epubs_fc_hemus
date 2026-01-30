@@ -89,7 +89,7 @@ Aqui está uma relação dos livros da série FC Hemus em ordem alfabética por 
 | **250 Séculos Após...**                               | Midsummer Century (1972)                            | James Blish           | - Attílio Cancian                                          |
 | A Cidade Perdida de Marte                             | I Sing the Body Electric (1969)                     | Ray Bradbury          |                                                            |
 | **E de Espaço**                                       | S is for Space (1966)                               | Ray Bradbury          |                                                            |
-| **F de  Foguete**                                     | R is for Rocket (1962)                              | Ray Bradbury          |                                                            |
+| **F de  Foguete**                                     | R is for Rocket (1962)                              | Ray Bradbury          | Norberto de Paula Lima                                     |
 | **O Terceiro Planeta**                                | Report on Planet Three (1972)                       | Arthur C. Clarke      | - Attílio Cancian                                          |
 | **A Humanidade Artificial**                           | The Overman Culture (1971)                          | Edmund Cooper         | - Agatha Maria Auersperg                                   |
 | **Cavalo-Marinho no Céu**                             | Seahorse in the Sky (1969)                          | Edmund Cooper         | - Agatha Maria Auersperg                                   |
@@ -135,11 +135,11 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **O Robô de Júpiter**<br />![]()                             | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) | John Berney                |
 | **Os Anéis de Saturno**<br />![]()                           |                                                              |                            |
 | **Os Oceanos de Vênus**<br />![](./docs/hemus_os_oceanos_de_venus.jpg) | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) | Don Maitz                  |
-| **Os Robôs**<br />![]()                                      | Arte Original, 1974<br />![](./docs/os_robos.jpg)            | Décio Guedes               |
+| **Os Robôs**<br />![](./docs/hemus_os_robos.jpg)             | Arte Original, 1974<br />![](./docs/os_robos.jpg)            | Décio Guedes               |
 | **Para Onde Vamos?**<br />![](./docs/hemus_para_onde_vamos.jpg) | The Three Stigmata of Palmer Eldritch (MacFadden, 1966)<br />![](./docs/the_three_stigmata_of_palmer_edritch.jpg) | Jack Faragasso             |
 | **Vigilante das Estrelas**<br />![](./docs/hemus_vigilante_das_estrelas.jpg) | Buy Jupiter (Panther, 1975)<br />![](./docs/buy_jupiter.jpg) | Peter Andrew Jones         |
 | **Essas Estrelas São Nossas**<br />![](./docs/hemus_essas_estrelas_sao_nossas.jpg) | Analog Science Fiction - Abril 1977<br />![](./docs/analog_april_77.jpg) | Vincent DiFate             |
-| **Guerra dos Homens Alados**                                 | Hot Stuff #4 (1977)<br />![](./docs/hot_stuff_4.jpg)         | Ken Barr                   |
+| **Guerra dos Homens Alados**<br />![](./docs/hemus_guerra_dos_homens_alados.jpg) | Hot Stuff #4 (1977)<br />![](./docs/hot_stuff_4.jpg)         | Ken Barr                   |
 | **Luz de Outra Dimensão**<br />![](./docs/hemus_luz_de_outra_dimensao.jpg) | The Siege of Wonder (DAW, 1976)<br />![](./docs/the_siege_of_wonder.jpg) | H. R. Van Dongen           |
 | **250 Séculos Após...**<br />![](./docs/hemus_250_seculos_apos.jpg) | Pintura *Urban Monad 116* - 1980<br />![](./docs/urban_monad_116.jpg) | Vincent DiFate             |
 | A Cidade Perdida de Marte                                    | Arte original, 1975                                          | Décio Guedes               |
@@ -168,9 +168,9 @@ Vou atualizando este documento conforme as atividades são executadas.
 | ----------- | --------- | ----- |
 | Páginas     | 10141     | 100,0 |
 | Localizado  | 9923      | 97,9  |
-| Scaneadas   | 6506      | 64,2  |
+| Scaneadas   | 7247      | 71,5  |
 | Convertidas | 1634      | 16,1  |
-| Revisadas   | 715       | 7,0   |
+| Revisadas   | 726       | 7,2   |
 
 ### Detalhado
 
@@ -183,7 +183,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Caça aos Robôs**                 | 296     | ✅          | ✅    | ✅    |      |          |
 | **Despertar dos Deuses**           | 272     | ✅          | ✅    | ✅    |      |          |
 | **Fim da Eternidade**              | 248     | ✅          | ✅    | ✅    |      |          |
-| Fundação                           | 503     | ✅          |      |      |      |          |
+| Fundação                           | 503     |            |      |      |      |          |
 | **Fundação II**                    | 372     | ✅          | 370  |      |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 148      |
 | Nós Robôs                          | 559     |            | 533  |      |      |          |
@@ -191,7 +191,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **O Cair da Noite**                | 378     | ✅          | ✅    | ✅    | ✅    | 347      |
 | **O Futuro Começou**               | 470     | ✅          |      |      |      |          |
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅    | ✅    |      |          |
-| **O Homem Bicentenário**           | 238     | ✅          | ✅    | ✅    | ✅    | 113      |
+| **O Homem Bicentenário**           | 238     | ✅          | ✅    | ✅    | ✅    | 124      |
 | **O Robô de Júpiter**              | 142     | ✅          | ✅    |      |      |          |
 | **Os Anéis de Saturno**            | 234     | ✅          |      |      |      |          |
 | **Os Oceanos de Vênus**            | 190     | ✅          | ✅    | ✅    |      |          |
@@ -203,18 +203,19 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Luz de Outra Dimensão**          | 228     | ✅          |      |      |      |          |
 | **250 Séculos Após...**            | 136     | ✅          | ✅    | ✅    |      |          |
 | A Cidade Perdida de Marte          | 218     |            |      |      |      |          |
-| **E de Espaço**                    | 202     | ✅          |      |      |      |          |
-| **F de  Foguete**                  | 210     | ✅          | ✅    | ✅    |      |          |
+| **E de Espaço**                    | 202     | ✅          | ✅    |      |      |          |
+| **F de Foguete**                   | 210     | ✅          | ✅    | ✅    |      |          |
 | **O Terceiro Planeta**             | 286     | ✅          | ✅    | ✅    |      |          |
 | **A Humanidade Artificial**        | 214     | ✅          |      |      |      |          |
 | **Cavalo-Marinho no Céu**          | 222     | ✅          | ✅    | ✅    |      |          |
 | **O Diabólico Cérebro Eletrônico** | 282     | ✅          |      |      |      |          |
 | **Os Homens Moleculares**          | 286     | ✅          | ✅    | ✅    | ✅    |          |
 | **O Terror Rithiano**              | 124     | ✅          | ✅    | ✅    |      |          |
-| **Os Cérebros Prateados**          | 220     | ✅          |      |      |      |          |
+| **Os Cérebros Prateados**          | 220     | ✅          | ✅    | ✅    |      |          |
 | **Nave Escrava**                   | 168     | ✅          | ✅    | ✅    | ✅    |          |
 | **Boneca do Destino**              | 214     | ✅          |      |      |      |          |
-| **Cei, o Gigante**                 | 210     | ✅          |      |      |      |          |
+| **Cei, o Gigante**                 | 210     | ✅          | ✅    | ✅    |      |          |
 | **Venus Mais X**                   | 178     | ✅          | ✅    | ✅    |      |          |
 | **A Galáxia Estranha**             | 109     | ✅          | ✅    | ✅    |      |          |
 | **Exilado do Espaço**              | 126     | ✅          |      |      |      |          |
+
