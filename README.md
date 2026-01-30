@@ -151,7 +151,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **O Diabólico Cérebro Eletrônico**<br />![](./docs/hemus_o_diabolico_cerebro_eletronico.jpg) | Double Star (Signet, 1979)<br />![](./docs/double_star.jpg)  | Vincent DiFate             |
 | **Os Homens Moleculares**<br />![](./docs/hemus_os_homens_moleculares.jpg) | The Caves of Steel (Fawcett, 1972)<br />![](./docs/the_caves_of_steel.jpg) | John Berkey                |
 | **O Terror Rithiano**<br />![](./docs/hemus_o_terror_rithiano.jpg) | To Live Forever (Ballantine, 1976)<br />![](./docs/to_live_forever.jpg) | Dean Ellis                 |
-| **Os Cérebros Prateados**<br />![](./docs/\hemus_os_cerebros_prateados.jpg) | In the Wake of Man (Bobbs-Merrill, 1975)<br />![](./docs/in_the_wake_of_man.jpg) | Nick Aristovulos           |
+| **Os Cérebros Prateados**<br />![](./docs/hemus_os_cerebros_prateados.jpg) | In the Wake of Man (Bobbs-Merrill, 1975)<br />![](./docs/in_the_wake_of_man.jpg) | Nick Aristovulos           |
 | **Nave Escrava**<br />![](./docs/hemus_nave_escrava.jpg)     | Slave Ship (Ballantine, 1969)<br />![](./docs/slave_ship.jpg) | Robert Foster              |
 | **Boneca do Destino**<br />![](./docs/hemus_boneca_do_destino.jpg) | We Who Are About To (Dell, 1977)<br />![](./docs/we_who_are_about_to.jpg) | (Artista não identificado) |
 | **Cei, o Gigante**<br />![](./docs/hemus_cei_o_gigante.jpg)  | The Best of Philip K Dick (Ballantine, 1977)<br />![](./docs/the_best_of_philip_k_dick.jpg) | Vincent DiFate             |
