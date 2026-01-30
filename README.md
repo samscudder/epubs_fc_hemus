@@ -168,8 +168,8 @@ Vou atualizando este documento conforme as atividades são executadas.
 | ----------- | --------- | ----- |
 | Páginas     | 10141     | 100,0 |
 | Localizado  | 9923      | 97,9  |
-| Scaneadas   | 7247      | 71,5  |
-| Convertidas | 1634      | 16,1  |
+| Scaneadas   | 7399      | 73,0  |
+| Convertidas | 1796      | 17,7  |
 | Revisadas   | 726       | 7,2   |
 
 ### Detalhado
@@ -186,16 +186,16 @@ Vou atualizando este documento conforme as atividades são executadas.
 | Fundação                           | 503     |            |      |      |      |          |
 | **Fundação II**                    | 372     | ✅          | 370  |      |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 148      |
-| **Nós Robôs**                      | 559     | ✅          | 533  |      |      |          |
+| **Nós Robôs**                      | 559     | ✅          | ✅    | ✅    |      |          |
 | **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 107      |
 | **O Cair da Noite**                | 378     | ✅          | ✅    | ✅    | ✅    | 347      |
 | **O Futuro Começou**               | 470     | ✅          |      |      |      |          |
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅    | ✅    |      |          |
 | **O Homem Bicentenário**           | 238     | ✅          | ✅    | ✅    | ✅    | 124      |
-| **O Robô de Júpiter**              | 142     | ✅          | ✅    |      |      |          |
+| **O Robô de Júpiter**              | 142     | ✅          | ✅    | ✅    |      |          |
 | **Os Anéis de Saturno**            | 234     | ✅          |      |      |      |          |
 | **Os Oceanos de Vênus**            | 190     | ✅          | ✅    | ✅    |      |          |
-| **Os Robôs**                       | 264     | ✅          | ✅    |      |      |          |
+| **Os Robôs**                       | 264     | ✅          | ✅    | ✅    |      |          |
 | **Para Onde Vamos?**               | 374     | ✅          | ✅    | ✅    |      |          |
 | **Vigilante das Estrelas**         | 162     | ✅          | ✅    | ✅    |      |          |
 | **Essas Estrelas São Nossas**      | 197     | ✅          |      |      |      |          |
@@ -203,7 +203,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Luz de Outra Dimensão**          | 228     | ✅          |      |      |      |          |
 | **250 Séculos Após...**            | 136     | ✅          | ✅    | ✅    |      |          |
 | A Cidade Perdida de Marte          | 218     |            |      |      |      |          |
-| **E de Espaço**                    | 202     | ✅          | ✅    |      |      |          |
+| **E de Espaço**                    | 202     | ✅          | ✅    | ✅    |      |          |
 | **F de Foguete**                   | 210     | ✅          | ✅    | ✅    |      |          |
 | **O Terceiro Planeta**             | 286     | ✅          | ✅    | ✅    |      |          |
 | **A Humanidade Artificial**        | 214     | ✅          |      |      |      |          |
@@ -217,5 +217,5 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Cei, o Gigante**                 | 210     | ✅          | ✅    | ✅    |      |          |
 | **Venus Mais X**                   | 178     | ✅          | ✅    | ✅    |      |          |
 | **A Galáxia Estranha**             | 109     | ✅          | ✅    | ✅    |      |          |
-| **Exilado do Espaço**              | 126     | ✅          |      |      |      |          |
+| **Exilado do Espaço**              | 126     | ✅          | ✅    |      |      |          |
 
