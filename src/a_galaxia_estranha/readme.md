@@ -13,13 +13,11 @@ Também na página original, informa que a capa foi criada pela "Equipe Hemus", 
 
 A versão em inglês do livro é composto de 18 capítulos, enquanto a nacional possui somente 14. Os primeiros 11 capítulos são fieis ao original, com pequenas omissões, mas do 12º em diante, temos uma completa alteração da obra. O capítulo 12 do original se transforma nos 4 primeiros parágrafos do capítulo 12, que depois pula os primeiros 3 paragrafos do capítulo 13 e segue até as primeiras duas frases do último parágrafo. Os capítulos 14, 15, 16 e 17 foram completamente omitidos da versão em português. O capítulo 13 é o capítulo 18 do original, e o capítulo 14 é o capítulo 19 do original.
 
-Estou tentando encontrar uma primeira edição do livro em inglês para confirmar se a segunda edição 
-
-
+Estou tentando encontrar uma primeira edição do livro em inglês para confirmar se este conteúdo foi adicionado na segunda edição que eu tenho.
 
 ## Itálicos x Negrito
 
-Na composição do livro foi usado negrito para realçar palavras e frases ao invés do tradicional itálico. O original utilizou itálico (embora a ênfase não está sempre nas mesmas palavras), então no ebook, todos os negritos foram transformados em itálico (isto aconteceu com vários outros livros da série FC Hemus).
+Na composição do livro pela Hemus foi usado **negrito** para realçar palavras e frases ao invés do tradicional *itálico*. O original utilizou itálico (embora a ênfase não está sempre nas mesmas palavras), então no ebook, todos os negritos foram transformados em itálico (isto aconteceu com vários outros livros da série FC Hemus).
 
 ## Correções no texto original
 
