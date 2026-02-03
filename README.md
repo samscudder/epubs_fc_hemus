@@ -166,9 +166,9 @@ Vou atualizando este documento conforme as atividades são executadas.
 
 | Etapa       | Realizado | %     |
 | ----------- | --------- | ----- |
-| Páginas     | 10141     | 100,0 |
+| Páginas     | 10138     | 100,0 |
 | Localizado  | 9923      | 97,9  |
-| Scaneadas   | 7399      | 73,0  |
+| Scaneadas   | 7588      | 74,8  |
 | Convertidas | 1796      | 17,7  |
 | Revisadas   | 726       | 7,2   |
 
@@ -184,7 +184,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Despertar dos Deuses**           | 272     | ✅          | ✅    | ✅    |      |          |
 | **Fim da Eternidade**              | 248     | ✅          | ✅    | ✅    |      |          |
 | Fundação                           | 503     |            |      |      |      |          |
-| **Fundação II**                    | 372     | ✅          | 370  |      |      |          |
+| **Fundação II**                    | 372     | ✅          | ✅    |      |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 148      |
 | **Nós Robôs**                      | 559     | ✅          | ✅    | ✅    |      |          |
 | **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 107      |
@@ -193,7 +193,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅    | ✅    |      |          |
 | **O Homem Bicentenário**           | 238     | ✅          | ✅    | ✅    | ✅    | 124      |
 | **O Robô de Júpiter**              | 142     | ✅          | ✅    | ✅    |      |          |
-| **Os Anéis de Saturno**            | 234     | ✅          |      |      |      |          |
+| **Os Anéis de Saturno**            | 187     | ✅          | ✅    |      |      |          |
 | **Os Oceanos de Vênus**            | 190     | ✅          | ✅    | ✅    |      |          |
 | **Os Robôs**                       | 264     | ✅          | ✅    | ✅    |      |          |
 | **Para Onde Vamos?**               | 374     | ✅          | ✅    | ✅    |      |          |
@@ -217,5 +217,5 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Cei, o Gigante**                 | 210     | ✅          | ✅    | ✅    |      |          |
 | **Venus Mais X**                   | 178     | ✅          | ✅    | ✅    |      |          |
 | **A Galáxia Estranha**             | 109     | ✅          | ✅    | ✅    |      |          |
-| **Exilado do Espaço**              | 126     | ✅          | ✅    |      |      |          |
+| **Exilado do Espaço**              | 126     | ✅          | ✅    | ✅    |      |          |
 
