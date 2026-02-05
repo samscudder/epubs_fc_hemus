@@ -128,7 +128,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **Júpiter à Venda**<br />![](./docs/hemus_jupiter_a_venda.jpg) | The Best of Trek (Signet, 1978)<br />![](./docs/the_best_of_trek.jpg) | Eddie Jones                |
 | Nós Robôs<br />![](./docs/hemus_nos_robos.jpg)               | Time and Again (Ace, 1976)<br />![](./docs/time_and_again.jpg) | Michael Whelan             |
 | **Nós, os Marcianos**<br />![](./docs/hemus_nos_os_marcianos.jpg) | The Asutra (Dell, 1974)<br />![](./docs/the_asutra.jpg)      | Paul Lehr                  |
-| **O Cair da Noite**<br />![](./docs/hemus_o_cair_da_noite.jpg) | Through a Glass Clearly (New English Library, 1978)<br />![](./docs/through_a_glass_clearly.jpg) | Tim White                  |
+| **O Cair da Noite**<br />![](./docs/hemus_o_cair_da_noite.jpg) | Through a Glass Clearly (New English Library, 1977)<br />![](./docs/through_a_glass_clearly.jpg) | Tim White                  |
 | **O Futuro Começou**<br />![](./docs/hemus_o_futuro_comecou.jpg) | I, Robot (Panther, 1969)<br />![](./docs/i_robot_ii.jpg)     | Unknown                    |
 | **O Grande Sol de Mercúrio** (1)<br />![](.//docs/hemus_o_grande_sol_de_mercurio.jpg) | The End of Eternity (Fawcett, 1971)<br />![](./docs/the_end_of_eternity.jpg) | Paul Lehr                  |
 | **O Homem Bicentenário**<br />![](./docs/hemus_o_homem_bicentenario.jpg) | Omni Magazine - Maio 1980<br />![](./docs/omni_may_1980.jpg) | Richard Cohen              |
