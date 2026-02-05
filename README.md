@@ -129,11 +129,11 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | Nós Robôs<br />![](./docs/hemus_nos_robos.jpg)               | Time and Again (Ace, 1976)<br />![](./docs/time_and_again.jpg) | Michael Whelan             |
 | **Nós, os Marcianos**<br />![](./docs/hemus_nos_os_marcianos.jpg) | The Asutra (Dell, 1974)<br />![](./docs/the_asutra.jpg)      | Paul Lehr                  |
 | **O Cair da Noite**<br />![](./docs/hemus_o_cair_da_noite.jpg) | Through a Glass Clearly (New English Library, 1978)<br />![](./docs/through_a_glass_clearly.jpg) | Tim White                  |
-| **O Futuro Começou**<br />![](./docs/hemus_o_futuro_comecou.jpg) | I, Robot (Panther, 1969)<br />![](./docs/i_robot_ii.jpg)     |                            |
+| **O Futuro Começou**<br />![](./docs/hemus_o_futuro_comecou.jpg) | I, Robot (Panther, 1969)<br />![](./docs/i_robot_ii.jpg)     | Unknown                    |
 | **O Grande Sol de Mercúrio** (1)<br />![](.//docs/hemus_o_grande_sol_de_mercurio.jpg) | The End of Eternity (Fawcett, 1971)<br />![](./docs/the_end_of_eternity.jpg) | Paul Lehr                  |
 | **O Homem Bicentenário**<br />![](./docs/hemus_o_homem_bicentenario.jpg) | Omni Magazine - Maio 1980<br />![](./docs/omni_may_1980.jpg) | Richard Cohen              |
 | **O Robô de Júpiter**<br />![](./docs/hemus_o_robo_de_jupiter.jpg) | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) | John Berney                |
-| **Os Anéis de Saturno**<br />![]()                           |                                                              |                            |
+| **Os Anéis de Saturno**<br />![](./docs/hemus_os_aneis_de_saturno.jpg) |                                                              | Unknown                    |
 | **Os Oceanos de Vênus**<br />![](./docs/hemus_os_oceanos_de_venus.jpg) | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) | Don Maitz                  |
 | **Os Robôs**<br />![](./docs/hemus_os_robos.jpg)             | Arte Original, 1974<br />![](./docs/os_robos.jpg)            | Décio Guedes               |
 | **Para Onde Vamos?**<br />![](./docs/hemus_para_onde_vamos.jpg) | The Three Stigmata of Palmer Eldritch (MacFadden, 1966)<br />![](./docs/the_three_stigmata_of_palmer_edritch.jpg) | Jack Faragasso             |
@@ -156,6 +156,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **Boneca do Destino**<br />![](./docs/hemus_boneca_do_destino.jpg) | We Who Are About To (Dell, 1977)<br />![](./docs/we_who_are_about_to.jpg) | (Artista não identificado) |
 | **Cei, o Gigante**<br />![](./docs/hemus_cei_o_gigante.jpg)  | The Best of Philip K Dick (Ballantine, 1977)<br />![](./docs/the_best_of_philip_k_dick.jpg) | Vincent DiFate             |
 | **Venus Mais X**<br />![](./docs/hemus_venus_mais_x.jpg)     | Earth is Room Enough (Fawcett, 1970)<br />![](./docs/earth_is_room_enough.jpg) | Paul Lehr                  |
+| **Exilado no Espaço**<br />![](./docs/hemus_exilado_no_espaco.png) |                                                              | Illegible                  |
 | **A Galáxia Estranha**<br />![](./docs/hemus_a_galaxia_estranha.png) | Space, Time and Nathaniel (New English Library, 1971)<br />![](./docs/space_time_nathaniel.jpg) | Bruce Pennington           |
 
 ## Andamento do projeto
@@ -184,7 +185,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Despertar dos Deuses**           | 272     | ✅          | ✅    | ✅    |      |          |
 | **Fim da Eternidade**              | 248     | ✅          | ✅    | ✅    |      |          |
 | Fundação                           | 503     |            |      |      |      |          |
-| **Fundação II**                    | 372     | ✅          | ✅    |      |      |          |
+| **Fundação II**                    | 372     | ✅          | ✅    | ✅    |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 148      |
 | **Nós Robôs**                      | 559     | ✅          | ✅    | ✅    |      |          |
 | **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 107      |
@@ -193,7 +194,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅    | ✅    |      |          |
 | **O Homem Bicentenário**           | 238     | ✅          | ✅    | ✅    | ✅    | 124      |
 | **O Robô de Júpiter**              | 142     | ✅          | ✅    | ✅    |      |          |
-| **Os Anéis de Saturno**            | 187     | ✅          | ✅    |      |      |          |
+| **Os Anéis de Saturno**            | 187     | ✅          | ✅    | ✅    |      |          |
 | **Os Oceanos de Vênus**            | 190     | ✅          | ✅    | ✅    |      |          |
 | **Os Robôs**                       | 264     | ✅          | ✅    | ✅    |      |          |
 | **Para Onde Vamos?**               | 374     | ✅          | ✅    | ✅    |      |          |
@@ -213,9 +214,9 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **O Terror Rithiano**              | 124     | ✅          | ✅    | ✅    |      |          |
 | **Os Cérebros Prateados**          | 220     | ✅          | ✅    | ✅    |      |          |
 | **Nave Escrava**                   | 168     | ✅          | ✅    | ✅    | ✅    |          |
-| **Boneca do Destino**              | 214     | ✅          |      |      |      |          |
+| **Boneca do Destino**              | 214     | ✅          | ✅    |      |      |          |
 | **Cei, o Gigante**                 | 210     | ✅          | ✅    | ✅    |      |          |
 | **Venus Mais X**                   | 178     | ✅          | ✅    | ✅    |      |          |
-| **A Galáxia Estranha**             | 109     | ✅          | ✅    | ✅    |      |          |
+| **A Galáxia Estranha**             | 109     | ✅          | ✅    | ✅    | 74   |          |
 | **Exilado do Espaço**              | 126     | ✅          | ✅    | ✅    |      |          |
 
