@@ -29,7 +29,9 @@ No mesmo parágrafo, falando da gravidade, temos "Ela era de cerca 1 a 1/10 da n
 
 ### Capítulo V, página 28
 
-Temos o nome da nave, que aparece enfatizado no primeiro parágrafo "Space Greyhound" ou "Galgo do Espaço" - talvez inspirado na nave "Space Beagle" de A. E. van Vogt no livro *The Voyage of the Space Beagle*, que por sua vez acabou inspirando *Alien, o oitavo passageiro*. No terceiro parágrafo, foi feita uma tradução do nome para "Greyhound do Espaço" e não foi enfatizado. Para ser consistente, será substituído por "Space Greyhound".
+Temos o nome da nave, que aparece enfatizado no primeiro parágrafo "Space Greyhound" ou "Galgo do Espaço" - talvez inspirado na nave "Space Beagle" de A. E. van Vogt no livro *The Voyage of the Space Beagle*, que por também acabou inspirando *Alien, o oitavo passageiro*.
+
+No terceiro parágrafo, foi feita uma tradução do nome para "Greyhound do Espaço". Para ser consistente, foi substituído por "Space Greyhound".
 
 ### Capítulo V, pagina 33
 
