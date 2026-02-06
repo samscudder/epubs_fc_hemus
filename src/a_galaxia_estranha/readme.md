@@ -7,13 +7,13 @@ Considerado por muitos como sendo o pior livro de ficção científica já escri
 * https://www.youtube.com/watch?v=GqPyWvZ4vxM
 * https://www.youtube.com/watch?v=3QfyUqwfYuU
 
-Também na página original, informa que a capa foi criada pela "Equipe Hemus", quando na verdade foi aproveitada a pintura de Bruce Pennington usado na capa do livro *Space, Time and Nathaniel* de Brian Aldiss (New English Library, 1971), e também na capa da antologia Alpha 4 editada por Robert Silverberg (Ballantine Books, 1973).
+Também na página copyright da versão em português, informa que a capa foi criada pela "Equipe Hemus", quando na verdade foi aproveitada a pintura de Bruce Pennington usado na capa do livro *Space, Time and Nathaniel* de Brian Aldiss (New English Library, 1971), também usado na capa da antologia *Alpha 4* editada por Robert Silverberg (Ballantine Books, 1973).
 
 ## Diferenças entre a versão original e a nacional
 
 A versão em inglês do livro é composto de 18 capítulos, enquanto a nacional possui somente 14. Os primeiros 11 capítulos são fieis ao original, com pequenas omissões, mas do 12º em diante, temos uma completa alteração da obra. O capítulo 12 do original se transforma nos 4 primeiros parágrafos do capítulo 12, que depois pula os primeiros 3 paragrafos do capítulo 13 e segue até as primeiras duas frases do último parágrafo. Os capítulos 14, 15, 16 e 17 foram completamente omitidos da versão em português. O capítulo 13 é o capítulo 18 do original, e o capítulo 14 é o capítulo 19 do original.
 
-Estou tentando encontrar uma primeira edição do livro em inglês para confirmar se este conteúdo foi adicionado na segunda edição que eu tenho.
+Estou tentando encontrar uma primeira edição do livro em inglês para confirmar se este conteúdo foi adicionado após a tradução, na segunda edição do livro em inglês.
 
 ## Itálicos x Negrito
 
@@ -23,13 +23,13 @@ Na composição do livro pela Hemus foi usado **negrito** para realçar palavras
 
 ### Capítulo III, Página 17
 
-No texto original temos "... maybe 18 or 20,000 miles in diameter." que foi traduzido para "com cerca de 8 a 15.000 quilômetros de diâmetro." Na verdade seria de 29 a 32.000 quilômetros de diâmetro.
+No texto original temos "... maybe 18 or 20,000 miles in diameter." que foi traduzido para "com cerca de 8 a 15.000 quilômetros de diâmetro." Na verdade seria "de 29 a 32.000 quilômetros de diâmetro".
 
-No mesmo parágrafo temos "Ela era de cerca 1 a 1/10 da normal.", falando da gravidade. Foi corrigido para o correto "1 e 1/10".
+No mesmo parágrafo, falando da gravidade, temos "Ela era de cerca 1 a 1/10 da normal.". Foi corrigido para o correto "1 e 1/10".
 
 ### Capítulo V, página 28
 
-Temos o nome da nave, que aparece enfatizado no primeiro parágrafo "Space Greyhound" ou "Galgo do Espaço" - talvez inspirado no "Space Beagle" de A. E. van Vogt, que acabou inspirando *Alien, o oitravo passageiro*. No terceiro parágrafo, foi feita uma tradução do nome para "Greyhound do Espaço". Para ser consistente, será substituído por "Space Greyhound".
+Temos o nome da nave, que aparece enfatizado no primeiro parágrafo "Space Greyhound" ou "Galgo do Espaço" - talvez inspirado na nave "Space Beagle" de A. E. van Vogt no livro *The Voyage of the Space Beagle*, que por sua vez acabou inspirando *Alien, o oitavo passageiro*. No terceiro parágrafo, foi feita uma tradução do nome para "Greyhound do Espaço" e não foi enfatizado. Para ser consistente, será substituído por "Space Greyhound".
 
 ### Capítulo V, pagina 33
 
@@ -63,7 +63,7 @@ Em portugues temos apenas
 >
 > O capitão abriu os olhos.
 
-Faltando as frases
+Faltando as frases abaixo entre esses parágrafos:
 
 > — Roque pelo lado da dama.
 >
@@ -88,6 +88,10 @@ No original temos:
 > “There are many worse things in the universe than 19th and 20th century earth religious sentiments,” said Korzaak almost angrily.
 
 Então o terceiro parágrafo deveria ser o começo do segundo parágrafo.
+
+> — Pois bem, um deles era sob notação musical no século XX, acho que era uma peça musical; minha memória falha nesse ponto. Havia qualquer coisa sobre "o eco harmonioso em uma vida contraditória”. Era um pouco do sentimento religioso do século XX.
+>
+> — Há coisas muito piores no universo do que os sentimentos religiosos da Terra nos séculos IXX e XX — disse Korzaak, quase com raiva.
 
 ### Capítulo X, página 76
 
