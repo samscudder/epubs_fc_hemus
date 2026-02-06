@@ -169,7 +169,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | ----------- | --------- | ----- |
 | Páginas     | 10138     | 100,0 |
 | Localizado  | 9923      | 97,9  |
-| Scaneadas   | 7588      | 74,8  |
+| Scaneadas   | 8244      | 81,3  |
 | Convertidas | 1796      | 17,7  |
 | Revisadas   | 726       | 7,2   |
 
@@ -201,20 +201,20 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Vigilante das Estrelas**         | 162     | ✅          | ✅    | ✅    |      |          |
 | **Essas Estrelas São Nossas**      | 197     | ✅          |      |      |      |          |
 | **Guerra dos Homens Alados**       | 224     | ✅          |      |      |      |          |
-| **Luz de Outra Dimensão**          | 228     | ✅          |      |      |      |          |
+| **Luz de Outra Dimensão**          | 228     | ✅          | ✅    |      |      |          |
 | **250 Séculos Após...**            | 136     | ✅          | ✅    | ✅    |      |          |
 | A Cidade Perdida de Marte          | 218     |            |      |      |      |          |
 | **E de Espaço**                    | 202     | ✅          | ✅    | ✅    |      |          |
 | **F de Foguete**                   | 210     | ✅          | ✅    | ✅    |      |          |
 | **O Terceiro Planeta**             | 286     | ✅          | ✅    | ✅    |      |          |
-| **A Humanidade Artificial**        | 214     | ✅          |      |      |      |          |
+| **A Humanidade Artificial**        | 214     | ✅          | ✅    | ✅    |      |          |
 | **Cavalo-Marinho no Céu**          | 222     | ✅          | ✅    | ✅    |      |          |
 | **O Diabólico Cérebro Eletrônico** | 282     | ✅          |      |      |      |          |
 | **Os Homens Moleculares**          | 286     | ✅          | ✅    | ✅    | ✅    |          |
 | **O Terror Rithiano**              | 124     | ✅          | ✅    | ✅    |      |          |
 | **Os Cérebros Prateados**          | 220     | ✅          | ✅    | ✅    |      |          |
 | **Nave Escrava**                   | 168     | ✅          | ✅    | ✅    | ✅    |          |
-| **Boneca do Destino**              | 214     | ✅          | ✅    |      |      |          |
+| **Boneca do Destino**              | 214     | ✅          | ✅    | ✅    |      |          |
 | **Cei, o Gigante**                 | 210     | ✅          | ✅    | ✅    |      |          |
 | **Venus Mais X**                   | 178     | ✅          | ✅    | ✅    |      |          |
 | **A Galáxia Estranha**             | 109     | ✅          | ✅    | ✅    | 74   |          |
