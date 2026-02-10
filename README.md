@@ -133,10 +133,11 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **O Grande Sol de Mercúrio** (1)<br />![](.//docs/hemus_o_grande_sol_de_mercurio.jpg) | The End of Eternity (Fawcett, 1971)<br />![](./docs/the_end_of_eternity.jpg) | Paul Lehr                  |
 | **O Homem Bicentenário**<br />![](./docs/hemus_o_homem_bicentenario.jpg) | Omni Magazine - Maio 1980<br />![](./docs/omni_may_1980.jpg) | Richard Cohen              |
 | **O Robô de Júpiter**<br />![](./docs/hemus_o_robo_de_jupiter.jpg) | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) | John Berney                |
-| **Os Anéis de Saturno**<br />![](./docs/hemus_os_aneis_de_saturno.jpg) | A View From a Height (Avon, 1975) <br />![](./docs/view_from_a_height.jpg)<br />(Thanks to Johan!) | Dean Ellis                 |
+| **Os Anéis de Saturno**<br />![](./docs/hemus_os_aneis_de_saturno.jpg) | View From a Height (Avon, 1975) <br />![](./docs/view_from_a_height.jpg)<br />(Thanks to Johan!) | Dean Ellis                 |
 | Os Anéis de Saturno<br />![](./docs/hemus_os_aneis_de_saturno2.jpg) | Lucky Starr and the Rings of Saturn (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_rings_of_saturn.jpg) | Don Maitz                  |
 | **Os Oceanos de Vênus**<br />![](./docs/hemus_os_oceanos_de_venus.jpg) | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) | Don Maitz                  |
 | **Os Robôs**<br />![](./docs/hemus_os_robos.jpg)             | Arte Original, 1974<br />![](./docs/os_robos.jpg)            | Décio Guedes               |
+| Os Robôs<br />![](./docs/hemus_os_robos2.jpg)                | Arte Original (contra-capa), 1974<br />![](./docs/os_robos2.jpg) | Décio Guedes               |
 | **Para Onde Vamos?**<br />![](./docs/hemus_para_onde_vamos.jpg) | The Three Stigmata of Palmer Eldritch (MacFadden, 1966)<br />![](./docs/the_three_stigmata_of_palmer_edritch.jpg) | Jack Faragasso             |
 | **Vigilante das Estrelas**<br />![](./docs/hemus_vigilante_das_estrelas.jpg) | Buy Jupiter (Panther, 1975)<br />![](./docs/buy_jupiter.jpg) | Peter Andrew Jones         |
 | **Essas Estrelas São Nossas**<br />![](./docs/hemus_essas_estrelas_sao_nossas.jpg) | Analog Science Fiction - Abril 1977<br />![](./docs/analog_april_77.jpg) | Vincent DiFate             |
