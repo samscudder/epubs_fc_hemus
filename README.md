@@ -123,7 +123,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **Caça aos Robôs**<br />![](./docs/hemus_caca_aos_robos.jpg) | I, Robot (Fawcett, 1970)<br />![](./docs/i_robot.jpg)        | John Berkey                |
 | **Despertar dos Deuses**<br />![](./docs/hemus_despertar_dos_deuses.jpg) | The Best of Isaac Asimov (Fawcett, 1976)<br />![](./docs/the_best_of_isaac_asimov.jpg) | (Artista não identificado) |
 | **Fim da Eternidade**<br />![](./docs/hemus_fim_da_eternidade.jpg) | Foundation and Empire (Panther, 1973)<br />![](./docs/foundation_and_empire.jpg) | Chris Foss                 |
-| Fundação                                                     | The Stars Like Dust (Fawcett, 1972)<br />![](./docs/the_stars_like_dust.jpg) | Paul Lehr                  |
+| Fundação<br />![](./docs/hemus_fundacao.jpg)                 | The Stars Like Dust (Fawcett, 1972)<br />![](./docs/the_stars_like_dust.jpg) | Paul Lehr                  |
 | **Fundação II**<br />![](./docs/hemus_fundacao_ii.jpg)       | Omni Magazine - Outubro 1982<br />![](./docs/omni_october_1982.jpg) | Dickran Palulian           |
 | **Júpiter à Venda**<br />![](./docs/hemus_jupiter_a_venda.jpg) | The Best of Trek (Signet, 1978)<br />![](./docs/the_best_of_trek.jpg) | Eddie Jones                |
 | Nós Robôs<br />![](./docs/hemus_nos_robos.jpg)               | Time and Again (Ace, 1976)<br />![](./docs/time_and_again.jpg) | Michael Whelan             |
@@ -133,7 +133,8 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **O Grande Sol de Mercúrio** (1)<br />![](.//docs/hemus_o_grande_sol_de_mercurio.jpg) | The End of Eternity (Fawcett, 1971)<br />![](./docs/the_end_of_eternity.jpg) | Paul Lehr                  |
 | **O Homem Bicentenário**<br />![](./docs/hemus_o_homem_bicentenario.jpg) | Omni Magazine - Maio 1980<br />![](./docs/omni_may_1980.jpg) | Richard Cohen              |
 | **O Robô de Júpiter**<br />![](./docs/hemus_o_robo_de_jupiter.jpg) | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) | John Berney                |
-| **Os Anéis de Saturno**<br />![](./docs/hemus_os_aneis_de_saturno.jpg) |                                                              | Unknown                    |
+| **Os Anéis de Saturno**<br />![](./docs/hemus_os_aneis_de_saturno.jpg) | A View From a Height (Avon, 1975) <br />![](./docs/view_from_a_height.jpg)<br />(Thanks to Johan!) | Dean Ellis                 |
+| Os Anéis de Saturno<br />![](./docs/hemus_os_aneis_de_saturno2.jpg) | Lucky Starr and the Rings of Saturn (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_rings_of_saturn.jpg) | Don Maitz                  |
 | **Os Oceanos de Vênus**<br />![](./docs/hemus_os_oceanos_de_venus.jpg) | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) | Don Maitz                  |
 | **Os Robôs**<br />![](./docs/hemus_os_robos.jpg)             | Arte Original, 1974<br />![](./docs/os_robos.jpg)            | Décio Guedes               |
 | **Para Onde Vamos?**<br />![](./docs/hemus_para_onde_vamos.jpg) | The Three Stigmata of Palmer Eldritch (MacFadden, 1966)<br />![](./docs/the_three_stigmata_of_palmer_edritch.jpg) | Jack Faragasso             |
@@ -188,7 +189,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Fundação II**                    | 372     | ✅          | ✅    | ✅    |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 148      |
 | **Nós Robôs**                      | 559     | ✅          | ✅    | ✅    |      |          |
-| **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 107      |
+| **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 134      |
 | **O Cair da Noite**                | 378     | ✅          | ✅    | ✅    | ✅    | 347      |
 | **O Futuro Começou**               | 470     | ✅          |      |      |      |          |
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅    | ✅    |      |          |
@@ -217,6 +218,6 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Boneca do Destino**              | 214     | ✅          | ✅    | ✅    |      |          |
 | **Cei, o Gigante**                 | 210     | ✅          | ✅    | ✅    |      |          |
 | **Venus Mais X**                   | 178     | ✅          | ✅    | ✅    |      |          |
-| **A Galáxia Estranha**             | 109     | ✅          | ✅    | ✅    | 74   |          |
+| **A Galáxia Estranha**             | 109     | ✅          | ✅    | ✅    | 87   |          |
 | **Exilado do Espaço**              | 126     | ✅          | ✅    | ✅    |      |          |
 

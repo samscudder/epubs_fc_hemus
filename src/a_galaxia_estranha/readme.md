@@ -11,7 +11,7 @@ Também na página copyright da versão em português, informa que a capa foi cr
 
 ## Diferenças entre a versão original e a nacional
 
-A versão em inglês do livro é composto de 18 capítulos, enquanto a nacional possui somente 14. Os primeiros 11 capítulos são fieis ao original, com pequenas omissões, mas do 12º em diante, temos uma completa alteração da obra. O capítulo 12 do original se transforma nos 4 primeiros parágrafos do capítulo 12, que depois pula os primeiros 3 paragrafos do capítulo 13 e segue até as primeiras duas frases do último parágrafo. Os capítulos 14, 15, 16 e 17 foram completamente omitidos da versão em português. O capítulo 13 é o capítulo 18 do original, e o capítulo 14 é o capítulo 19 do original.
+A versão em inglês do livro é composto de 19 capítulos, enquanto a nacional possui somente 14. Os primeiros 11 capítulos são fieis ao original, com pequenas omissões, mas do 12º em diante, temos uma completa alteração da obra. O capítulo 12 do original se transforma nos 4 primeiros parágrafos do capítulo 12, que depois pula os primeiros 3 paragrafos do capítulo 13 e segue até as primeiras duas frases do último parágrafo. Os capítulos 14, 15, 16 e 17 foram completamente omitidos da versão em português. O capítulo 13 é o capítulo 18 do original, e o capítulo 14 é o capítulo 19 do original.
 
 Estou tentando encontrar uma primeira edição do livro em inglês para confirmar se este conteúdo foi adicionado após a tradução, na segunda edição do livro em inglês.
 
