@@ -48,7 +48,7 @@ O parágrafo no meio deveria começar com “ e como é o ultimo parágrafo da f
 
 Estes sinais foram adicionados de acordo com o texto do original em inglês, nas seguintes páginas da edição em português:
 
-18, 19, 20, 34, 36, 37, 38, 39, 40, 41, 70, 177, 178, 179, 203, 211
+18, 19, 20, 34, 36, 37, 38, 39, 40, 41, 70, 171, 177, 178, 179, 203, 211
 
 ### Nós, os Marcianos..., Capítulo 5 (página 38)
 
@@ -119,6 +119,22 @@ No original em inglês temos este parágrafo:
 ### Mocidade, Capítulo 13 (página 121)
 
 Encontramos a mesma situação, onde "rocket blast" foi traduzido como "explosão dos mísseis", quando o mais correto seria "exaustão dos foguetes".
+
+### Nas Profundeza, Capítulo 5 (página 142)
+
+No segundo parágrafo, a palavra "em" está repetido.
+
+### Nas Profundezas, Capítulo 5 (página 148)
+
+O segundo parágrafo, falta uma palavra "se" para manter o sentido do original. Deveria ser:
+
+> Mais uma mente se aproximou de seu hospedeiro. Ficou tão irritado que **se** possuísse uma força física ou se seu hospedeiro estivesse em condições de fazê-lo, teria afastado aquela mente com um murro.
+
+### A Armadilha, Capítulo 3 (página 165)
+
+No quarto parágrafo, ainda foi mantido as aspas da fala do capitão do texto original. Convertido em travessão.
+
+
 
 
 

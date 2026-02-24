@@ -173,7 +173,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | Localizado  | 9923      | 97,9  |
 | Scaneadas   | 8244      | 81,3  |
 | Convertidas | 1796      | 17,7  |
-| Revisadas   | 726       | 7,2   |
+| Revisadas   | 801       | 7,9   |
 
 ### Detalhado
 
@@ -190,7 +190,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Fundação II**                    | 372     | ✅          | ✅    | ✅    |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 148      |
 | **Nós Robôs**                      | 559     | ✅          | ✅    | ✅    |      |          |
-| **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 134      |
+| **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 182      |
 | **O Cair da Noite**                | 378     | ✅          | ✅    | ✅    | ✅    | 347      |
 | **O Futuro Começou**               | 470     | ✅          |      |      |      |          |
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅    | ✅    |      |          |
