@@ -133,7 +133,7 @@ Em várias das reedições, ainda consta o nome do artista da versão original n
 | **O Grande Sol de Mercúrio** (1)<br />![](.//docs/hemus_o_grande_sol_de_mercurio.jpg) | The End of Eternity (Fawcett, 1971)<br />![](./docs/the_end_of_eternity.jpg) | Paul Lehr                  |
 | **O Homem Bicentenário**<br />![](./docs/hemus_o_homem_bicentenario.jpg) | Omni Magazine - Maio 1980<br />![](./docs/omni_may_1980.jpg) | Richard Cohen              |
 | **O Robô de Júpiter**<br />![](./docs/hemus_o_robo_de_jupiter.jpg) | Lucky Starr and the Moons of Jupiter (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_moons_of_jupiter.jpg) | John Berney                |
-| **Os Anéis de Saturno**<br />![](./docs/hemus_os_aneis_de_saturno.jpg) | View From a Height (Avon, 1975) <br />![](./docs/view_from_a_height.jpg)<br />(Thanks to Johan!) | Dean Ellis                 |
+| **Os Anéis de Saturno**<br />![](./docs/hemus_os_aneis_de_saturno.jpg) | View From a Height (Avon, 1975) <br />![](./docs/view_from_a_height.jpg)<br />(Agradecimentos a Johan!) | Dean Ellis                 |
 | Os Anéis de Saturno<br />![](./docs/hemus_os_aneis_de_saturno2.jpg) | Lucky Starr and the Rings of Saturn (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_rings_of_saturn.jpg) | Don Maitz                  |
 | **Os Oceanos de Vênus**<br />![](./docs/hemus_os_oceanos_de_venus.jpg) | Lucky Starr and the Oceans of Venus (Fawcett, 1978)<br />![](./docs/lucky_starr_and_the_oceans_of_venus.jpg) | Don Maitz                  |
 | **Os Robôs**<br />![](./docs/hemus_os_robos.jpg)             | Arte Original, 1974<br />![](./docs/os_robos.jpg)            | Décio Guedes               |
@@ -173,7 +173,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | Localizado  | 9923      | 97,9  |
 | Scaneadas   | 8244      | 81,3  |
 | Convertidas | 1796      | 17,7  |
-| Revisadas   | 801       | 7,9   |
+| Revisadas   | 875       | 8,6   |
 
 ### Detalhado
 
@@ -190,7 +190,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Fundação II**                    | 372     | ✅          | ✅    | ✅    |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 148      |
 | **Nós Robôs**                      | 559     | ✅          | ✅    | ✅    |      |          |
-| **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | 182      |
+| **Nós, os Marcianos**              | 256     | ✅          | ✅    | ✅    | ✅    | ✅        |
 | **O Cair da Noite**                | 378     | ✅          | ✅    | ✅    | ✅    | 347      |
 | **O Futuro Começou**               | 470     | ✅          |      |      |      |          |
 | **O Grande Sol de Mercúrio**       | 193     | ✅          | ✅    | ✅    |      |          |

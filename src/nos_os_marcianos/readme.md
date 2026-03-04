@@ -22,7 +22,7 @@ Algumas palavras foram conferidas com o original em inglês para validar o signi
 
 * **Consiente** foi corrigido para **consciente** na página 183.
 
-* **Ehi** foi corrigido para **ei** nas páginas 27, 45, 73, 100, 112 e 233.
+* **Ehi** foi corrigido para **ei** nas páginas 27, 45, 69, 73, 100, 112 e 233.
 
 * **Concertá-la** foi corrigido para **consertá-la** na página 88.
 
@@ -48,7 +48,7 @@ O parágrafo no meio deveria começar com “ e como é o ultimo parágrafo da f
 
 Estes sinais foram adicionados de acordo com o texto do original em inglês, nas seguintes páginas da edição em português:
 
-18, 19, 20, 34, 36, 37, 38, 39, 40, 41, 70, 171, 177, 178, 179, 203, 211
+18, 19, 20, 34, 36, 37, 38, 39, 40, 41, 70, 171, 177, 178, 179, 194, 203 e 211
 
 ### Nós, os Marcianos..., Capítulo 5 (página 38)
 
@@ -96,10 +96,6 @@ Faz mais sentido usar "desacelerando" no lugar de "desacelerado".
 
 Falta uma quebra de parágrafo no final de uma fala.
 
-### Nós, os Marcianos..., Capítulo 11 (página 69)
-
-No texto está escrito "Ehi!", que deveria ser "Ei!".
-
 ### Mocidade, Capítulo3 (página 89)
 
 No parágrafo:
@@ -134,9 +130,33 @@ O segundo parágrafo, falta uma palavra "se" para manter o sentido do original. 
 
 No quarto parágrafo, ainda foi mantido as aspas da fala do capitão do texto original. Convertido em travessão.
 
+### A Armadilha, Capítulo 6 (página 183)
 
+Na segunda linha, o nome da nave não estavam em itálicos. Corrigido.
 
+### A Armadilha, Capítulo 7 (página 186)
 
+Falta uma letra "o" na palavra "como":
+
+>  *...estabelecimento do Serviço Mnemônico com**o** uma divisão...*
+
+### A Armadilha, Capítulo 8 (página 192)
+
+A última frase "Só faltava aterrar" está usando o verbo incorreto, visto que não é na Terra, mas em Júnior. Corrigido para "pousar".
+
+### A Armadilha, Capítulo 18 (página 222)
+
+A frase "Você acredita saber tudo a respeito do Universo, enquanto eu sei apenas que uma estrela é um corpo celeste que pisca e um ano-luz é um período de tempo muito longo." incorretamente assume que ano-luz é uma medida de tempo. No original temos:
+
+> You know all about that makes the Universe tick and I’m lost completely except that I know that is star is something that twinkles and a light-year is something that’s long.
+
+O correto seria "... e um ano-luz é algo muito longo."
+
+### A Armadilha, Capítulo 19 (página 228)
+
+Faltou um "se":
+
+> ... Pensei que **se** você me visse, me mandaria embora.
 
 ## Termos incorretos
 
@@ -144,5 +164,20 @@ Em alguns lugares temos termos incorretos, mas que foram mantidas no texto.
 
 * “Capas polares” no lugar de “calotas polares”
 
+## Parágrafos ausentes
 
+Na página 227 faltou na tradução 2 parágrafos entre esses:
 
+> ... os cabos só se dobravam com muita dificuldade e que não era possível quebrá-los. Seu canivete ficou sem gume.
+>
+> Todos os insetos possuíam duas asas, e as asas pareciam ter plumas....
+
+O texto completo seria:
+
+> ... os cabos só se dobravam com muita dificuldade e que não era possível quebrá-los. Seu canivete ficou sem gume e nem arranhava o cabo.
+>
+> Os colonos originais, para limpar o terreno, obviamente tiveram que desenterrar a árvore, com raiz e tudo.
+>
+> Comparado com a Terra, a floresta tinha pouca vida animal. Isto poderia ter sido causado pela matança glacial. Fawkes não sabia.
+>
+> Todos os insetos possuíam duas asas, e as asas pareciam ter plumas....

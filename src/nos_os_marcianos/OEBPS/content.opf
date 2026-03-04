@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:title>Nós, os Marcianos</dc:title>
-		<dc:identifier id="bookid">hemus_nos_os_marcianos_v002</dc:identifier>
+		<dc:identifier id="bookid">hemus_nos_os_marcianos_v003</dc:identifier>
 		<dc:creator>Isaac Asimov</dc:creator>
 		<dc:publisher>Hemus</dc:publisher>
 		<dc:language>pt-br</dc:language>
@@ -26,6 +26,7 @@
 		<item id="mocidade" href="mocidade.xhtml" media-type="application/xhtml+xml"/>
 		<item id="nas_profundezas" href="nas_profundezas.xhtml" media-type="application/xhtml+xml"/>
 		<item id="a_armadilha" href="a_armadilha.xhtml" media-type="application/xhtml+xml"/>
+		<item id="fim" href="fim.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="cover" linear="no"/>
@@ -39,6 +40,7 @@
 		<itemref idref="mocidade"/>
 		<itemref idref="nas_profundezas"/>
 		<itemref idref="a_armadilha"/>
+		<itemref idref="fim"/>
 	</spine>
 	<guide>
 		<reference type="cover" title="Cover" href="cover.xhtml"/>
