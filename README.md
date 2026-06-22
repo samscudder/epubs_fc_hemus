@@ -87,7 +87,7 @@ Aqui está uma relação dos livros da série FC Hemus em ordem alfabética por 
 | **Guerra dos Homens Alados**                          | War of the Wing-Men (1958)                          | Poul Anderson         |                                                            |
 | **Luz de Outra Dimensão**                             | The Light That Never Was (1972)                     | Lloyd Biggle Jr.      | - Maria Judith Martins                                     |
 | **250 Séculos Após...**                               | Midsummer Century (1972)                            | James Blish           | - Attílio Cancian                                          |
-| A Cidade Perdida de Marte                             | I Sing the Body Electric (1969)                     | Ray Bradbury          |                                                            |
+| **A Cidade Perdida de Marte**                         | I Sing the Body Electric (1969)                     | Ray Bradbury          | - Affonso Blacheyre                                        |
 | **E de Espaço**                                       | S is for Space (1966)                               | Ray Bradbury          |                                                            |
 | **F de  Foguete**                                     | R is for Rocket (1962)                              | Ray Bradbury          | Norberto de Paula Lima                                     |
 | **O Terceiro Planeta**                                | Report on Planet Three (1972)                       | Arthur C. Clarke      | - Attílio Cancian                                          |
@@ -170,8 +170,8 @@ Vou atualizando este documento conforme as atividades são executadas.
 | Etapa       | Realizado | %     |
 | ----------- | --------- | ----- |
 | Páginas     | 10138     | 100,0 |
-| Localizado  | 9923      | 97,9  |
-| Scaneadas   | 8244      | 81,3  |
+| Localizado  | 10138     | 100,0 |
+| Scaneadas   | 8747      | 86,3  |
 | Convertidas | 1796      | 17,7  |
 | Revisadas   | 875       | 8,6   |
 
@@ -186,7 +186,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Caça aos Robôs**                 | 296     | ✅          | ✅    | ✅    |      |          |
 | **Despertar dos Deuses**           | 272     | ✅          | ✅    | ✅    |      |          |
 | **Fim da Eternidade**              | 248     | ✅          | ✅    | ✅    |      |          |
-| Fundação                           | 503     |            |      |      |      |          |
+| **Fundação**                       | 503     | ✅          | ✅    | ✅    |      |          |
 | **Fundação II**                    | 372     | ✅          | ✅    | ✅    |      |          |
 | **Júpiter à Venda**                | 236     | ✅          | ✅    | ✅    | ✅    | 148      |
 | **Nós Robôs**                      | 559     | ✅          | ✅    | ✅    |      |          |
@@ -205,7 +205,7 @@ Vou atualizando este documento conforme as atividades são executadas.
 | **Guerra dos Homens Alados**       | 224     | ✅          |      |      |      |          |
 | **Luz de Outra Dimensão**          | 228     | ✅          | ✅    |      |      |          |
 | **250 Séculos Após...**            | 136     | ✅          | ✅    | ✅    |      |          |
-| A Cidade Perdida de Marte          | 218     |            |      |      |      |          |
+| **A Cidade Perdida de Marte**      | 218     | ✅          |      |      |      |          |
 | **E de Espaço**                    | 202     | ✅          | ✅    | ✅    |      |          |
 | **F de Foguete**                   | 210     | ✅          | ✅    | ✅    |      |          |
 | **O Terceiro Planeta**             | 286     | ✅          | ✅    | ✅    |      |          |

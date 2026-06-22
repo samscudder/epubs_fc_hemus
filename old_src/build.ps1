@@ -84,8 +84,10 @@ $folders = @(
 )
 
 $folders = @(
+    "a_galaxia_estranha",
     "nos_os_marcianos",
-    "jupiter_a_venda"
+    "jupiter_a_venda",
+    "o_cair_da_noite"
 )
 
 foreach ($folder in $folders) {
